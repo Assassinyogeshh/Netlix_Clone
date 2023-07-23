@@ -183,15 +183,28 @@ body {
 }
 
 
+a {
+    text-decoration: none;
+    color:inherit;
 
-
-.btn2 {
+    /* height: 100%; */
     background-color: red;
     color: white;
     cursor: pointer;
     width: 15rem;
-    font-size: 15px;
     margin-left: 10px;
+   position: relative;
+}
+
+
+.btn3 {
+  background: none;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  color: white;
+  font-size: 15px;
+
 }
 
 
