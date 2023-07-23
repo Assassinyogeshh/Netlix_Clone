@@ -186,16 +186,18 @@ body {
 a {
     text-decoration: none;
     color:inherit;
-
-    /* height: 100%; */
+}
+.btn2{
+    text-decoration: none;
+    color:inherit;
     background-color: red;
+    height: 100%;
     color: white;
     cursor: pointer;
     width: 15rem;
     margin-left: 10px;
    position: relative;
 }
-
 
 .btn3 {
   background: none;
