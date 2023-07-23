@@ -74,19 +74,23 @@ loginLink.addEventListener('click', ()=>{
 
 
 
-// validLablEmail.forEach(element=>element.style.marginBottom='0')
+emailInput.forEach((valid, index) => {
+    valid.addEventListener('input', () => {
+        validLablEmail[index].style.top = '1.1rem';
+        validLablEmail[index].style.fontSize = '14px';
 
-// emailInput.forEach((valid ,index)=>{
-//     valid.addEventListener('click',()=>{
-//      if(valid.value.trim() === ''){
-//         validLablEmail[index].style.top='0'
-//         // validLablEmail[index].style.marginBottom='0'
-//      }
-//      else{
-//         validLablEmail[index].style.top='10rem'
-//      }
-//     })
-// })
+      if (valid.value.trim() === '') {
+        validLablEmail[index].style.top = '2.9rem';
+        validLablEmail[index].style.fontSize = '20px';
+      }
+      if(valid.value.trim() != ''){
+
+          validLablEmail[index].style.marginTop = '-1rem';
+          validLablEmail[index].style.fontSize = '12px';
+      }
+
+    });
+  });
 
 // const askedQuetions=document.querySelector('.asked_quetions');
 const quetions= document.querySelectorAll('.quetions')
