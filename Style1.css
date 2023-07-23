@@ -614,11 +614,7 @@ a {
 
 }
 
-a {
-    text-decoration: none;
-    color: inherit;
-    height: 100%;
-}
+
 
 @media(max-width:414px)  {
 
