@@ -567,6 +567,12 @@ footer p{
   .anime img{
     width: 5.9rem;
     }
+  
+.anime img:hover {
+  max-height: 0;
+  width: 0;
+
+}
   .anime p{
     font-size: 6px;
     font-weight: 500;
@@ -673,6 +679,12 @@ header{
 .move{
   width: 96vw;
   margin-left: 29px;
+}
+  
+.anime img:hover {
+  max-height: 0;
+  width: 0;
+
 }
 .previous-btn{
   margin-right: 27.5rem;
