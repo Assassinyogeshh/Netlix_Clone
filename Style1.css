@@ -714,11 +714,18 @@ width: 69%;
         font-size: 10px;
     }
 
+     
     .btn2 {
-        font-size: 9px;
-        width: 68px;
-        font-weight: 600;
+        text-decoration: none;
+        color: inherit;
+        width: 100%;
+     
     }
+    .btn3{
+        font-size: 10px;
+        
+    }
+    
 
     .login_page {
         margin-top: -22vh;
@@ -760,12 +767,7 @@ width: 69%;
         font-size: 14px;
     }
 
-    a {
-        text-decoration: none;
-        color: inherit;
-        width: 35%;
-        height: 100%;
-    }
+   
 
     .remember_me {
         font-size: 13px;
