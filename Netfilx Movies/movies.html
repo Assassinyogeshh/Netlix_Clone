@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Movies | Netflix Clone Site</title>
+  <meta name="MobileOptimized" content="width">
+  <meta name="HandheldFriendly" content="true">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <link rel="stylesheet" href="movies.css" />
+  <link rel="shortcut icon" type="image/x-icon" href="netflix_img/netflix_logoo3.png"/>
+</head>
+
+<body>
+  <header>
+    <!-- <a href="Netfilx Movies/movies.html">
+      <img src="../img/logo.png" alt="" />
+    </a> -->
+
+    <a href="movies.html">
+      <img src="../img/logo.png" alt="" />
+    </a>
+    
+
+    <div class="headerButton">
+      <div id="NavBtn">
+        <p>UNLIMITED TV SHOWS & MOVIES</p>
+      <button class="joinN_Btn">
+        <p>JOIN NOW</p>
+      </button>
+    </div> 
+      <button class="Sign_In">
+     <p>SIGN IN</p>
+      </button>
+    </div>
+
+  </header>
+
+  <div class="movies_container">
+
+    <div class="bg_video">
+      <button class="video_slide_back"> <img src="netflix_img/less_than.png"></button>
+
+
+      <div class="video_holder">
+
+
+        <video autoplay loop class="background_video"
+          src="Movies_Trailers/Attack on Titan   OFFICIAL English Subtitled Trailer 3.mp4">
+
+        </video>
+
+        <video loop class="background_video" src="Movies_Trailers/Black Clove Op10.mp4">
+
+        </video>
+
+        <video loop class="background_video" src="Movies_Trailers/Black Clove Op10.mp4">
+
+        </video>
+
+
+      </div>
+
+
+      <button class="video_slide_forward"><img src="netflix_img/more_than.png" /></button>
+    </div>
+
+
+    <div class="section_heading">
+
+
+
+      <div class="move">
+        <h5>Anime</h5>
+        <div class="movie_sections">
+
+          <button class="previous-btn"> <img src="netflix_img/less_than.png"> </button>
+          <div class="anime_movie_row" id="row_1" data-json_file="JSON/anime.json">
+            <ul class="move-hori">
+
+              <li class="anime" id="anime1">
+                <img src="anime_section/yakuza3.jpg" alt="" />
+                <p class="anime-name">The Yakuza's Guide to Babysitting</p>
+              </li>
+
+
+
+              <li class="anime" id="anime2">
+                <img src="anime_section/naruto3.jpg" alt="" />
+                <p class="anime-name">Naruto</p>
+              </li>
+              <li class="anime" id="anime3">
+                <img src="anime_section/onepiece2.jpg" alt="" />
+                <p class="anime-name">One Piece</p>
+              </li>
+              <li class="anime" id="anime4">
+                <img src="anime_section/bleach3.jpg" alt="" />
+                <p class="anime-name">Bleach</p>
+              </li>
+              <li class="anime" id="anime5">
+                <img src="anime_section/deathnote2.jpg" alt="" />
+                <p class="anime-name">Death Note</p>
+              </li>
+              <li class="anime" id="anime6">
+                <img src="anime_section/blackclover2.jpg" alt="" />
+                <p class="anime-name">Black Clover</p>
+              </li>
+              <li class="anime" id="anime7">
+                <img src="anime_section/tokyoghoul3.jpg" alt="" />
+                <p class="anime-name">Tokyo Ghoul</p>
+              </li>
+              <li class="anime" id="anime8">
+                <img src="anime_section/deomslayer2.jpg" alt="" />
+                <p class="anime-name">Demon Slayer: Sibling's Bond</p>
+              </li>
+              <li class="anime" id="anime9">
+                <img src="anime_section/myheroacdmi2.jpg" alt="" />
+                <p class="anime-name">My Hero Academia</p>
+              </li>
+              <li class="anime" id="anime10">
+                <img src="anime_section/seven-deadly-sins.png" alt="" />
+                <p class="anime-name">The Seven Deadly Sins</p>
+
+              </li>
+            </ul>
+          </div>
+          <button class="next-btn"> <img src="netflix_img/more_than.png" /> </button>
+
+
+        </div>
+      </div>
+    </div>
+
+
+    <!-- *****************************NEXT COLUMN********************************* -->
+
+
+
+
+    <div class="section_heading">
+
+
+
+      <div class="move">
+        <h5>Action And Adventure </h5>
+        <div class="movie_sections">
+
+          <button class="previous-btn"> <img src="netflix_img/less_than.png"> </button>
+          <div class="anime_movie_row" id="row_1" data-json_file="JSON/actionAdtvnMovi.json">
+            <ul class="move-hori">
+
+              <li class="anime" id="anime1">
+                <img src="action_adven_section/bulletTrain1.jpg" alt="" />
+                <p class="anime-name">Bullet Train</p>
+              </li>
+
+
+
+              <li class="anime" id="anime2">
+                <img src="action_adven_section/kate2.jpg" alt="" />
+                <p class="anime-name">Kate</p>
+              </li>
+              <li class="anime" id="anime3">
+                <img src="action_adven_section/edgeoftomorow1.jpg" alt="" />
+                <p class="anime-name">Edge of Tomorrow</p>
+              </li>
+              <li class="anime" id="anime4">
+                <img src="action_adven_section/godzillavskong1.jpg" alt="" />
+                <p class="anime-name">Godzilla vs. Kong</p>
+              </li>
+              <li class="anime" id="anime5">
+                <img src="action_adven_section/300Spartan1.jpg" alt="" />
+                <p class="anime-name">300</p>
+              </li>
+              <li class="anime" id="anime6">
+                <img src="action_adven_section/pacificrim1.jpg" alt="" />
+                <p class="anime-name">Pacific Rim</p>
+              </li>
+              <li class="anime" id="anime7">
+                <img src="action_adven_section/6underground1.jpg" alt="" />
+                <p class="anime-name">6 Underground</p>
+              </li>
+              <li class="anime" id="anime8">
+                <img src="action_adven_section/thegreatwall1.jpg" alt="" />
+                <p class="anime-name">The Great Wall</p>
+              </li>
+              <li class="anime" id="anime9">
+                <img src="action_adven_section/warcraft1.jpg" alt="" />
+                <p class="anime-name">Warcraft</p>
+              </li>
+              <li class="anime" id="anime10">
+                <img src="action_adven_section/redNotice2.jpg" alt="" />
+                <p class="anime-name">Red Notice</p>
+
+              </li>
+            </ul>
+          </div>
+          <button class="next-btn"> <img src="netflix_img/more_than.png" /> </button>
+
+
+        </div>
+      </div>
+    </div>
+
+
+
+
+    <div class="section_heading">
+
+
+
+
+      <div class="move">
+        <h5>Bollywood</h5>
+        <div class="movie_sections">
+
+          <button class="previous-btn"> <img src="netflix_img/less_than.png"> </button>
+          <div class="anime_movie_row" id="row_1" data-json_file="JSON/bollymovi.json">
+            <ul class="move-hori">
+
+              <li class="anime" id="anime1">
+                <img src="Bollywod_Img/rees2.jpg" alt="" />
+                <p class="anime-name">Raees</p>
+              </li>
+
+
+
+              <li class="anime" id="anime2">
+                <img src="Bollywod_Img/yaejawanihaidiwani1.jpg" alt="" />
+                <p class="anime-name">Yeh Jawaani Hai Deewani</p>
+              </li>
+              <li class="anime" id="anime3">
+                <img src="Bollywod_Img/omg2.jpg" alt="" />
+                <p class="anime-name">Oh My God</p>
+              </li>
+              <li class="anime" id="anime4">
+                <img src="Bollywod_Img/lakshay2.jpg" alt="" />
+                <p class="anime-name">Lakshya</p>
+              </li>
+              <li class="anime" id="anime5">
+                <img src="Bollywod_Img/brother1.jpg" alt="" />
+                <p class="anime-name">Brothers</p>
+              </li>
+              <li class="anime" id="anime6">
+                <img src="Bollywod_Img/pk2.jpg" alt="" />
+                <p class="anime-name">PK</p>
+              </li>
+              <li class="anime" id="anime7">
+                <img src="Bollywod_Img/lagaan1.jpg" alt="" />
+                <p class="anime-name">Lagaan</p>
+              </li>
+              <li class="anime" id="anime8">
+                <img src="Bollywod_Img/drishiyam2.jpg" alt="" />
+                <p class="anime-name">Drishyam</p>
+              </li>
+              <li class="anime" id="anime9">
+                <img src="Bollywod_Img/marrykom2.jpg" alt="" />
+                <p class="anime-name">Mary Kom</p>
+              </li>
+              <li class="anime" id="anime10">
+                <img src="Bollywod_Img/rrr1.jpg" alt="" />
+                <p class="anime-name">RRR (Hindi)</p>
+
+              </li>
+            </ul>
+          </div>
+          <button class="next-btn"> <img src="netflix_img/more_than.png" /> </button>
+
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="section_heading">
+
+
+
+
+      <div class="move">
+        <h5>Animated Movies</h5>
+        <div class="movie_sections">
+
+          <button class="previous-btn"> <img src="netflix_img/less_than.png"> </button>
+          <div class="anime_movie_row" id="row_1" data-json_file="JSON/animatedmovi.json">
+            <ul class="move-hori">
+
+              <li class="anime" id="anime1">
+                <img src="animated_IMG/spiderman1.jpg" alt="" />
+                <p class="anime-name">Spider-Man: Into the Spider-Verse</p>
+              </li>
+
+
+
+              <li class="anime" id="anime2">
+                <img src="animated_IMG/kungfupanda1.jpg" alt="" />
+                <p class="anime-name">Kung Fu Panda: The Dragon Knight</p>
+              </li>
+              <li class="anime" id="anime3">
+                <img src="animated_IMG/hoteltransylvani1.jpg" alt="" />
+                <p class="anime-name">Hotel Transylvania</p>
+              </li>
+              <li class="anime" id="anime4">
+                <img src="animated_IMG/emoji1.jpg" alt="" />
+                <p class="anime-name">The Emoji Movie</p>
+              </li>
+              <li class="anime" id="anime5">
+                <img src="animated_IMG/angrybirds1.jpg" alt="" />
+                <p class="anime-name">The Angry Birds Movie</p>
+              </li>
+              <li class="anime" id="anime6">
+                <img src="animated_IMG/food1.jpg" alt="" />
+                <p class="anime-name">Cloudy with a Chance of Meatballs</p>
+              </li>
+              <li class="anime" id="anime7">
+                <img src="animated_IMG/thecroods1.jpg" alt="" />
+                <p class="anime-name">The Croods</p>
+              </li>
+              <li class="anime" id="anime8">
+                <img src="animated_IMG/seabeast1.jpg" alt="" />
+                <p class="anime-name">The Sea Beast</p>
+              </li>
+              <li class="anime" id="anime9">
+                <img src="animated_IMG/theboosbaby.jpg" alt="" />
+                <p class="anime-name">The Boss Baby</p>
+              </li>
+              <li class="anime" id="anime10">
+                <img src="animated_IMG/moana1.jpg" alt="" />
+                <p class="anime-name">Moana</p>
+
+              </li>
+            </ul>
+          </div>
+          <button class="next-btn"> <img src="netflix_img/more_than.png" /> </button>
+
+
+        </div>
+      </div>
+    </div>
+
+    <div id="contain_BlurSection">
+
+
+      <div id="blur_section">
+        <div class="section_heading iam_Blur">
+
+
+
+
+          <div class="move">
+            <h5>Bollywood</h5>
+            <div class="movie_sections">
+
+              <button class="previous-btn"> <img src="netflix_img/less_than.png"> </button>
+              <div class="anime_movie_row" id="row_1" data-json_file="JSON/bollymovi.json">
+                <ul class="move-hori">
+
+                  <li class="anime" id="anime1">
+                    <img src="Bollywod_Img/rees2.jpg" alt="" />
+                    <p class="anime-name">Raees</p>
+                  </li>
+
+
+
+                  <li class="anime" id="anime2">
+                    <img src="Bollywod_Img/yaejawanihaidiwani1.jpg" alt="" />
+                    <p class="anime-name">Yeh Jawaani Hai Deewani</p>
+                  </li>
+                  <li class="anime" id="anime3">
+                    <img src="Bollywod_Img/omg2.jpg" alt="" />
+                    <p class="anime-name">Oh My God</p>
+                  </li>
+                  <li class="anime" id="anime4">
+                    <img src="Bollywod_Img/lakshay2.jpg" alt="" />
+                    <p class="anime-name">Lakshya</p>
+                  </li>
+                  <li class="anime" id="anime5">
+                    <img src="Bollywod_Img/brother1.jpg" alt="" />
+                    <p class="anime-name">Brothers</p>
+                  </li>
+                  <li class="anime" id="anime6">
+                    <img src="Bollywod_Img/pk2.jpg" alt="" />
+                    <p class="anime-name">PK</p>
+                  </li>
+                  <li class="anime" id="anime7">
+                    <img src="Bollywod_Img/lagaan1.jpg" alt="" />
+                    <p class="anime-name">Lagaan</p>
+                  </li>
+                  <li class="anime" id="anime8">
+                    <img src="Bollywod_Img/drishiyam2.jpg" alt="" />
+                    <p class="anime-name">Drishyam</p>
+                  </li>
+                  <li class="anime" id="anime9">
+                    <img src="Bollywod_Img/marrykom2.jpg" alt="" />
+                    <p class="anime-name">Mary Kom</p>
+                  </li>
+                  <li class="anime" id="anime10">
+                    <img src="Bollywod_Img/rrr1.jpg" alt="" />
+                    <p class="anime-name">RRR (Hindi)</p>
+
+                  </li>
+                </ul>
+              </div>
+              <button class="next-btn"> <img src="netflix_img/more_than.png" /> </button>
+
+
+            </div>
+          </div>
+        </div>
+
+
+        <div class="section_heading iam_Blur">
+
+
+
+
+          <div class="move">
+            <h5>Animated Movies</h5>
+            <div class="movie_sections">
+
+              <button class="previous-btn"> <img src="netflix_img/less_than.png"> </button>
+              <div class="anime_movie_row" id="row_1" data-json_file="JSON/animatedmovi.json">
+                <ul class="move-hori">
+
+                  <li class="anime" id="anime1">
+                    <img src="animated_IMG/spiderman1.jpg" alt="" />
+                    <p class="anime-name">Spider-Man: Into the Spider-Verse</p>
+                  </li>
+
+
+
+                  <li class="anime" id="anime2">
+                    <img src="animated_IMG/kungfupanda1.jpg" alt="" />
+                    <p class="anime-name">Kung Fu Panda: The Dragon Knight</p>
+                  </li>
+                  <li class="anime" id="anime3">
+                    <img src="animated_IMG/hoteltransylvani1.jpg" alt="" />
+                    <p class="anime-name">Hotel Transylvania</p>
+                  </li>
+                  <li class="anime" id="anime4">
+                    <img src="animated_IMG/emoji1.jpg" alt="" />
+                    <p class="anime-name">The Emoji Movie</p>
+                  </li>
+                  <li class="anime" id="anime5">
+                    <img src="animated_IMG/angrybirds1.jpg" alt="" />
+                    <p class="anime-name">The Angry Birds Movie</p>
+                  </li>
+                  <li class="anime" id="anime6">
+                    <img src="animated_IMG/food1.jpg" alt="" />
+                    <p class="anime-name">Cloudy with a Chance of Meatballs</p>
+                  </li>
+                  <li class="anime" id="anime7">
+                    <img src="animated_IMG/thecroods1.jpg" alt="" />
+                    <p class="anime-name">The Croods</p>
+                  </li>
+                  <li class="anime" id="anime8">
+                    <img src="animated_IMG/seabeast1.jpg" alt="" />
+                    <p class="anime-name">The Sea Beast</p>
+                  </li>
+                  <li class="anime" id="anime9">
+                    <img src="animated_IMG/theboosbaby.jpg" alt="" />
+                    <p class="anime-name">The Boss Baby</p>
+                  </li>
+                  <li class="anime" id="anime10">
+                    <img src="animated_IMG/moana1.jpg" alt="" />
+                    <p class="anime-name">Moana</p>
+
+                  </li>
+                </ul>
+              </div>
+              <button class="next-btn"> <img src="netflix_img/more_than.png" /> </button>
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="moreToWatch">
+        <h1>There’s even more to watch.</h1>
+        <p>Netflix has an extensive library of feature films, documentaries, TV shows, anime, award-winning Netflix
+          originals and more. Watch as much as you want, anytime you want.</p>
+
+
+        <button class="JoinBtn">Join Now</button>
+      </div>
+    </div>
+
+  </div>
+
+  
+  <footer>
+    <h4>Questions? Call 000-800-919-1694</h6>
+      <div class="footer_section">
+        <li>FAQ</li>
+        <li>Help Centre</li>
+        <li>Account</li>
+        <li>Media Centre</li>
+        <li>Investor Relations</li>
+        <li>Jobs</li>
+        <li>Ways to Watch</li>
+        <li>Terms of Use</li>
+        <li>Privacy</li>
+        <li>Cookie Preferences</li>
+        <li>Corporate Information</li>
+        <li>Contact Us</li>
+
+        <li>Speed Test</li>
+        <li>Legal Notices</li>
+        <li>Only on Netflix</li>
+
+      </div>
+
+      <select class="LNG-SLCT">
+        <option value="">English</option>
+        <option value="option1">Hindi</option>
+
+      </select>
+
+      <p>Netflix India</p>
+  </footer>
+
+
+  <script src="jquery-3.7.0.js"></script>
+  <script src="movies.js"></script>
+</body>
+
+</html>

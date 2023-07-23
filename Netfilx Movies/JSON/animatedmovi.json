@@ -1,0 +1,830 @@
+[
+    {
+        "id": "anime1",
+        "video": "JSON/animated_video/SPIDER-MAN_ INTO THE SPIDER-VERSE - Official Trailer (HD).mp4",
+        "movie_details": "After being bitten by a radioactive spider, Brooklyn teen Miles Morales gets a crash course in web-slinging from his alternate-dimension counterparts.",
+        "movieImage_name": "JSON/animated_img/spiderName.png",
+        "background_image": "JSON/animated_img/spiderman2.jpg",
+        "anime1": {
+            "img": "JSON/animated_img/kungfupanda1.jpg",
+            "imgVideo": "JSON/animated_video/Kung Fu Panda - Official® Trailer 1 [HD].mp4",
+            "imgDetails": "Po might just be the laziest, clumsiest panda in the Valley of Peace, but he secretly dreams of becoming a kung fu legend. When the villainous snow leopard Tai Lung threatens Po's homeland, the hapless panda is chosen to fulfil an ancient prophecy and defend the Valley from attack. Training under Master Shifu, Po embarks on an epic high-kicking adventure as he sets out to thwart Tai Lung's evil plans. A DreamWorks animation.",
+            "imgName": "JSON/animated_img/kungfupandaName.png",
+            "BgImg": "JSON/animated_img/kungfupanda2.jpg"
+        },
+        "anime2": {
+            "img": "JSON/animated_img/hoteltransylvani1.jpg",
+            "imgVideo": "JSON/animated_video/videoplayback.mp4",
+            "imgDetails": "Hotel Transylvania owner Dracula pulls double duty as an overprotective dad when an unwelcome suitor shows interest in his teenage daughter.",
+            "imgName": "JSON/animated_img/hoteltranslvaniaName.png",
+            "BgImg": "JSON/animated_img/hoteltranslvania2.jpg"
+        },
+        "anime3": {
+            "img": "JSON/animated_img/emoji1.jpg",
+            "imgVideo": "JSON/animated_video/THE EMOJI MOVIE - Official Trailer (HD).mp4",
+            "imgDetails": "In Textopolis, where the emojis are expected to display just one emotion, Gene's multiple expressions are a problem. His solution: become 'normal.'",
+            "imgName": "JSON/animated_img/emojiName.png",
+            "BgImg": "JSON/animated_img/emoji2.jpg"
+        },
+        "anime4": {
+            "img": "JSON/animated_img/angrybirds1.jpg",
+            "imgVideo": "JSON/animated_video/THE ANGRY BIRDS MOVIE - Official Teaser Trailer (HD).mp4",
+            "imgDetails": "Sentenced to anger management class, grumpy Red becomes a hero who trains his fellow birds to unleash their inner fury when pigs invade their island.",
+            "imgName": "JSON/animated_img/angrybirdName.png",
+            "BgImg": "JSON/animated_img/angrybird2.jpg"
+        },
+        "anime5": {
+            "img": "JSON/animated_img/food1.jpg",
+            "imgVideo": "JSON/animated_video/foods.mp4",
+            "imgDetails": "Offbeat inventor Flint Lockwood must avert a mouthwatering disaster of gigantic proportions after he creates a machine that makes food fall from the sky.",
+            "imgName": "JSON/animated_img/foodName.png",
+            "BgImg": "JSON/animated_img/food2.jpg"
+        },
+        "anime6": {
+            "img": "JSON/animated_img/thecroods1.jpg",
+            "imgVideo": "JSON/animated_video/The Croods Trailer 2013 Dreamworks Movie - Official [HD].mp4",
+            "imgDetails": "When an earthquake obliterates their cave, an unworldly prehistoric family is forced to journey through unfamiliar terrain in search of a new home.",
+            "imgName": "JSON/animated_img/thecrood2Name.png",
+            "BgImg": "JSON/animated_img/croods2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/animated_img/theboosbaby.jpg",
+            "imgVideo": "JSON/animated_video/THE BOSS BABY_ FAMILY BUSINESS _ Official Trailer.mp4",
+            "imgDetails": "A kid finds himself at the center of a sinister corporate plot when his parents bring home a baby who only talks business when they're not around.",
+            "imgName": "JSON/animated_img/thebossbabyName.png",
+            "BgImg": "JSON/animated_img/theboosbaby2.jpg"
+        },
+        "anime8": {
+            "img": "JSON/animated_img/moana1.jpg",
+            "imgVideo": "JSON/animated_video/Moana Official Trailer.mp4",
+            "imgDetails": "An adventurous teenager sails out on a daring mission to save her people. During her journey, Moana meets the once-mighty demigod Maui, who guides her in her quest to become a master way-finder. Together they sail across the open ocean on an action-packed voyage, encountering enormous monsters and impossible odds. Along the way, Moana fulfills the ancient quest of her ancestors and discovers the one thing she always sought: her own identity.",
+            "imgName": "JSON/animated_img/moanaName.png",
+            "BgImg": "JSON/animated_img/moana2.jpg"
+        },
+        "anime9": {
+            "img": "JSON/animated_img/seabeast1.jpg",
+            "imgVideo": "JSON/animated_video/The Sea Beast _ Official Trailer _ Netflix.mp4",
+            "imgDetails": "When a young girl stows away on the ship of a legendary sea monster hunter, they launch an epic journey into uncharted waters — and make history to boot.",
+            "imgName": "JSON/animated_img/seabeastName.png",
+            "BgImg": "JSON/animated_img/seabeast2.jpg"
+        },
+        "anime10": {
+            "img": "JSON/animated_img/HOTELTRANSLVAIA2.jpg",
+            "imgVideo": "JSON/animated_video/HOTEL TRANSYLVANIA 2 - Official Trailer (HD).mp4",
+            "imgDetails": "After Mavis weds Jonathan and baby Dennis arrives, Dracula looks for proof that his grandson is a vampire and needs to remain in Transylvania.",
+            "imgName": "JSON/animated_img/hoteltranslvania2Name.png",
+            "BgImg": "JSON/animated_img/hoteltranlvania22.jpg"
+        },
+        "anime11": {
+            "img": "JSON/animated_img/spirit1.jpg",
+            "imgVideo": "JSON/animated_video/SPIRIT UNTAMED - Official Trailer (2021).mp4",
+            "imgDetails": "After moving to a new town, a rebellious girl forms a bond with a wild mustang and finds a connection to her late mother’s legacy as a trick rider.",
+            "imgName": "JSON/animated_img/spiritName.png",
+            "BgImg": "JSON/animated_img/spirit2.jpg"
+        },
+        "anime12": {
+            "img": "JSON/animated_img/tom&jerry1.jpg",
+            "imgVideo": "JSON/animated_video/TOM AND JERRY Trailer (4K ULTRA HD) NEW 2021.mp4",
+            "imgDetails": "The classic cat-and-mouse duo creates chaos at a swanky NYC hotel when alley cat Tom is hired to get rid of scheming mouse Jerry before a VIP wedding.",
+            "imgName": "JSON/animated_img/TOM&JERRYNAME.png",
+            "BgImg": "JSON/animated_img/tom&jerry2.jpg"
+        }
+    },
+    {
+        "id": "anime2",
+        "video": "JSON/animated_video/Kung Fu Panda - Official® Trailer 1 [HD].mp4",
+        "movie_details": "Po might just be the laziest, clumsiest panda in the Valley of Peace, but he secretly dreams of becoming a kung fu legend. When the villainous snow leopard Tai Lung threatens Po's homeland, the hapless panda is chosen to fulfil an ancient prophecy and defend the Valley from attack. Training under Master Shifu, Po embarks on an epic high-kicking adventure as he sets out to thwart Tai Lung's evil plans. A DreamWorks animation.",
+        "movieImage_name": "JSON/animated_img/kungfupandaName.png",
+        "background_image": "JSON/animated_img/kungfupanda2.jpg",
+        "anime1": {
+            "img": "JSON/animated_img/mosterhouse1.jpg",
+            "imgVideo": "  JSON/animated_video/Monster House (2006) Official Trailer 1 - Mitchel Musso Movie.mp4",
+            "imgDetails": "A trio of friends sets out to expose the terrors of a vacant neighborhood house, which appears to have a craving for people — and a life of its own.",
+            "imgName": "JSON/animated_img/monsterhouse1.png",
+            "BgImg": "JSON/animated_img/monsterhouse2.jpg"
+        },
+        "anime2": {
+            "img": "JSON/animated_img/hoteltransylvani1.jpg",
+            "imgVideo": "JSON/animated_video/videoplayback.mp4",
+            "imgDetails": "Hotel Transylvania owner Dracula pulls double duty as an overprotective dad when an unwelcome suitor shows interest in his teenage daughter.",
+            "imgName": "JSON/animated_img/hoteltranslvaniaName.png",
+            "BgImg": "JSON/animated_img/hoteltranslvania2.jpg"
+        },
+        "anime3": {
+            "img": "JSON/animated_img/emoji1.jpg",
+            "imgVideo": "JSON/animated_video/THE EMOJI MOVIE - Official Trailer (HD).mp4",
+            "imgDetails": "In Textopolis, where the emojis are expected to display just one emotion, Gene's multiple expressions are a problem. His solution: become 'normal.'",
+            "imgName": "JSON/animated_img/emojiName.png",
+            "BgImg": "JSON/animated_img/emoji2.jpg"
+        },
+        "anime4": {
+            "img": "JSON/animated_img/angrybirds1.jpg",
+            "imgVideo": "JSON/animated_video/THE ANGRY BIRDS MOVIE - Official Teaser Trailer (HD).mp4",
+            "imgDetails": "Sentenced to anger management class, grumpy Red becomes a hero who trains his fellow birds to unleash their inner fury when pigs invade their island.",
+            "imgName": "JSON/animated_img/angrybirdName.png",
+            "BgImg": "JSON/animated_img/angrybird2.jpg"
+        },
+        "anime5": {
+            "img": "JSON/animated_img/food1.jpg",
+            "imgVideo": "JSON/animated_video/foods.mp4",
+            "imgDetails": "Offbeat inventor Flint Lockwood must avert a mouthwatering disaster of gigantic proportions after he creates a machine that makes food fall from the sky.",
+            "imgName": "JSON/animated_img/foodName.png",
+            "BgImg": "JSON/animated_img/food2.jpg"
+        },
+        "anime6": {
+            "img": "JSON/animated_img/thecroods1.jpg",
+            "imgVideo": "JSON/animated_video/The Croods Trailer 2013 Dreamworks Movie - Official [HD].mp4",
+            "imgDetails": "When an earthquake obliterates their cave, an unworldly prehistoric family is forced to journey through unfamiliar terrain in search of a new home.",
+            "imgName": "JSON/animated_img/thecrood2Name.png",
+            "BgImg": "JSON/animated_img/croods2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/animated_img/theboosbaby.jpg",
+            "imgVideo": "JSON/animated_video/THE BOSS BABY_ FAMILY BUSINESS _ Official Trailer.mp4",
+            "imgDetails": "A kid finds himself at the center of a sinister corporate plot when his parents bring home a baby who only talks business when they're not around.",
+            "imgName": "JSON/animated_img/thebossbabyName.png",
+            "BgImg": "JSON/animated_img/theboosbaby2.jpg"
+        },
+        "anime8": {
+            "img": "JSON/animated_img/moana1.jpg",
+            "imgVideo": "JSON/animated_video/Moana Official Trailer.mp4",
+            "imgDetails": "An adventurous teenager sails out on a daring mission to save her people. During her journey, Moana meets the once-mighty demigod Maui, who guides her in her quest to become a master way-finder. Together they sail across the open ocean on an action-packed voyage, encountering enormous monsters and impossible odds. Along the way, Moana fulfills the ancient quest of her ancestors and discovers the one thing she always sought: her own identity.",
+            "imgName": "JSON/animated_img/moanaName.png",
+            "BgImg": "JSON/animated_img/moana2.jpg"
+        },
+        "anime9": {
+            "img": "JSON/animated_img/seabeast1.jpg",
+            "imgVideo": "JSON/animated_video/The Sea Beast _ Official Trailer _ Netflix.mp4",
+            "imgDetails": "When a young girl stows away on the ship of a legendary sea monster hunter, they launch an epic journey into uncharted waters — and make history to boot.",
+            "imgName": "JSON/animated_img/seabeastName.png",
+            "BgImg": "JSON/animated_img/seabeast2.jpg"
+        },
+        "anime10": {
+            "img": "JSON/animated_img/HOTELTRANSLVAIA2.jpg",
+            "imgVideo": "JSON/animated_video/HOTEL TRANSYLVANIA 2 - Official Trailer (HD).mp4",
+            "imgDetails": "After Mavis weds Jonathan and baby Dennis arrives, Dracula looks for proof that his grandson is a vampire and needs to remain in Transylvania.",
+            "imgName": "JSON/animated_img/hoteltranslvania2Name.png",
+            "BgImg": "JSON/animated_img/hoteltranlvania22.jpg"
+        },
+        "anime11": {
+            "img": "JSON/animated_img/spirit1.jpg",
+            "imgVideo": "JSON/animated_video/SPIRIT UNTAMED - Official Trailer (2021).mp4",
+            "imgDetails": "After moving to a new town, a rebellious girl forms a bond with a wild mustang and finds a connection to her late mother’s legacy as a trick rider.",
+            "imgName": "JSON/animated_img/spiritName.png",
+            "BgImg": "JSON/animated_img/spirit2.jpg"
+        },
+        "anime12": {
+            "img": "JSON/animated_img/tom&jerry1.jpg",
+            "imgVideo": "JSON/animated_video/TOM AND JERRY Trailer (4K ULTRA HD) NEW 2021.mp4",
+            "imgDetails": "The classic cat-and-mouse duo creates chaos at a swanky NYC hotel when alley cat Tom is hired to get rid of scheming mouse Jerry before a VIP wedding.",
+            "imgName": "JSON/animated_img/TOM&JERRYNAME.png",
+            "BgImg": "JSON/animated_img/tom&jerry2.jpg"
+        }
+    },
+    {
+        "id": "anime3",
+        "video": "JSON/animated_video/videoplayback.mp4",
+        "movie_details": "Hotel Transylvania owner Dracula pulls double duty as an overprotective dad when an unwelcome suitor shows interest in his teenage daughter.",
+        "movieImage_name": "JSON/animated_img/hoteltranslvaniaName.png",
+        "background_image": "JSON/animated_img/hoteltranslvania2.jpg",
+        "anime1": {
+            "img": "JSON/animated_img/kungfupanda1.jpg",
+            "imgVideo": "JSON/animated_video/Kung Fu Panda - Official® Trailer 1 [HD].mp4",
+            "imgDetails": "Po might just be the laziest, clumsiest panda in the Valley of Peace, but he secretly dreams of becoming a kung fu legend. When the villainous snow leopard Tai Lung threatens Po's homeland, the hapless panda is chosen to fulfil an ancient prophecy and defend the Valley from attack. Training under Master Shifu, Po embarks on an epic high-kicking adventure as he sets out to thwart Tai Lung's evil plans. A DreamWorks animation.",
+            "imgName": "JSON/animated_img/kungfupandaName.png",
+            "BgImg": "JSON/animated_img/kungfupanda2.jpg"
+        },
+        "anime2": {
+            "img": "JSON/animated_img/mosterhouse1.jpg",
+            "imgVideo": "  JSON/animated_video/Monster House (2006) Official Trailer 1 - Mitchel Musso Movie.mp4",
+            "imgDetails": "A trio of friends sets out to expose the terrors of a vacant neighborhood house, which appears to have a craving for people — and a life of its own.",
+            "imgName": "JSON/animated_img/monsterhouse1.png",
+            "BgImg": "JSON/animated_img/monsterhouse2.jpg"
+        },
+        "anime3": {
+            "img": "JSON/animated_img/emoji1.jpg",
+            "imgVideo": "JSON/animated_video/THE EMOJI MOVIE - Official Trailer (HD).mp4",
+            "imgDetails": "In Textopolis, where the emojis are expected to display just one emotion, Gene's multiple expressions are a problem. His solution: become 'normal.'",
+            "imgName": "JSON/animated_img/emojiName.png",
+            "BgImg": "JSON/animated_img/emoji2.jpg"
+        },
+        "anime4": {
+            "img": "JSON/animated_img/angrybirds1.jpg",
+            "imgVideo": "JSON/animated_video/THE ANGRY BIRDS MOVIE - Official Teaser Trailer (HD).mp4",
+            "imgDetails": "Sentenced to anger management class, grumpy Red becomes a hero who trains his fellow birds to unleash their inner fury when pigs invade their island.",
+            "imgName": "JSON/animated_img/angrybirdName.png",
+            "BgImg": "JSON/animated_img/angrybird2.jpg"
+        },
+        "anime5": {
+            "img": "JSON/animated_img/food1.jpg",
+            "imgVideo": "JSON/animated_video/foods.mp4",
+            "imgDetails": "Offbeat inventor Flint Lockwood must avert a mouthwatering disaster of gigantic proportions after he creates a machine that makes food fall from the sky.",
+            "imgName": "JSON/animated_img/foodName.png",
+            "BgImg": "JSON/animated_img/food2.jpg"
+        },
+        "anime6": {
+            "img": "JSON/animated_img/thecroods1.jpg",
+            "imgVideo": "JSON/animated_video/The Croods Trailer 2013 Dreamworks Movie - Official [HD].mp4",
+            "imgDetails": "When an earthquake obliterates their cave, an unworldly prehistoric family is forced to journey through unfamiliar terrain in search of a new home.",
+            "imgName": "JSON/animated_img/thecrood2Name.png",
+            "BgImg": "JSON/animated_img/croods2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/animated_img/theboosbaby.jpg",
+            "imgVideo": "JSON/animated_video/THE BOSS BABY_ FAMILY BUSINESS _ Official Trailer.mp4",
+            "imgDetails": "A kid finds himself at the center of a sinister corporate plot when his parents bring home a baby who only talks business when they're not around.",
+            "imgName": "JSON/animated_img/thebossbabyName.png",
+            "BgImg": "JSON/animated_img/theboosbaby2.jpg"
+        },
+        "anime8": {
+            "img": "JSON/animated_img/moana1.jpg",
+            "imgVideo": "JSON/animated_video/Moana Official Trailer.mp4",
+            "imgDetails": "An adventurous teenager sails out on a daring mission to save her people. During her journey, Moana meets the once-mighty demigod Maui, who guides her in her quest to become a master way-finder. Together they sail across the open ocean on an action-packed voyage, encountering enormous monsters and impossible odds. Along the way, Moana fulfills the ancient quest of her ancestors and discovers the one thing she always sought: her own identity.",
+            "imgName": "JSON/animated_img/moanaName.png",
+            "BgImg": "JSON/animated_img/moana2.jpg"
+        },
+        "anime9": {
+            "img": "JSON/animated_img/seabeast1.jpg",
+            "imgVideo": "JSON/animated_video/The Sea Beast _ Official Trailer _ Netflix.mp4",
+            "imgDetails": "When a young girl stows away on the ship of a legendary sea monster hunter, they launch an epic journey into uncharted waters — and make history to boot.",
+            "imgName": "JSON/animated_img/seabeastName.png",
+            "BgImg": "JSON/animated_img/seabeast2.jpg"
+        },
+        "anime10": {
+            "img": "JSON/animated_img/HOTELTRANSLVAIA2.jpg",
+            "imgVideo": "JSON/animated_video/HOTEL TRANSYLVANIA 2 - Official Trailer (HD).mp4",
+            "imgDetails": "After Mavis weds Jonathan and baby Dennis arrives, Dracula looks for proof that his grandson is a vampire and needs to remain in Transylvania.",
+            "imgName": "JSON/animated_img/hoteltranslvania2Name.png",
+            "BgImg": "JSON/animated_img/hoteltranlvania22.jpg"
+        },
+        "anime11": {
+            "img": "JSON/animated_img/spirit1.jpg",
+            "imgVideo": "JSON/animated_video/SPIRIT UNTAMED - Official Trailer (2021).mp4",
+            "imgDetails": "After moving to a new town, a rebellious girl forms a bond with a wild mustang and finds a connection to her late mother’s legacy as a trick rider.",
+            "imgName": "JSON/animated_img/spiritName.png",
+            "BgImg": "JSON/animated_img/spirit2.jpg"
+        },
+        "anime12": {
+            "img": "JSON/animated_img/tom&jerry1.jpg",
+            "imgVideo": "JSON/animated_video/TOM AND JERRY Trailer (4K ULTRA HD) NEW 2021.mp4",
+            "imgDetails": "The classic cat-and-mouse duo creates chaos at a swanky NYC hotel when alley cat Tom is hired to get rid of scheming mouse Jerry before a VIP wedding.",
+            "imgName": "JSON/animated_img/TOM&JERRYNAME.png",
+            "BgImg": "JSON/animated_img/tom&jerry2.jpg"
+        }
+    },
+    {
+        "id": "anime4",
+        "video": "JSON/animated_video/THE EMOJI MOVIE - Official Trailer (HD).mp4",
+        "movie_details": "In Textopolis, where the emojis are expected to display just one emotion, Gene's multiple expressions are a problem. His solution: become 'normal.'",
+        "movieImage_name": "JSON/animated_img/emojiName.png",
+        "background_image": "JSON/animated_img/emoji2.jpg"
+    },
+    {
+        "id": "anime5",
+        "video": "JSON/animated_video/THE ANGRY BIRDS MOVIE - Official Teaser Trailer (HD).mp4",
+        "movie_details": "Sentenced to anger management class, grumpy Red becomes a hero who trains his fellow birds to unleash their inner fury when pigs invade their island.",
+        "movieImage_name": "JSON/animated_img/angrybirdName.png",
+        "background_image": "JSON/animated_img/angrybird2.jpg",
+        "anime1": {
+            "img": "JSON/animated_img/kungfupanda1.jpg",
+            "imgVideo": "JSON/animated_video/Kung Fu Panda - Official® Trailer 1 [HD].mp4",
+            "imgDetails": "Po might just be the laziest, clumsiest panda in the Valley of Peace, but he secretly dreams of becoming a kung fu legend. When the villainous snow leopard Tai Lung threatens Po's homeland, the hapless panda is chosen to fulfil an ancient prophecy and defend the Valley from attack. Training under Master Shifu, Po embarks on an epic high-kicking adventure as he sets out to thwart Tai Lung's evil plans. A DreamWorks animation.",
+            "imgName": "JSON/animated_img/kungfupandaName.png",
+            "BgImg": "JSON/animated_img/kungfupanda2.jpg"
+        },
+        "anime2": {
+            "img": "JSON/animated_img/hoteltransylvani1.jpg",
+            "imgVideo": "JSON/animated_video/videoplayback.mp4",
+            "imgDetails": "Hotel Transylvania owner Dracula pulls double duty as an overprotective dad when an unwelcome suitor shows interest in his teenage daughter.",
+            "imgName": "JSON/animated_img/hoteltranslvaniaName.png",
+            "BgImg": "JSON/animated_img/hoteltranslvania2.jpg"
+        },
+        "anime3": {
+            "img": "JSON/animated_img/mosterhouse1.jpg",
+            "imgVideo": "  JSON/animated_video/Monster House (2006) Official Trailer 1 - Mitchel Musso Movie.mp4",
+            "imgDetails": "A trio of friends sets out to expose the terrors of a vacant neighborhood house, which appears to have a craving for people — and a life of its own.",
+            "imgName": "JSON/animated_img/monsterhouse1.png",
+            "BgImg": "JSON/animated_img/monsterhouse2.jpg"
+        },
+        "anime4": {
+            "img": "JSON/animated_img/angrybirds1.jpg",
+            "imgVideo": "JSON/animated_video/THE ANGRY BIRDS MOVIE - Official Teaser Trailer (HD).mp4",
+            "imgDetails": "Sentenced to anger management class, grumpy Red becomes a hero who trains his fellow birds to unleash their inner fury when pigs invade their island.",
+            "imgName": "JSON/animated_img/angrybirdName.png",
+            "BgImg": "JSON/animated_img/angrybird2.jpg"
+        },
+        "anime5": {
+            "img": "JSON/animated_img/food1.jpg",
+            "imgVideo": "JSON/animated_video/foods.mp4",
+            "imgDetails": "Offbeat inventor Flint Lockwood must avert a mouthwatering disaster of gigantic proportions after he creates a machine that makes food fall from the sky.",
+            "imgName": "JSON/animated_img/foodName.png",
+            "BgImg": "JSON/animated_img/food2.jpg"
+        },
+        "anime6": {
+            "img": "JSON/animated_img/thecroods1.jpg",
+            "imgVideo": "JSON/animated_video/The Croods Trailer 2013 Dreamworks Movie - Official [HD].mp4",
+            "imgDetails": "When an earthquake obliterates their cave, an unworldly prehistoric family is forced to journey through unfamiliar terrain in search of a new home.",
+            "imgName": "JSON/animated_img/thecrood2Name.png",
+            "BgImg": "JSON/animated_img/croods2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/animated_img/theboosbaby.jpg",
+            "imgVideo": "JSON/animated_video/THE BOSS BABY_ FAMILY BUSINESS _ Official Trailer.mp4",
+            "imgDetails": "A kid finds himself at the center of a sinister corporate plot when his parents bring home a baby who only talks business when they're not around.",
+            "imgName": "JSON/animated_img/thebossbabyName.png",
+            "BgImg": "JSON/animated_img/theboosbaby2.jpg"
+        },
+        "anime8": {
+            "img": "JSON/animated_img/moana1.jpg",
+            "imgVideo": "JSON/animated_video/Moana Official Trailer.mp4",
+            "imgDetails": "An adventurous teenager sails out on a daring mission to save her people. During her journey, Moana meets the once-mighty demigod Maui, who guides her in her quest to become a master way-finder. Together they sail across the open ocean on an action-packed voyage, encountering enormous monsters and impossible odds. Along the way, Moana fulfills the ancient quest of her ancestors and discovers the one thing she always sought: her own identity.",
+            "imgName": "JSON/animated_img/moanaName.png",
+            "BgImg": "JSON/animated_img/moana2.jpg"
+        },
+        "anime9": {
+            "img": "JSON/animated_img/seabeast1.jpg",
+            "imgVideo": "JSON/animated_video/The Sea Beast _ Official Trailer _ Netflix.mp4",
+            "imgDetails": "When a young girl stows away on the ship of a legendary sea monster hunter, they launch an epic journey into uncharted waters — and make history to boot.",
+            "imgName": "JSON/animated_img/seabeastName.png",
+            "BgImg": "JSON/animated_img/seabeast2.jpg"
+        },
+        "anime10": {
+            "img": "JSON/animated_img/HOTELTRANSLVAIA2.jpg",
+            "imgVideo": "JSON/animated_video/HOTEL TRANSYLVANIA 2 - Official Trailer (HD).mp4",
+            "imgDetails": "After Mavis weds Jonathan and baby Dennis arrives, Dracula looks for proof that his grandson is a vampire and needs to remain in Transylvania.",
+            "imgName": "JSON/animated_img/hoteltranslvania2Name.png",
+            "BgImg": "JSON/animated_img/hoteltranlvania22.jpg"
+        },
+        "anime11": {
+            "img": "JSON/animated_img/spirit1.jpg",
+            "imgVideo": "JSON/animated_video/SPIRIT UNTAMED - Official Trailer (2021).mp4",
+            "imgDetails": "After moving to a new town, a rebellious girl forms a bond with a wild mustang and finds a connection to her late mother’s legacy as a trick rider.",
+            "imgName": "JSON/animated_img/spiritName.png",
+            "BgImg": "JSON/animated_img/spirit2.jpg"
+        },
+        "anime12": {
+            "img": "JSON/animated_img/tom&jerry1.jpg",
+            "imgVideo": "JSON/animated_video/TOM AND JERRY Trailer (4K ULTRA HD) NEW 2021.mp4",
+            "imgDetails": "The classic cat-and-mouse duo creates chaos at a swanky NYC hotel when alley cat Tom is hired to get rid of scheming mouse Jerry before a VIP wedding.",
+            "imgName": "JSON/animated_img/TOM&JERRYNAME.png",
+            "BgImg": "JSON/animated_img/tom&jerry2.jpg"
+        }
+    },
+
+
+    {
+        "id": "anime6",
+        "video": "JSON/animated_video/Cloudy With a Chance of Meatballs - Trailer #2.mp4",
+        "movie_details": "Offbeat inventor Flint Lockwood must avert a mouthwatering disaster of gigantic proportions after he creates a machine that makes food fall from the sky.",
+        "movieImage_name": "JSON/animated_img/foodName.png",
+        "background_image": "JSON/animated_img/food2.jpg",
+        "anime1": {
+            "img": "JSON/animated_img/kungfupanda1.jpg",
+            "imgVideo": "JSON/animated_video/Kung Fu Panda - Official® Trailer 1 [HD].mp4",
+            "imgDetails": "Po might just be the laziest, clumsiest panda in the Valley of Peace, but he secretly dreams of becoming a kung fu legend. When the villainous snow leopard Tai Lung threatens Po's homeland, the hapless panda is chosen to fulfil an ancient prophecy and defend the Valley from attack. Training under Master Shifu, Po embarks on an epic high-kicking adventure as he sets out to thwart Tai Lung's evil plans. A DreamWorks animation.",
+            "imgName": "JSON/animated_img/kungfupandaName.png",
+            "BgImg": "JSON/animated_img/kungfupanda2.jpg"
+        },
+        "anime2": {
+            "img": "JSON/animated_img/hoteltransylvani1.jpg",
+            "imgVideo": "JSON/animated_video/videoplayback.mp4",
+            "imgDetails": "Hotel Transylvania owner Dracula pulls double duty as an overprotective dad when an unwelcome suitor shows interest in his teenage daughter.",
+            "imgName": "JSON/animated_img/hoteltranslvaniaName.png",
+            "BgImg": "JSON/animated_img/hoteltranslvania2.jpg"
+        },
+        "anime3": {
+            "img": "JSON/animated_img/emoji1.jpg",
+            "imgVideo": "JSON/animated_video/THE EMOJI MOVIE - Official Trailer (HD).mp4",
+            "imgDetails": "In Textopolis, where the emojis are expected to display just one emotion, Gene's multiple expressions are a problem. His solution: become 'normal.'",
+            "imgName": "JSON/animated_img/emojiName.png",
+            "BgImg": "JSON/animated_img/emoji2.jpg"
+        },
+        "anime4": {
+            "img": "JSON/animated_img/angrybirds1.jpg",
+            "imgVideo": "JSON/animated_video/THE ANGRY BIRDS MOVIE - Official Teaser Trailer (HD).mp4",
+            "imgDetails": "Sentenced to anger management class, grumpy Red becomes a hero who trains his fellow birds to unleash their inner fury when pigs invade their island.",
+            "imgName": "JSON/animated_img/angrybirdName.png",
+            "BgImg": "JSON/animated_img/angrybird2.jpg"
+        },
+        "anime5": {
+            "img": "JSON/animated_img/mosterhouse1.jpg",
+            "imgVideo": "  JSON/animated_video/Monster House (2006) Official Trailer 1 - Mitchel Musso Movie.mp4",
+            "imgDetails": "A trio of friends sets out to expose the terrors of a vacant neighborhood house, which appears to have a craving for people — and a life of its own.",
+            "imgName": "JSON/animated_img/monsterhouse1.png",
+            "BgImg": "JSON/animated_img/monsterhouse2.jpg"
+        },
+        "anime6": {
+            "img": "JSON/animated_img/thecroods1.jpg",
+            "imgVideo": "JSON/animated_video/The Croods Trailer 2013 Dreamworks Movie - Official [HD].mp4",
+            "imgDetails": "When an earthquake obliterates their cave, an unworldly prehistoric family is forced to journey through unfamiliar terrain in search of a new home.",
+            "imgName": "JSON/animated_img/thecrood2Name.png",
+            "BgImg": "JSON/animated_img/croods2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/animated_img/theboosbaby.jpg",
+            "imgVideo": "JSON/animated_video/THE BOSS BABY_ FAMILY BUSINESS _ Official Trailer.mp4",
+            "imgDetails": "A kid finds himself at the center of a sinister corporate plot when his parents bring home a baby who only talks business when they're not around.",
+            "imgName": "JSON/animated_img/thebossbabyName.png",
+            "BgImg": "JSON/animated_img/theboosbaby2.jpg"
+        },
+        "anime8": {
+            "img": "JSON/animated_img/moana1.jpg",
+            "imgVideo": "JSON/animated_video/Moana Official Trailer.mp4",
+            "imgDetails": "An adventurous teenager sails out on a daring mission to save her people. During her journey, Moana meets the once-mighty demigod Maui, who guides her in her quest to become a master way-finder. Together they sail across the open ocean on an action-packed voyage, encountering enormous monsters and impossible odds. Along the way, Moana fulfills the ancient quest of her ancestors and discovers the one thing she always sought: her own identity.",
+            "imgName": "JSON/animated_img/moanaName.png",
+            "BgImg": "JSON/animated_img/moana2.jpg"
+        },
+        "anime9": {
+            "img": "JSON/animated_img/seabeast1.jpg",
+            "imgVideo": "JSON/animated_video/The Sea Beast _ Official Trailer _ Netflix.mp4",
+            "imgDetails": "When a young girl stows away on the ship of a legendary sea monster hunter, they launch an epic journey into uncharted waters — and make history to boot.",
+            "imgName": "JSON/animated_img/seabeastName.png",
+            "BgImg": "JSON/animated_img/seabeast2.jpg"
+        },
+        "anime10": {
+            "img": "JSON/animated_img/HOTELTRANSLVAIA2.jpg",
+            "imgVideo": "JSON/animated_video/HOTEL TRANSYLVANIA 2 - Official Trailer (HD).mp4",
+            "imgDetails": "After Mavis weds Jonathan and baby Dennis arrives, Dracula looks for proof that his grandson is a vampire and needs to remain in Transylvania.",
+            "imgName": "JSON/animated_img/hoteltranslvania2Name.png",
+            "BgImg": "JSON/animated_img/hoteltranlvania22.jpg"
+        },
+        "anime11": {
+            "img": "JSON/animated_img/spirit1.jpg",
+            "imgVideo": "JSON/animated_video/SPIRIT UNTAMED - Official Trailer (2021).mp4",
+            "imgDetails": "After moving to a new town, a rebellious girl forms a bond with a wild mustang and finds a connection to her late mother’s legacy as a trick rider.",
+            "imgName": "JSON/animated_img/spiritName.png",
+            "BgImg": "JSON/animated_img/spirit2.jpg"
+        },
+        "anime12": {
+            "img": "JSON/animated_img/tom&jerry1.jpg",
+            "imgVideo": "JSON/animated_video/TOM AND JERRY Trailer (4K ULTRA HD) NEW 2021.mp4",
+            "imgDetails": "The classic cat-and-mouse duo creates chaos at a swanky NYC hotel when alley cat Tom is hired to get rid of scheming mouse Jerry before a VIP wedding.",
+            "imgName": "JSON/animated_img/TOM&JERRYNAME.png",
+            "BgImg": "JSON/animated_img/tom&jerry2.jpg"
+        }
+    },
+    {
+        "id": "anime7",
+        "video": "JSON/animated_video/The Croods Trailer 2013 Dreamworks Movie - Official [HD].mp4",
+        "movie_details": "When an earthquake obliterates their cave, an unworldly prehistoric family is forced to journey through unfamiliar terrain in search of a new home.",
+        "movieImage_name": "JSON/animated_img/thecrood2Name.png",
+        "background_image": "JSON/animated_img/croods2.jpg",
+        "anime1": {
+            "img": "JSON/animated_img/kungfupanda1.jpg",
+            "imgVideo": "JSON/animated_video/Kung Fu Panda - Official® Trailer 1 [HD].mp4",
+            "imgDetails": "Po might just be the laziest, clumsiest panda in the Valley of Peace, but he secretly dreams of becoming a kung fu legend. When the villainous snow leopard Tai Lung threatens Po's homeland, the hapless panda is chosen to fulfil an ancient prophecy and defend the Valley from attack. Training under Master Shifu, Po embarks on an epic high-kicking adventure as he sets out to thwart Tai Lung's evil plans. A DreamWorks animation.",
+            "imgName": "JSON/animated_img/kungfupandaName.png",
+            "BgImg": "JSON/animated_img/kungfupanda2.jpg"
+        },
+        "anime2": {
+            "img": "JSON/animated_img/hoteltransylvani1.jpg",
+            "imgVideo": "JSON/animated_video/videoplayback.mp4",
+            "imgDetails": "Hotel Transylvania owner Dracula pulls double duty as an overprotective dad when an unwelcome suitor shows interest in his teenage daughter.",
+            "imgName": "JSON/animated_img/hoteltranslvaniaName.png",
+            "BgImg": "JSON/animated_img/hoteltranslvania2.jpg"
+        },
+        "anime3": {
+            "img": "JSON/animated_img/emoji1.jpg",
+            "imgVideo": "JSON/animated_video/THE EMOJI MOVIE - Official Trailer (HD).mp4",
+            "imgDetails": "In Textopolis, where the emojis are expected to display just one emotion, Gene's multiple expressions are a problem. His solution: become 'normal.'",
+            "imgName": "JSON/animated_img/emojiName.png",
+            "BgImg": "JSON/animated_img/emoji2.jpg"
+        },
+        "anime4": {
+            "img": "JSON/animated_img/angrybirds1.jpg",
+            "imgVideo": "JSON/animated_video/THE ANGRY BIRDS MOVIE - Official Teaser Trailer (HD).mp4",
+            "imgDetails": "Sentenced to anger management class, grumpy Red becomes a hero who trains his fellow birds to unleash their inner fury when pigs invade their island.",
+            "imgName": "JSON/animated_img/angrybirdName.png",
+            "BgImg": "JSON/animated_img/angrybird2.jpg"
+        },
+        "anime5": {
+            "img": "JSON/animated_img/food1.jpg",
+            "imgVideo": "JSON/animated_video/foods.mp4",
+            "imgDetails": "Offbeat inventor Flint Lockwood must avert a mouthwatering disaster of gigantic proportions after he creates a machine that makes food fall from the sky.",
+            "imgName": "JSON/animated_img/foodName.png",
+            "BgImg": "JSON/animated_img/food2.jpg"
+        },
+        "anime6": {
+            "img": "JSON/animated_img/mosterhouse1.jpg",
+            "imgVideo": "  JSON/animated_video/Monster House (2006) Official Trailer 1 - Mitchel Musso Movie.mp4",
+            "imgDetails": "A trio of friends sets out to expose the terrors of a vacant neighborhood house, which appears to have a craving for people — and a life of its own.",
+            "imgName": "JSON/animated_img/monsterhouse1.png",
+            "BgImg": "JSON/animated_img/monsterhouse2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/animated_img/theboosbaby.jpg",
+            "imgVideo": "JSON/animated_video/THE BOSS BABY_ FAMILY BUSINESS _ Official Trailer.mp4",
+            "imgDetails": "A kid finds himself at the center of a sinister corporate plot when his parents bring home a baby who only talks business when they're not around.",
+            "imgName": "JSON/animated_img/thebossbabyName.png",
+            "BgImg": "JSON/animated_img/theboosbaby2.jpg"
+        },
+        "anime8": {
+            "img": "JSON/animated_img/moana1.jpg",
+            "imgVideo": "JSON/animated_video/Moana Official Trailer.mp4",
+            "imgDetails": "An adventurous teenager sails out on a daring mission to save her people. During her journey, Moana meets the once-mighty demigod Maui, who guides her in her quest to become a master way-finder. Together they sail across the open ocean on an action-packed voyage, encountering enormous monsters and impossible odds. Along the way, Moana fulfills the ancient quest of her ancestors and discovers the one thing she always sought: her own identity.",
+            "imgName": "JSON/animated_img/moanaName.png",
+            "BgImg": "JSON/animated_img/moana2.jpg"
+        },
+        "anime9": {
+            "img": "JSON/animated_img/seabeast1.jpg",
+            "imgVideo": "JSON/animated_video/The Sea Beast _ Official Trailer _ Netflix.mp4",
+            "imgDetails": "When a young girl stows away on the ship of a legendary sea monster hunter, they launch an epic journey into uncharted waters — and make history to boot.",
+            "imgName": "JSON/animated_img/seabeastName.png",
+            "BgImg": "JSON/animated_img/seabeast2.jpg"
+        },
+        "anime10": {
+            "img": "JSON/animated_img/HOTELTRANSLVAIA2.jpg",
+            "imgVideo": "JSON/animated_video/HOTEL TRANSYLVANIA 2 - Official Trailer (HD).mp4",
+            "imgDetails": "After Mavis weds Jonathan and baby Dennis arrives, Dracula looks for proof that his grandson is a vampire and needs to remain in Transylvania.",
+            "imgName": "JSON/animated_img/hoteltranslvania2Name.png",
+            "BgImg": "JSON/animated_img/hoteltranlvania22.jpg"
+        },
+        "anime11": {
+            "img": "JSON/animated_img/spirit1.jpg",
+            "imgVideo": "JSON/animated_video/SPIRIT UNTAMED - Official Trailer (2021).mp4",
+            "imgDetails": "After moving to a new town, a rebellious girl forms a bond with a wild mustang and finds a connection to her late mother’s legacy as a trick rider.",
+            "imgName": "JSON/animated_img/spiritName.png",
+            "BgImg": "JSON/animated_img/spirit2.jpg"
+        },
+        "anime12": {
+            "img": "JSON/animated_img/tom&jerry1.jpg",
+            "imgVideo": "JSON/animated_video/TOM AND JERRY Trailer (4K ULTRA HD) NEW 2021.mp4",
+            "imgDetails": "The classic cat-and-mouse duo creates chaos at a swanky NYC hotel when alley cat Tom is hired to get rid of scheming mouse Jerry before a VIP wedding.",
+            "imgName": "JSON/animated_img/TOM&JERRYNAME.png",
+            "BgImg": "JSON/animated_img/tom&jerry2.jpg"
+        }
+    },
+    {
+        "id": "anime8",
+        "video": "JSON/animated_video/The Sea Beast _ Official Trailer _ Netflix.mp4",
+        "movie_details": "When a young girl stows away on the ship of a legendary sea monster hunter, they launch an epic journey into uncharted waters — and make history to boot.",
+        "movieImage_name": "JSON/animated_img/seabeastName.png",
+        "background_image": "JSON/animated_img/seabeast2.jpg",
+        "anime1": {
+            "img": "JSON/animated_img/kungfupanda1.jpg",
+            "imgVideo": "JSON/animated_video/Kung Fu Panda - Official® Trailer 1 [HD].mp4",
+            "imgDetails": "Po might just be the laziest, clumsiest panda in the Valley of Peace, but he secretly dreams of becoming a kung fu legend. When the villainous snow leopard Tai Lung threatens Po's homeland, the hapless panda is chosen to fulfil an ancient prophecy and defend the Valley from attack. Training under Master Shifu, Po embarks on an epic high-kicking adventure as he sets out to thwart Tai Lung's evil plans. A DreamWorks animation.",
+            "imgName": "JSON/animated_img/kungfupandaName.png",
+            "BgImg": "JSON/animated_img/kungfupanda2.jpg"
+        },
+        "anime2": {
+            "img": "JSON/animated_img/hoteltransylvani1.jpg",
+            "imgVideo": "JSON/animated_video/videoplayback.mp4",
+            "imgDetails": "Hotel Transylvania owner Dracula pulls double duty as an overprotective dad when an unwelcome suitor shows interest in his teenage daughter.",
+            "imgName": "JSON/animated_img/hoteltranslvaniaName.png",
+            "BgImg": "JSON/animated_img/hoteltranslvania2.jpg"
+        },
+        "anime3": {
+            "img": "JSON/animated_img/emoji1.jpg",
+            "imgVideo": "JSON/animated_video/THE EMOJI MOVIE - Official Trailer (HD).mp4",
+            "imgDetails": "In Textopolis, where the emojis are expected to display just one emotion, Gene's multiple expressions are a problem. His solution: become 'normal.'",
+            "imgName": "JSON/animated_img/emojiName.png",
+            "BgImg": "JSON/animated_img/emoji2.jpg"
+        },
+        "anime4": {
+            "img": "JSON/animated_img/angrybirds1.jpg",
+            "imgVideo": "JSON/animated_video/THE ANGRY BIRDS MOVIE - Official Teaser Trailer (HD).mp4",
+            "imgDetails": "Sentenced to anger management class, grumpy Red becomes a hero who trains his fellow birds to unleash their inner fury when pigs invade their island.",
+            "imgName": "JSON/animated_img/angrybirdName.png",
+            "BgImg": "JSON/animated_img/angrybird2.jpg"
+        },
+        "anime5": {
+            "img": "JSON/animated_img/food1.jpg",
+            "imgVideo": "JSON/animated_video/foods.mp4",
+            "imgDetails": "Offbeat inventor Flint Lockwood must avert a mouthwatering disaster of gigantic proportions after he creates a machine that makes food fall from the sky.",
+            "imgName": "JSON/animated_img/foodName.png",
+            "BgImg": "JSON/animated_img/food2.jpg"
+        },
+        "anime6": {
+            "img": "JSON/animated_img/thecroods1.jpg",
+            "imgVideo": "JSON/animated_video/The Croods Trailer 2013 Dreamworks Movie - Official [HD].mp4",
+            "imgDetails": "When an earthquake obliterates their cave, an unworldly prehistoric family is forced to journey through unfamiliar terrain in search of a new home.",
+            "imgName": "JSON/animated_img/thecrood2Name.png",
+            "BgImg": "JSON/animated_img/croods2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/animated_img/theboosbaby.jpg",
+            "imgVideo": "JSON/animated_video/THE BOSS BABY_ FAMILY BUSINESS _ Official Trailer.mp4",
+            "imgDetails": "A kid finds himself at the center of a sinister corporate plot when his parents bring home a baby who only talks business when they're not around.",
+            "imgName": "JSON/animated_img/thebossbabyName.png",
+            "BgImg": "JSON/animated_img/theboosbaby2.jpg"
+        },
+        "anime8": {
+            "img": "JSON/animated_img/moana1.jpg",
+            "imgVideo": "JSON/animated_video/Moana Official Trailer.mp4",
+            "imgDetails": "An adventurous teenager sails out on a daring mission to save her people. During her journey, Moana meets the once-mighty demigod Maui, who guides her in her quest to become a master way-finder. Together they sail across the open ocean on an action-packed voyage, encountering enormous monsters and impossible odds. Along the way, Moana fulfills the ancient quest of her ancestors and discovers the one thing she always sought: her own identity.",
+            "imgName": "JSON/animated_img/moanaName.png",
+            "BgImg": "JSON/animated_img/moana2.jpg"
+        },
+        "anime9": {
+            "img": "JSON/animated_img/mosterhouse1.jpg",
+            "imgVideo": "  JSON/animated_video/Monster House (2006) Official Trailer 1 - Mitchel Musso Movie.mp4",
+            "imgDetails": "A trio of friends sets out to expose the terrors of a vacant neighborhood house, which appears to have a craving for people — and a life of its own.",
+            "imgName": "JSON/animated_img/monsterhouse1.png",
+            "BgImg": "JSON/animated_img/monsterhouse2.jpg"
+        },
+        "anime10": {
+            "img": "JSON/animated_img/HOTELTRANSLVAIA2.jpg",
+            "imgVideo": "JSON/animated_video/HOTEL TRANSYLVANIA 2 - Official Trailer (HD).mp4",
+            "imgDetails": "After Mavis weds Jonathan and baby Dennis arrives, Dracula looks for proof that his grandson is a vampire and needs to remain in Transylvania.",
+            "imgName": "JSON/animated_img/hoteltranslvania2Name.png",
+            "BgImg": "JSON/animated_img/hoteltranlvania22.jpg"
+        },
+        "anime11": {
+            "img": "JSON/animated_img/spirit1.jpg",
+            "imgVideo": "JSON/animated_video/SPIRIT UNTAMED - Official Trailer (2021).mp4",
+            "imgDetails": "After moving to a new town, a rebellious girl forms a bond with a wild mustang and finds a connection to her late mother’s legacy as a trick rider.",
+            "imgName": "JSON/animated_img/spiritName.png",
+            "BgImg": "JSON/animated_img/spirit2.jpg"
+        },
+        "anime12": {
+            "img": "JSON/animated_img/tom&jerry1.jpg",
+            "imgVideo": "JSON/animated_video/TOM AND JERRY Trailer (4K ULTRA HD) NEW 2021.mp4",
+            "imgDetails": "The classic cat-and-mouse duo creates chaos at a swanky NYC hotel when alley cat Tom is hired to get rid of scheming mouse Jerry before a VIP wedding.",
+            "imgName": "JSON/animated_img/TOM&JERRYNAME.png",
+            "BgImg": "JSON/animated_img/tom&jerry2.jpg"
+        }
+    },
+    {
+        "id": "anime9",
+        "video": "JSON/animated_video/THE BOSS BABY_ FAMILY BUSINESS _ Official Trailer.mp4",
+        "movie_details": "A kid finds himself at the center of a sinister corporate plot when his parents bring home a baby who only talks business when they're not around.",
+        "movieImage_name": "JSON/animated_img/thebossbabyName.png",
+        "background_image": "JSON/animated_img/theboosbaby2.jpg",
+        "anime1": {
+            "img": "JSON/animated_img/kungfupanda1.jpg",
+            "imgVideo": "JSON/animated_video/Kung Fu Panda - Official® Trailer 1 [HD].mp4",
+            "imgDetails": "Po might just be the laziest, clumsiest panda in the Valley of Peace, but he secretly dreams of becoming a kung fu legend. When the villainous snow leopard Tai Lung threatens Po's homeland, the hapless panda is chosen to fulfil an ancient prophecy and defend the Valley from attack. Training under Master Shifu, Po embarks on an epic high-kicking adventure as he sets out to thwart Tai Lung's evil plans. A DreamWorks animation.",
+            "imgName": "JSON/animated_img/kungfupandaName.png",
+            "BgImg": "JSON/animated_img/kungfupanda2.jpg"
+        },
+        "anime2": {
+            "img": "JSON/animated_img/hoteltransylvani1.jpg",
+            "imgVideo": "JSON/animated_video/videoplayback.mp4",
+            "imgDetails": "Hotel Transylvania owner Dracula pulls double duty as an overprotective dad when an unwelcome suitor shows interest in his teenage daughter.",
+            "imgName": "JSON/animated_img/hoteltranslvaniaName.png",
+            "BgImg": "JSON/animated_img/hoteltranslvania2.jpg"
+        },
+        "anime3": {
+            "img": "JSON/animated_img/emoji1.jpg",
+            "imgVideo": "JSON/animated_video/THE EMOJI MOVIE - Official Trailer (HD).mp4",
+            "imgDetails": "In Textopolis, where the emojis are expected to display just one emotion, Gene's multiple expressions are a problem. His solution: become 'normal.'",
+            "imgName": "JSON/animated_img/emojiName.png",
+            "BgImg": "JSON/animated_img/emoji2.jpg"
+        },
+        "anime4": {
+            "img": "JSON/animated_img/angrybirds1.jpg",
+            "imgVideo": "JSON/animated_video/THE ANGRY BIRDS MOVIE - Official Teaser Trailer (HD).mp4",
+            "imgDetails": "Sentenced to anger management class, grumpy Red becomes a hero who trains his fellow birds to unleash their inner fury when pigs invade their island.",
+            "imgName": "JSON/animated_img/angrybirdName.png",
+            "BgImg": "JSON/animated_img/angrybird2.jpg"
+        },
+        "anime5": {
+            "img": "JSON/animated_img/food1.jpg",
+            "imgVideo": "JSON/animated_video/foods.mp4",
+            "imgDetails": "Offbeat inventor Flint Lockwood must avert a mouthwatering disaster of gigantic proportions after he creates a machine that makes food fall from the sky.",
+            "imgName": "JSON/animated_img/foodName.png",
+            "BgImg": "JSON/animated_img/food2.jpg"
+        },
+        "anime6": {
+            "img": "JSON/animated_img/thecroods1.jpg",
+            "imgVideo": "JSON/animated_video/The Croods Trailer 2013 Dreamworks Movie - Official [HD].mp4",
+            "imgDetails": "When an earthquake obliterates their cave, an unworldly prehistoric family is forced to journey through unfamiliar terrain in search of a new home.",
+            "imgName": "JSON/animated_img/thecrood2Name.png",
+            "BgImg": "JSON/animated_img/croods2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/animated_img/mosterhouse1.jpg",
+            "imgVideo": "  JSON/animated_video/Monster House (2006) Official Trailer 1 - Mitchel Musso Movie.mp4",
+            "imgDetails": "A trio of friends sets out to expose the terrors of a vacant neighborhood house, which appears to have a craving for people — and a life of its own.",
+            "imgName": "JSON/animated_img/monsterhouse1.png",
+            "BgImg": "JSON/animated_img/monsterhouse2.jpg"
+        },
+        "anime8": {
+            "img": "JSON/animated_img/moana1.jpg",
+            "imgVideo": "JSON/animated_video/Moana Official Trailer.mp4",
+            "imgDetails": "An adventurous teenager sails out on a daring mission to save her people. During her journey, Moana meets the once-mighty demigod Maui, who guides her in her quest to become a master way-finder. Together they sail across the open ocean on an action-packed voyage, encountering enormous monsters and impossible odds. Along the way, Moana fulfills the ancient quest of her ancestors and discovers the one thing she always sought: her own identity.",
+            "imgName": "JSON/animated_img/moanaName.png",
+            "BgImg": "JSON/animated_img/moana2.jpg"
+        },
+        "anime9": {
+            "img": "JSON/animated_img/seabeast1.jpg",
+            "imgVideo": "JSON/animated_video/The Sea Beast _ Official Trailer _ Netflix.mp4",
+            "imgDetails": "When a young girl stows away on the ship of a legendary sea monster hunter, they launch an epic journey into uncharted waters — and make history to boot.",
+            "imgName": "JSON/animated_img/seabeastName.png",
+            "BgImg": "JSON/animated_img/seabeast2.jpg"
+        },
+        "anime10": {
+            "img": "JSON/animated_img/HOTELTRANSLVAIA2.jpg",
+            "imgVideo": "JSON/animated_video/HOTEL TRANSYLVANIA 2 - Official Trailer (HD).mp4",
+            "imgDetails": "After Mavis weds Jonathan and baby Dennis arrives, Dracula looks for proof that his grandson is a vampire and needs to remain in Transylvania.",
+            "imgName": "JSON/animated_img/hoteltranslvania2Name.png",
+            "BgImg": "JSON/animated_img/hoteltranlvania22.jpg"
+        },
+        "anime11": {
+            "img": "JSON/animated_img/spirit1.jpg",
+            "imgVideo": "JSON/animated_video/SPIRIT UNTAMED - Official Trailer (2021).mp4",
+            "imgDetails": "After moving to a new town, a rebellious girl forms a bond with a wild mustang and finds a connection to her late mother’s legacy as a trick rider.",
+            "imgName": "JSON/animated_img/spiritName.png",
+            "BgImg": "JSON/animated_img/spirit2.jpg"
+        },
+        "anime12": {
+            "img": "JSON/animated_img/tom&jerry1.jpg",
+            "imgVideo": "JSON/animated_video/TOM AND JERRY Trailer (4K ULTRA HD) NEW 2021.mp4",
+            "imgDetails": "The classic cat-and-mouse duo creates chaos at a swanky NYC hotel when alley cat Tom is hired to get rid of scheming mouse Jerry before a VIP wedding.",
+            "imgName": "JSON/animated_img/TOM&JERRYNAME.png",
+            "BgImg": "JSON/animated_img/tom&jerry2.jpg"
+        }
+    },
+    {
+        "id": "anime10",
+        "video": "JSON/animated_video/Moana Official Trailer.mp4",
+        "movie_details": "An adventurous teenager sails out on a daring mission to save her people. During her journey, Moana meets the once-mighty demigod Maui, who guides her in her quest to become a master way-finder. Together they sail across the open ocean on an action-packed voyage, encountering enormous monsters and impossible odds. Along the way, Moana fulfills the ancient quest of her ancestors and discovers the one thing she always sought: her own identity.",
+        "movieImage_name": "JSON/animated_img/moanaName.png",
+        "background_image": "JSON/animated_img/moana1.jpg",
+        "anime1": {
+            "img": "JSON/animated_img/kungfupanda1.jpg",
+            "imgVideo": "JSON/animated_video/Kung Fu Panda - Official® Trailer 1 [HD].mp4",
+            "imgDetails": "Po might just be the laziest, clumsiest panda in the Valley of Peace, but he secretly dreams of becoming a kung fu legend. When the villainous snow leopard Tai Lung threatens Po's homeland, the hapless panda is chosen to fulfil an ancient prophecy and defend the Valley from attack. Training under Master Shifu, Po embarks on an epic high-kicking adventure as he sets out to thwart Tai Lung's evil plans. A DreamWorks animation.",
+            "imgName": "JSON/animated_img/kungfupandaName.png",
+            "BgImg": "JSON/animated_img/kungfupanda2.jpg"
+        },
+        "anime2": {
+            "img": "JSON/animated_img/hoteltransylvani1.jpg",
+            "imgVideo": "JSON/animated_video/videoplayback.mp4",
+            "imgDetails": "Hotel Transylvania owner Dracula pulls double duty as an overprotective dad when an unwelcome suitor shows interest in his teenage daughter.",
+            "imgName": "JSON/animated_img/hoteltranslvaniaName.png",
+            "BgImg": "JSON/animated_img/hoteltranslvania2.jpg"
+        },
+        "anime3": {
+            "img": "JSON/animated_img/emoji1.jpg",
+            "imgVideo": "JSON/animated_video/THE EMOJI MOVIE - Official Trailer (HD).mp4",
+            "imgDetails": "In Textopolis, where the emojis are expected to display just one emotion, Gene's multiple expressions are a problem. His solution: become 'normal.'",
+            "imgName": "JSON/animated_img/emojiName.png",
+            "BgImg": "JSON/animated_img/emoji2.jpg"
+        },
+        "anime4": {
+            "img": "JSON/animated_img/angrybirds1.jpg",
+            "imgVideo": "JSON/animated_video/THE ANGRY BIRDS MOVIE - Official Teaser Trailer (HD).mp4",
+            "imgDetails": "Sentenced to anger management class, grumpy Red becomes a hero who trains his fellow birds to unleash their inner fury when pigs invade their island.",
+            "imgName": "JSON/animated_img/angrybirdName.png",
+            "BgImg": "JSON/animated_img/angrybird2.jpg"
+        },
+        "anime5": {
+            "img": "JSON/animated_img/food1.jpg",
+            "imgVideo": "JSON/animated_video/foods.mp4",
+            "imgDetails": "Offbeat inventor Flint Lockwood must avert a mouthwatering disaster of gigantic proportions after he creates a machine that makes food fall from the sky.",
+            "imgName": "JSON/animated_img/foodName.png",
+            "BgImg": "JSON/animated_img/food2.jpg"
+        },
+        "anime6": {
+            "img": "JSON/animated_img/thecroods1.jpg",
+            "imgVideo": "JSON/animated_video/The Croods Trailer 2013 Dreamworks Movie - Official [HD].mp4",
+            "imgDetails": "When an earthquake obliterates their cave, an unworldly prehistoric family is forced to journey through unfamiliar terrain in search of a new home.",
+            "imgName": "JSON/animated_img/thecrood2Name.png",
+            "BgImg": "JSON/animated_img/croods2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/animated_img/theboosbaby.jpg",
+            "imgVideo": "JSON/animated_video/THE BOSS BABY_ FAMILY BUSINESS _ Official Trailer.mp4",
+            "imgDetails": "A kid finds himself at the center of a sinister corporate plot when his parents bring home a baby who only talks business when they're not around.",
+            "imgName": "JSON/animated_img/thebossbabyName.png",
+            "BgImg": "JSON/animated_img/theboosbaby2.jpg"
+        },
+        "anime8": {
+            "img": "JSON/animated_img/mosterhouse1.jpg",
+            "imgVideo": "  JSON/animated_video/Monster House (2006) Official Trailer 1 - Mitchel Musso Movie.mp4",
+            "imgDetails": "A trio of friends sets out to expose the terrors of a vacant neighborhood house, which appears to have a craving for people — and a life of its own.",
+            "imgName": "JSON/animated_img/monsterhouse1.png",
+            "BgImg": "JSON/animated_img/monsterhouse2.jpg"
+        },
+        "anime9": {
+            "img": "JSON/animated_img/seabeast1.jpg",
+            "imgVideo": "JSON/animated_video/The Sea Beast _ Official Trailer _ Netflix.mp4",
+            "imgDetails": "When a young girl stows away on the ship of a legendary sea monster hunter, they launch an epic journey into uncharted waters — and make history to boot.",
+            "imgName": "JSON/animated_img/seabeastName.png",
+            "BgImg": "JSON/animated_img/seabeast2.jpg"
+        },
+        "anime10": {
+            "img": "JSON/animated_img/HOTELTRANSLVAIA2.jpg",
+            "imgVideo": "JSON/animated_video/HOTEL TRANSYLVANIA 2 - Official Trailer (HD).mp4",
+            "imgDetails": "After Mavis weds Jonathan and baby Dennis arrives, Dracula looks for proof that his grandson is a vampire and needs to remain in Transylvania.",
+            "imgName": "JSON/animated_img/hoteltranslvania2Name.png",
+            "BgImg": "JSON/animated_img/hoteltranlvania22.jpg"
+        },
+        "anime11": {
+            "img": "JSON/animated_img/spirit1.jpg",
+            "imgVideo": "JSON/animated_video/SPIRIT UNTAMED - Official Trailer (2021).mp4",
+            "imgDetails": "After moving to a new town, a rebellious girl forms a bond with a wild mustang and finds a connection to her late mother’s legacy as a trick rider.",
+            "imgName": "JSON/animated_img/spiritName.png",
+            "BgImg": "JSON/animated_img/spirit2.jpg"
+        },
+        "anime12": {
+            "img": "JSON/animated_img/tom&jerry1.jpg",
+            "imgVideo": "JSON/animated_video/TOM AND JERRY Trailer (4K ULTRA HD) NEW 2021.mp4",
+            "imgDetails": "The classic cat-and-mouse duo creates chaos at a swanky NYC hotel when alley cat Tom is hired to get rid of scheming mouse Jerry before a VIP wedding.",
+            "imgName": "JSON/animated_img/TOM&JERRYNAME.png",
+            "BgImg": "JSON/animated_img/tom&jerry2.jpg"
+        }
+    }
+]

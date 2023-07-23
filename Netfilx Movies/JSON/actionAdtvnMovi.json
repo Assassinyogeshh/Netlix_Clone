@@ -1,0 +1,995 @@
+[
+    {
+        "id": "anime1",
+        "video": "JSON/actioAdvenVideo/Bullet Train - Official Trailer (2022) Brad Pitt, Brian Tyree Henry.mp4",
+        "movie_details": "Five assassins board a Japanese bullet train bound for Kyoto and come to discover that their seemingly separate missions are mysteriously linked.",
+        "movieImage_name": "JSON/action_adven_IMG/bullettrainName.png",
+        "background_image": "JSON/action_adven_IMG/bullet_train.jpg",
+
+
+        "anime1": {
+            "img": "JSON/action_adven_IMG/kate2.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/KATE _ Official Trailer _ Netflix.mp4",
+                "imgDetails": "Slipped a fatal poison on her final job, a ruthless assassin working in Tokyo has less than 24 hours to find out who ordered the hit and exact revenge",
+                    "imgName": "JSON/action_adven_IMG/kateName.png",
+                    "BgImg":"JSON/action_adven_IMG/kate1.jpg"
+        },
+        "anime2": {
+            "img": "JSON/action_adven_IMG/edgeoftomorow1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Live Die Repeat_ Edge of Tomorrow _ 4K Trailer _ Warner Bros. Entertainment.mp4",
+                "imgDetails": "Bill Cage is stuck in a time loop, reliving the day he died in battle -- unless he can find a way to not only survive, but defeat the alien invaders.",
+                    "imgName": "JSON/action_adven_IMG/edgeoftmoroName.png",
+                    "BgImg":"JSON/action_adven_IMG/edgeoftomorow.jpg"
+        },
+        "anime3": {
+            "img": "JSON/action_adven_IMG/godzillavskong1.jpg",
+        
+            "imgVideo": "JSON/actioAdvenVideo/Godzilla vs. Kong – Official Trailer.mp4",
+                "imgDetails": "An ancient rivalry pits two legends against each other while a mission into uncharted terrain unearths clues to the Titans' very origins.",
+                    "imgName": "JSON/action_adven_IMG/kongVSgodzilaName.png",
+                    "BgImg":"JSON/action_adven_IMG/kongVSgodzilla.jpg"
+                },
+        "anime4": {
+            "img": "JSON/action_adven_IMG/300Spartan1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/300 - Official Trailer 2 [HD].mp4",
+                "imgDetails": "King Leonidas of Sparta leads 300 powerful warriors into an epic and bloody battle at Thermopylae against the massive invading forces of King Xerxes.",
+                    "imgName": "JSON/action_adven_IMG/300spartanName.png",
+                    "BgImg":"JSON/action_adven_IMG/300spartan.jpg"
+        },
+        "anime5": {
+            "img": "JSON/action_adven_IMG/pacificrim1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Pacific Rim - Trailer - Available October 15.mp4",
+                "imgDetails": "When the world's defenses fail against the threat of alien sea creatures, the task of saving the planet falls to a former pilot and a raw trainee.",
+                    "imgName": "JSON/action_adven_IMG/pacificrimName.png",
+                    "BgImg":"JSON/action_adven_IMG/pacificrim2.jpg"
+        },
+        "anime6": {
+            "img": "JSON/action_adven_IMG/6underground1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Final Trailer _ 6 Underground starring Ryan Reynolds _ Netflix.mp4",
+                "imgDetails": "TAfter faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.",
+                    "imgName": "JSON/action_adven_IMG/6undergroundName.png",
+                    "BgImg":"JSON/action_adven_IMG/6underground2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/action_adven_IMG/thegreatwall1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/the_great_wall.mp4",
+                "imgDetails": "Searching for gunpowder in Song dynasty China, European mercenaries discover an epic war being waged between the country's heroes and savage monsters.",
+                    "imgName": "JSON/action_adven_IMG/thegreatwall.png",
+                    "BgImg":"JSON/action_adven_IMG/thegreatwall2.jpg"
+        },
+        "anime8": {
+            "img": "JSON/action_adven_IMG/warcraft1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Warcraft - Official Trailer (HD).mp4",
+                "imgDetails": "Humans and orcs clash when Draenor's warriors arrive at Azeroth through a portal in this fantasy tale based on the popular video game.",
+                    "imgName": "JSON/action_adven_IMG/warcrafteName.png",
+                    "BgImg":"JSON/action_adven_IMG/warcraft2.jpg"
+        },
+        "anime9": {
+        
+            "img": "JSON/action_adven_IMG/redNotice2.jpg",
+            "imgVideo": " JSON/actionAdvenVideo/redNotice.mp4",
+                "imgDetails": "An FBI profiler pursuing the world's most wanted art thief becomes his reluctant partner in crime to catch an elusive crook who's always one step ahead. ",
+                    "imgName": "JSON/action_adven_IMG/rednoticeName.png",
+                    "BgImg":"JSON/action_adven_IMG/redNotice1.jpg"
+        
+        },
+
+        "anime10":  {
+        
+            "img":"JSON/action_adven_IMG/accidentman1.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/Accident Man Trailer - On Blu-ray & Digital 2_6.mp4",
+            "imgDetails":"In this action-comedy sequel, assassin Mike Fallon swears off his life in London and moves to Malta, where his violent past soon catches up to him.",
+            "imgName":"JSON/action_adven_IMG/accidentName.png",
+            "BgImg":"JSON/action_adven_IMG/acciden2.jpg"
+        },
+        "anime11":  {
+        
+            "img":"JSON/action_adven_IMG/lastairbender.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/THE LAST AIRBENDER.mp4",
+            "imgDetails":"In a world ravaged by the Fire nation's aggression toward the peaceful Air, Wate",
+            "imgName":"JSON/action_adven_IMG/lastavtarName.png",
+            "BgImg":"JSON/action_adven_IMG/lastavtar2.jpg"
+        },
+        "anime12":  {
+        
+            "img":"JSON/action_adven_IMG/the5thwav1.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/THE 5TH WAVE - Official Trailer (HD).mp4",
+            "imgDetails":"After four waves of destruction turn Earth into a wasteland, a teen desperate to find her brother teams with a stranger to prepare for the fifth.",
+            "imgName":"JSON/action_adven_IMG/the5thwaveName.png",
+            "BgImg":"JSON/action_adven_IMG/the5thwave2.jpg"
+        }
+        
+    },
+    {
+        "id": "anime2",
+        "video": "JSON/actioAdvenVideo/KATE _ Official Trailer _ Netflix.mp4",
+        "movie_details": "Slipped a fatal poison on her final job, a ruthless assassin working in Tokyo has less than 24 hours to find out who ordered the hit and exact revenge",
+        "movieImage_name": "JSON/action_adven_IMG/kateName.png",
+        "background_image": "JSON/action_adven_IMG/kate1.jpg",
+        "anime1": {
+            "img": "JSON/action_adven_IMG/mr&mssmith1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Official Trailer_ Mr. & Mrs. Smith (2005).mp4",
+                "imgDetails": "SMarried life in the suburbs turns from lethally dull to just lethal when John and Jane Smith discover they're both undercover assassins.",
+                    "imgName": "JSON/action_adven_IMG/mr&mssmitName.jpg",
+                    "BgImg":"JSON/action_adven_IMG/mr&mssmith2.jpg"
+        },
+        "anime2": {
+            "img": "JSON/action_adven_IMG/edgeoftomorow1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Live Die Repeat_ Edge of Tomorrow _ 4K Trailer _ Warner Bros. Entertainment.mp4",
+                "imgDetails": "Bill Cage is stuck in a time loop, reliving the day he died in battle -- unless he can find a way to not only survive, but defeat the alien invaders.",
+                    "imgName": "JSON/action_adven_IMG/edgeoftmoroName.png",
+                    "BgImg":"JSON/action_adven_IMG/edgeoftomorow.jpg"
+        },
+        "anime3": {
+            "img": "JSON/action_adven_IMG/godzillavskong1.jpg",
+        
+            "imgVideo": "JSON/actioAdvenVideo/Godzilla vs. Kong – Official Trailer.mp4",
+                "imgDetails": "An ancient rivalry pits two legends against each other while a mission into uncharted terrain unearths clues to the Titans' very origins.",
+                    "imgName": "JSON/action_adven_IMG/kongVSgodzilaName.png",
+                    "BgImg":"JSON/action_adven_IMG/kongVSgodzilla.jpg"
+                },
+        "anime4": {
+            "img": "JSON/action_adven_IMG/300Spartan1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/300 - Official Trailer 2 [HD].mp4",
+                "imgDetails": "King Leonidas of Sparta leads 300 powerful warriors into an epic and bloody battle at Thermopylae against the massive invading forces of King Xerxes.",
+                    "imgName": "JSON/action_adven_IMG/300spartanName.png",
+                    "BgImg":"JSON/action_adven_IMG/300spartan.jpg"
+        },
+        "anime5": {
+            "img": "JSON/action_adven_IMG/pacificrim1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Pacific Rim - Trailer - Available October 15.mp4",
+                "imgDetails": "When the world's defenses fail against the threat of alien sea creatures, the task of saving the planet falls to a former pilot and a raw trainee.",
+                    "imgName": "JSON/action_adven_IMG/pacificrimName.png",
+                    "BgImg":"JSON/action_adven_IMG/pacificrim2.jpg"
+        },
+        "anime6": {
+            "img": "JSON/action_adven_IMG/6underground1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Final Trailer _ 6 Underground starring Ryan Reynolds _ Netflix.mp4",
+                "imgDetails": "TAfter faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.",
+                    "imgName": "JSON/action_adven_IMG/6undergroundName.png",
+                    "BgImg":"JSON/action_adven_IMG/6underground2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/action_adven_IMG/thegreatwall1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/the_great_wall.mp4",
+                "imgDetails": "Searching for gunpowder in Song dynasty China, European mercenaries discover an epic war being waged between the country's heroes and savage monsters.",
+                    "imgName": "JSON/action_adven_IMG/thegreatwall.png",
+                    "BgImg":"JSON/action_adven_IMG/thegreatwall2.jpg"
+        },
+        "anime8": {
+            "img": "JSON/action_adven_IMG/warcraft1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Warcraft - Official Trailer (HD).mp4",
+                "imgDetails": "Humans and orcs clash when Draenor's warriors arrive at Azeroth through a portal in this fantasy tale based on the popular video game.",
+                    "imgName": "JSON/action_adven_IMG/warcrafteName.png",
+                    "BgImg":"JSON/action_adven_IMG/warcraft2.jpg"
+        },
+        "anime9": {
+        
+            "img": "JSON/action_adven_IMG/redNotice2.jpg",
+            "imgVideo": " JSON/actionAdvenVideo/redNotice.mp4",
+                "imgDetails": "An FBI profiler pursuing the world's most wanted art thief becomes his reluctant partner in crime to catch an elusive crook who's always one step ahead. ",
+                    "imgName": "JSON/action_adven_IMG/rednoticeName.png",
+                    "BgImg":"JSON/action_adven_IMG/redNotice1.jpg"
+        
+        },
+
+        "anime10":  {
+        
+            "img":"JSON/action_adven_IMG/accidentman1.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/Accident Man Trailer - On Blu-ray & Digital 2_6.mp4",
+            "imgDetails":"In this action-comedy sequel, assassin Mike Fallon swears off his life in London and moves to Malta, where his violent past soon catches up to him.",
+            "imgName":"JSON/action_adven_IMG/accidentName.png",
+            "BgImg":"JSON/action_adven_IMG/acciden2.jpg"
+        },
+        "anime11":  {
+        
+            "img":"JSON/action_adven_IMG/lastairbender.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/THE LAST AIRBENDER.mp4",
+            "imgDetails":"In a world ravaged by the Fire nation's aggression toward the peaceful Air, Wate",
+            "imgName":"JSON/action_adven_IMG/lastavtarName.png",
+            "BgImg":"JSON/action_adven_IMG/lastavtar2.jpg"
+        },
+        "anime12":  {
+        
+            "img":"JSON/action_adven_IMG/the5thwav1.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/THE 5TH WAVE - Official Trailer (HD).mp4",
+            "imgDetails":"After four waves of destruction turn Earth into a wasteland, a teen desperate to find her brother teams with a stranger to prepare for the fifth.",
+            "imgName":"JSON/action_adven_IMG/the5thwaveName.png",
+            "BgImg":"JSON/action_adven_IMG/the5thwave2.jpg"
+        }
+
+     
+
+
+
+    },
+    {
+        "id": "anime3",
+        "video": "JSON/actioAdvenVideo/Live Die Repeat_ Edge of Tomorrow _ 4K Trailer _ Warner Bros. Entertainment.mp4",
+        "movie_details": "Bill Cage is stuck in a time loop, reliving the day he died in battle -- unless he can find a way to not only survive, but defeat the alien invaders.",
+        "movieImage_name": "JSON/action_adven_IMG/edgeoftmoroName.png",
+        "background_image": "JSON/action_adven_IMG/edgeoftomorow.jpg",
+        "anime1": {
+            "img": "JSON/action_adven_IMG/kate2.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/KATE _ Official Trailer _ Netflix.mp4",
+                "imgDetails": "Slipped a fatal poison on her final job, a ruthless assassin working in Tokyo has less than 24 hours to find out who ordered the hit and exact revenge",
+                    "imgName": "JSON/action_adven_IMG/kateName.png",
+                    "BgImg":"JSON/action_adven_IMG/kate1.jpg"
+        },
+        "anime2": {
+            "img": "JSON/action_adven_IMG/mr&mssmith1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Official Trailer_ Mr. & Mrs. Smith (2005).mp4",
+                "imgDetails": "SMarried life in the suburbs turns from lethally dull to just lethal when John and Jane Smith discover they're both undercover assassins.",
+                    "imgName": "JSON/action_adven_IMG/mr&mssmitName.jpg",
+                    "BgImg":"JSON/action_adven_IMG/mr&mssmith2.jpg"
+        },
+        "anime3": {
+            "img": "JSON/action_adven_IMG/godzillavskong1.jpg",
+        
+            "imgVideo": "JSON/actioAdvenVideo/Godzilla vs. Kong – Official Trailer.mp4",
+                "imgDetails": "An ancient rivalry pits two legends against each other while a mission into uncharted terrain unearths clues to the Titans' very origins.",
+                    "imgName": "JSON/action_adven_IMG/kongVSgodzilaName.png",
+                    "BgImg":"JSON/action_adven_IMG/kongVSgodzilla.jpg"
+                },
+        "anime4": {
+            "img": "JSON/action_adven_IMG/300Spartan1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/300 - Official Trailer 2 [HD].mp4",
+                "imgDetails": "King Leonidas of Sparta leads 300 powerful warriors into an epic and bloody battle at Thermopylae against the massive invading forces of King Xerxes.",
+                    "imgName": "JSON/action_adven_IMG/300spartanName.png",
+                    "BgImg":"JSON/action_adven_IMG/300spartan.jpg"
+        },
+        "anime5": {
+            "img": "JSON/action_adven_IMG/pacificrim1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Pacific Rim - Trailer - Available October 15.mp4",
+                "imgDetails": "When the world's defenses fail against the threat of alien sea creatures, the task of saving the planet falls to a former pilot and a raw trainee.",
+                    "imgName": "JSON/action_adven_IMG/pacificrimName.png",
+                    "BgImg":"JSON/action_adven_IMG/pacificrim2.jpg"
+        },
+        "anime6": {
+            "img": "JSON/action_adven_IMG/6underground1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Final Trailer _ 6 Underground starring Ryan Reynolds _ Netflix.mp4",
+                "imgDetails": "TAfter faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.",
+                    "imgName": "JSON/action_adven_IMG/6undergroundName.png",
+                    "BgImg":"JSON/action_adven_IMG/6underground2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/action_adven_IMG/thegreatwall1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/the_great_wall.mp4",
+                "imgDetails": "Searching for gunpowder in Song dynasty China, European mercenaries discover an epic war being waged between the country's heroes and savage monsters.",
+                    "imgName": "JSON/action_adven_IMG/thegreatwall.png",
+                    "BgImg":"JSON/action_adven_IMG/thegreatwall2.jpg"
+        },
+        "anime8": {
+            "img": "JSON/action_adven_IMG/warcraft1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Warcraft - Official Trailer (HD).mp4",
+                "imgDetails": "Humans and orcs clash when Draenor's warriors arrive at Azeroth through a portal in this fantasy tale based on the popular video game.",
+                    "imgName": "JSON/action_adven_IMG/warcrafteName.png",
+                    "BgImg":"JSON/action_adven_IMG/warcraft2.jpg"
+        },
+        "anime9": {
+        
+            "img": "JSON/action_adven_IMG/redNotice2.jpg",
+            "imgVideo": " JSON/actionAdvenVideo/redNotice.mp4",
+                "imgDetails": "An FBI profiler pursuing the world's most wanted art thief becomes his reluctant partner in crime to catch an elusive crook who's always one step ahead. ",
+                    "imgName": "JSON/action_adven_IMG/rednoticeName.png",
+                    "BgImg":"JSON/action_adven_IMG/redNotice1.jpg"
+        
+        },
+
+        "anime10":  {
+        
+            "img":"JSON/action_adven_IMG/accidentman1.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/Accident Man Trailer - On Blu-ray & Digital 2_6.mp4",
+            "imgDetails":"In this action-comedy sequel, assassin Mike Fallon swears off his life in London and moves to Malta, where his violent past soon catches up to him.",
+            "imgName":"JSON/action_adven_IMG/accidentName.png",
+            "BgImg":"JSON/action_adven_IMG/acciden2.jpg"
+        },
+        "anime11":  {
+        
+            "img":"JSON/action_adven_IMG/lastairbender.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/THE LAST AIRBENDER.mp4",
+            "imgDetails":"In a world ravaged by the Fire nation's aggression toward the peaceful Air, Wate",
+            "imgName":"JSON/action_adven_IMG/lastavtarName.png",
+            "BgImg":"JSON/action_adven_IMG/lastavtar2.jpg"
+        },
+        "anime12":  {
+        
+            "img":"JSON/action_adven_IMG/the5thwav1.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/THE 5TH WAVE - Official Trailer (HD).mp4",
+            "imgDetails":"After four waves of destruction turn Earth into a wasteland, a teen desperate to find her brother teams with a stranger to prepare for the fifth.",
+            "imgName":"JSON/action_adven_IMG/the5thwaveName.png",
+            "BgImg":"JSON/action_adven_IMG/the5thwave2.jpg"
+        }
+
+      
+    },
+    {
+        "id": "anime4",
+        "video": "JSON/actioAdvenVideo/Godzilla vs. Kong – Official Trailer.mp4",
+        "movie_details": "An ancient rivalry pits two legends against each other while a mission into uncharted terrain unearths clues to the Titans' very origins.",
+        "movieImage_name": "JSON/action_adven_IMG/kongVSgodzilaName.png",
+        "background_image": "JSON/action_adven_IMG/kongVSgodzilla.jpg",
+        "anime1": {
+            "img": "JSON/action_adven_IMG/kate2.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/KATE _ Official Trailer _ Netflix.mp4",
+                "imgDetails": "Slipped a fatal poison on her final job, a ruthless assassin working in Tokyo has less than 24 hours to find out who ordered the hit and exact revenge",
+                    "imgName": "JSON/action_adven_IMG/kateName.png",
+                    "BgImg":"JSON/action_adven_IMG/kate1.jpg"
+        },
+        "anime2": {
+            "img": "JSON/action_adven_IMG/edgeoftomorow1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Live Die Repeat_ Edge of Tomorrow _ 4K Trailer _ Warner Bros. Entertainment.mp4",
+                "imgDetails": "Bill Cage is stuck in a time loop, reliving the day he died in battle -- unless he can find a way to not only survive, but defeat the alien invaders.",
+                    "imgName": "JSON/action_adven_IMG/edgeoftmoroName.png",
+                    "BgImg":"JSON/action_adven_IMG/edgeoftomorow.jpg"
+        },
+        "anime3": {
+            "img": "JSON/action_adven_IMG/mr&mssmith1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Official Trailer_ Mr. & Mrs. Smith (2005).mp4",
+                "imgDetails": "SMarried life in the suburbs turns from lethally dull to just lethal when John and Jane Smith discover they're both undercover assassins.",
+                    "imgName": "JSON/action_adven_IMG/mr&mssmitName.jpg",
+                    "BgImg":"JSON/action_adven_IMG/mr&mssmith2.jpg"
+                },
+        "anime4": {
+            "img": "JSON/action_adven_IMG/300Spartan1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/300 - Official Trailer 2 [HD].mp4",
+                "imgDetails": "King Leonidas of Sparta leads 300 powerful warriors into an epic and bloody battle at Thermopylae against the massive invading forces of King Xerxes.",
+                    "imgName": "JSON/action_adven_IMG/300spartanName.png",
+                    "BgImg":"JSON/action_adven_IMG/300spartan.jpg"
+        },
+        "anime5": {
+            "img": "JSON/action_adven_IMG/pacificrim1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Pacific Rim - Trailer - Available October 15.mp4",
+                "imgDetails": "When the world's defenses fail against the threat of alien sea creatures, the task of saving the planet falls to a former pilot and a raw trainee.",
+                    "imgName": "JSON/action_adven_IMG/pacificrimName.png",
+                    "BgImg":"JSON/action_adven_IMG/pacificrim2.jpg"
+        },
+        "anime6": {
+            "img": "JSON/action_adven_IMG/6underground1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Final Trailer _ 6 Underground starring Ryan Reynolds _ Netflix.mp4",
+                "imgDetails": "TAfter faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.",
+                    "imgName": "JSON/action_adven_IMG/6undergroundName.png",
+                    "BgImg":"JSON/action_adven_IMG/6underground2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/action_adven_IMG/thegreatwall1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/the_great_wall.mp4",
+                "imgDetails": "Searching for gunpowder in Song dynasty China, European mercenaries discover an epic war being waged between the country's heroes and savage monsters.",
+                    "imgName": "JSON/action_adven_IMG/thegreatwall.png",
+                    "BgImg":"JSON/action_adven_IMG/thegreatwall2.jpg"
+        },
+        "anime8": {
+            "img": "JSON/action_adven_IMG/warcraft1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Warcraft - Official Trailer (HD).mp4",
+                "imgDetails": "Humans and orcs clash when Draenor's warriors arrive at Azeroth through a portal in this fantasy tale based on the popular video game.",
+                    "imgName": "JSON/action_adven_IMG/warcrafteName.png",
+                    "BgImg":"JSON/action_adven_IMG/warcraft2.jpg"
+        },
+        "anime9": {
+        
+            "img": "JSON/action_adven_IMG/redNotice2.jpg",
+            "imgVideo": " JSON/actionAdvenVideo/redNotice.mp4",
+                "imgDetails": "An FBI profiler pursuing the world's most wanted art thief becomes his reluctant partner in crime to catch an elusive crook who's always one step ahead. ",
+                    "imgName": "JSON/action_adven_IMG/rednoticeName.png",
+                    "BgImg":"JSON/action_adven_IMG/redNotice1.jpg"
+        
+        },
+
+        "anime10":  {
+        
+            "img":"JSON/action_adven_IMG/accidentman1.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/Accident Man Trailer - On Blu-ray & Digital 2_6.mp4",
+            "imgDetails":"In this action-comedy sequel, assassin Mike Fallon swears off his life in London and moves to Malta, where his violent past soon catches up to him.",
+            "imgName":"JSON/action_adven_IMG/accidentName.png",
+            "BgImg":"JSON/action_adven_IMG/acciden2.jpg"
+        },
+        "anime11":  {
+        
+            "img":"JSON/action_adven_IMG/lastairbender.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/THE LAST AIRBENDER.mp4",
+            "imgDetails":"In a world ravaged by the Fire nation's aggression toward the peaceful Air, Wate",
+            "imgName":"JSON/action_adven_IMG/lastavtarName.png",
+            "BgImg":"JSON/action_adven_IMG/lastavtar2.jpg"
+        },
+        "anime12":  {
+        
+            "img":"JSON/action_adven_IMG/the5thwav1.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/THE 5TH WAVE - Official Trailer (HD).mp4",
+            "imgDetails":"After four waves of destruction turn Earth into a wasteland, a teen desperate to find her brother teams with a stranger to prepare for the fifth.",
+            "imgName":"JSON/action_adven_IMG/the5thwaveName.png",
+            "BgImg":"JSON/action_adven_IMG/the5thwave2.jpg"
+        }
+     
+    },
+    {
+        "id": "anime5",
+        "video": "JSON/actioAdvenVideo/300 - Official Trailer 2 [HD].mp4",
+        "movie_details": "King Leonidas of Sparta leads 300 powerful warriors into an epic and bloody battle at Thermopylae against the massive invading forces of King Xerxes.",
+        "movieImage_name": "JSON/action_adven_IMG/300spartanName.png",
+        "background_image": "JSON/action_adven_IMG/300spartan.jpg",
+        "anime1": {
+            "img": "JSON/action_adven_IMG/kate2.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/KATE _ Official Trailer _ Netflix.mp4",
+                "imgDetails": "Slipped a fatal poison on her final job, a ruthless assassin working in Tokyo has less than 24 hours to find out who ordered the hit and exact revenge",
+                    "imgName": "JSON/action_adven_IMG/kateName.png",
+                    "BgImg":"JSON/action_adven_IMG/kate1.jpg"
+        },
+        "anime2": {
+            "img": "JSON/action_adven_IMG/edgeoftomorow1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Live Die Repeat_ Edge of Tomorrow _ 4K Trailer _ Warner Bros. Entertainment.mp4",
+                "imgDetails": "Bill Cage is stuck in a time loop, reliving the day he died in battle -- unless he can find a way to not only survive, but defeat the alien invaders.",
+                    "imgName": "JSON/action_adven_IMG/edgeoftmoroName.png",
+                    "BgImg":"JSON/action_adven_IMG/edgeoftomorow.jpg"
+        },
+        "anime3": {
+            "img": "JSON/action_adven_IMG/godzillavskong1.jpg",
+        
+            "imgVideo": "JSON/actioAdvenVideo/Godzilla vs. Kong – Official Trailer.mp4",
+                "imgDetails": "An ancient rivalry pits two legends against each other while a mission into uncharted terrain unearths clues to the Titans' very origins.",
+                    "imgName": "JSON/action_adven_IMG/kongVSgodzilaName.png",
+                    "BgImg":"JSON/action_adven_IMG/kongVSgodzilla.jpg"
+                },
+        "anime4": {
+            "img": "JSON/action_adven_IMG/mr&mssmith1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Official Trailer_ Mr. & Mrs. Smith (2005).mp4",
+                "imgDetails": "SMarried life in the suburbs turns from lethally dull to just lethal when John and Jane Smith discover they're both undercover assassins.",
+                    "imgName": "JSON/action_adven_IMG/mr&mssmitName.jpg",
+                    "BgImg":"JSON/action_adven_IMG/mr&mssmith2.jpg"
+        },
+        "anime5": {
+            "img": "JSON/action_adven_IMG/pacificrim1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Pacific Rim - Trailer - Available October 15.mp4",
+                "imgDetails": "When the world's defenses fail against the threat of alien sea creatures, the task of saving the planet falls to a former pilot and a raw trainee.",
+                    "imgName": "JSON/action_adven_IMG/pacificrimName.png",
+                    "BgImg":"JSON/action_adven_IMG/pacificrim2.jpg"
+        },
+        "anime6": {
+            "img": "JSON/action_adven_IMG/6underground1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Final Trailer _ 6 Underground starring Ryan Reynolds _ Netflix.mp4",
+                "imgDetails": "TAfter faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.",
+                    "imgName": "JSON/action_adven_IMG/6undergroundName.png",
+                    "BgImg":"JSON/action_adven_IMG/6underground2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/action_adven_IMG/thegreatwall1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/the_great_wall.mp4",
+                "imgDetails": "Searching for gunpowder in Song dynasty China, European mercenaries discover an epic war being waged between the country's heroes and savage monsters.",
+                    "imgName": "JSON/action_adven_IMG/thegreatwall.png",
+                    "BgImg":"JSON/action_adven_IMG/thegreatwall2.jpg"
+        },
+        "anime8": {
+            "img": "JSON/action_adven_IMG/warcraft1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Warcraft - Official Trailer (HD).mp4",
+                "imgDetails": "Humans and orcs clash when Draenor's warriors arrive at Azeroth through a portal in this fantasy tale based on the popular video game.",
+                    "imgName": "JSON/action_adven_IMG/warcrafteName.png",
+                    "BgImg":"JSON/action_adven_IMG/warcraft2.jpg"
+        },
+        "anime9": {
+        
+            "img": "JSON/action_adven_IMG/redNotice2.jpg",
+            "imgVideo": " JSON/actionAdvenVideo/redNotice.mp4",
+                "imgDetails": "An FBI profiler pursuing the world's most wanted art thief becomes his reluctant partner in crime to catch an elusive crook who's always one step ahead. ",
+                    "imgName": "JSON/action_adven_IMG/rednoticeName.png",
+                    "BgImg":"JSON/action_adven_IMG/redNotice1.jpg"
+        
+        },
+
+        "anime10":  {
+        
+            "img":"JSON/action_adven_IMG/accidentman1.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/Accident Man Trailer - On Blu-ray & Digital 2_6.mp4",
+            "imgDetails":"In this action-comedy sequel, assassin Mike Fallon swears off his life in London and moves to Malta, where his violent past soon catches up to him.",
+            "imgName":"JSON/action_adven_IMG/accidentName.png",
+            "BgImg":"JSON/action_adven_IMG/acciden2.jpg"
+        },
+        "anime11":  {
+        
+            "img":"JSON/action_adven_IMG/lastairbender.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/THE LAST AIRBENDER.mp4",
+            "imgDetails":"In a world ravaged by the Fire nation's aggression toward the peaceful Air, Wate",
+            "imgName":"JSON/action_adven_IMG/lastavtarName.png",
+            "BgImg":"JSON/action_adven_IMG/lastavtar2.jpg"
+        },
+        "anime12":  {
+        
+            "img":"JSON/action_adven_IMG/the5thwav1.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/THE 5TH WAVE - Official Trailer (HD).mp4",
+            "imgDetails":"After four waves of destruction turn Earth into a wasteland, a teen desperate to find her brother teams with a stranger to prepare for the fifth.",
+            "imgName":"JSON/action_adven_IMG/the5thwaveName.png",
+            "BgImg":"JSON/action_adven_IMG/the5thwave2.jpg"
+        }
+       
+    },
+    {
+        "id": "anime6",
+        "video": "JSON/actioAdvenVideo/Pacific Rim - Trailer - Available October 15.mp4",
+        "movie_details": "When the world's defenses fail against the threat of alien sea creatures, the task of saving the planet falls to a former pilot and a raw trainee.",
+        "movieImage_name": "JSON/action_adven_IMG/pacificrimName.png",
+        "background_image": "JSON/action_adven_IMG/pacificrim2.jpg",
+        "anime1": {
+            "img": "JSON/action_adven_IMG/kate2.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/KATE _ Official Trailer _ Netflix.mp4",
+                "imgDetails": "Slipped a fatal poison on her final job, a ruthless assassin working in Tokyo has less than 24 hours to find out who ordered the hit and exact revenge",
+                    "imgName": "JSON/action_adven_IMG/kateName.png",
+                    "BgImg":"JSON/action_adven_IMG/kate1.jpg"
+        },
+        "anime2": {
+            "img": "JSON/action_adven_IMG/edgeoftomorow1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Live Die Repeat_ Edge of Tomorrow _ 4K Trailer _ Warner Bros. Entertainment.mp4",
+                "imgDetails": "Bill Cage is stuck in a time loop, reliving the day he died in battle -- unless he can find a way to not only survive, but defeat the alien invaders.",
+                    "imgName": "JSON/action_adven_IMG/edgeoftmoroName.png",
+                    "BgImg":"JSON/action_adven_IMG/edgeoftomorow.jpg"
+        },
+        "anime3": {
+            "img": "JSON/action_adven_IMG/godzillavskong1.jpg",
+        
+            "imgVideo": "JSON/actioAdvenVideo/Godzilla vs. Kong – Official Trailer.mp4",
+                "imgDetails": "An ancient rivalry pits two legends against each other while a mission into uncharted terrain unearths clues to the Titans' very origins.",
+                    "imgName": "JSON/action_adven_IMG/kongVSgodzilaName.png",
+                    "BgImg":"JSON/action_adven_IMG/kongVSgodzilla.jpg"
+                },
+        "anime4": {
+            "img": "JSON/action_adven_IMG/300Spartan1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/300 - Official Trailer 2 [HD].mp4",
+                "imgDetails": "King Leonidas of Sparta leads 300 powerful warriors into an epic and bloody battle at Thermopylae against the massive invading forces of King Xerxes.",
+                    "imgName": "JSON/action_adven_IMG/300spartanName.png",
+                    "BgImg":"JSON/action_adven_IMG/300spartan.jpg"
+        },
+        "anime5": {
+            "img": "JSON/action_adven_IMG/mr&mssmith1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Official Trailer_ Mr. & Mrs. Smith (2005).mp4",
+                "imgDetails": "SMarried life in the suburbs turns from lethally dull to just lethal when John and Jane Smith discover they're both undercover assassins.",
+                    "imgName": "JSON/action_adven_IMG/mr&mssmitName.jpg",
+                    "BgImg":"JSON/action_adven_IMG/mr&mssmith2.jpg"
+        },
+        "anime6": {
+            "img": "JSON/action_adven_IMG/6underground1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Final Trailer _ 6 Underground starring Ryan Reynolds _ Netflix.mp4",
+                "imgDetails": "TAfter faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.",
+                    "imgName": "JSON/action_adven_IMG/6undergroundName.png",
+                    "BgImg":"JSON/action_adven_IMG/6underground2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/action_adven_IMG/thegreatwall1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/the_great_wall.mp4",
+                "imgDetails": "Searching for gunpowder in Song dynasty China, European mercenaries discover an epic war being waged between the country's heroes and savage monsters.",
+                    "imgName": "JSON/action_adven_IMG/thegreatwall.png",
+                    "BgImg":"JSON/action_adven_IMG/thegreatwall2.jpg"
+        },
+        "anime8": {
+            "img": "JSON/action_adven_IMG/warcraft1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Warcraft - Official Trailer (HD).mp4",
+                "imgDetails": "Humans and orcs clash when Draenor's warriors arrive at Azeroth through a portal in this fantasy tale based on the popular video game.",
+                    "imgName": "JSON/action_adven_IMG/warcrafteName.png",
+                    "BgImg":"JSON/action_adven_IMG/warcraft2.jpg"
+        },
+        "anime9": {
+        
+            "img": "JSON/action_adven_IMG/redNotice2.jpg",
+            "imgVideo": " JSON/actionAdvenVideo/redNotice.mp4",
+                "imgDetails": "An FBI profiler pursuing the world's most wanted art thief becomes his reluctant partner in crime to catch an elusive crook who's always one step ahead. ",
+                    "imgName": "JSON/action_adven_IMG/rednoticeName.png",
+                    "BgImg":"JSON/action_adven_IMG/redNotice1.jpg"
+        
+        },
+
+        "anime10":  {
+        
+            "img":"JSON/action_adven_IMG/accidentman1.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/Accident Man Trailer - On Blu-ray & Digital 2_6.mp4",
+            "imgDetails":"In this action-comedy sequel, assassin Mike Fallon swears off his life in London and moves to Malta, where his violent past soon catches up to him.",
+            "imgName":"JSON/action_adven_IMG/accidentName.png",
+            "BgImg":"JSON/action_adven_IMG/acciden2.jpg"
+        },
+        "anime11":  {
+        
+            "img":"JSON/action_adven_IMG/lastairbender.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/THE LAST AIRBENDER.mp4",
+            "imgDetails":"In a world ravaged by the Fire nation's aggression toward the peaceful Air, Wate",
+            "imgName":"JSON/action_adven_IMG/lastavtarName.png",
+            "BgImg":"JSON/action_adven_IMG/lastavtar2.jpg"
+        },
+        "anime12":  {
+        
+            "img":"JSON/action_adven_IMG/the5thwav1.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/THE 5TH WAVE - Official Trailer (HD).mp4",
+            "imgDetails":"After four waves of destruction turn Earth into a wasteland, a teen desperate to find her brother teams with a stranger to prepare for the fifth.",
+            "imgName":"JSON/action_adven_IMG/the5thwaveName.png",
+            "BgImg":"JSON/action_adven_IMG/the5thwave2.jpg"
+        }
+   
+    },
+    {
+        "id": "anime7",
+        "video": "JSON/actioAdvenVideo/Final Trailer _ 6 Underground starring Ryan Reynolds _ Netflix.mp4",
+        "movie_details": "TAfter faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.",
+        "movieImage_name": "JSON/action_adven_IMG/6undergroundName.png",
+        "background_image": "JSON/action_adven_IMG/6underground2.jpg",
+        "anime1": {
+            "img": "JSON/action_adven_IMG/kate2.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/KATE _ Official Trailer _ Netflix.mp4",
+                "imgDetails": "Slipped a fatal poison on her final job, a ruthless assassin working in Tokyo has less than 24 hours to find out who ordered the hit and exact revenge",
+                    "imgName": "JSON/action_adven_IMG/kateName.png",
+                    "BgImg":"JSON/action_adven_IMG/kate1.jpg"
+        },
+        "anime2": {
+            "img": "JSON/action_adven_IMG/edgeoftomorow1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Live Die Repeat_ Edge of Tomorrow _ 4K Trailer _ Warner Bros. Entertainment.mp4",
+                "imgDetails": "Bill Cage is stuck in a time loop, reliving the day he died in battle -- unless he can find a way to not only survive, but defeat the alien invaders.",
+                    "imgName": "JSON/action_adven_IMG/edgeoftmoroName.png",
+                    "BgImg":"JSON/action_adven_IMG/edgeoftomorow.jpg"
+        },
+        "anime3": {
+            "img": "JSON/action_adven_IMG/godzillavskong1.jpg",
+        
+            "imgVideo": "JSON/actioAdvenVideo/Godzilla vs. Kong – Official Trailer.mp4",
+                "imgDetails": "An ancient rivalry pits two legends against each other while a mission into uncharted terrain unearths clues to the Titans' very origins.",
+                    "imgName": "JSON/action_adven_IMG/kongVSgodzilaName.png",
+                    "BgImg":"JSON/action_adven_IMG/kongVSgodzilla.jpg"
+                },
+        "anime4": {
+            "img": "JSON/action_adven_IMG/300Spartan1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/300 - Official Trailer 2 [HD].mp4",
+                "imgDetails": "King Leonidas of Sparta leads 300 powerful warriors into an epic and bloody battle at Thermopylae against the massive invading forces of King Xerxes.",
+                    "imgName": "JSON/action_adven_IMG/300spartanName.png",
+                    "BgImg":"JSON/action_adven_IMG/300spartan.jpg"
+        },
+        "anime5": {
+            "img": "JSON/action_adven_IMG/pacificrim1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Pacific Rim - Trailer - Available October 15.mp4",
+                "imgDetails": "When the world's defenses fail against the threat of alien sea creatures, the task of saving the planet falls to a former pilot and a raw trainee.",
+                    "imgName": "JSON/action_adven_IMG/pacificrimName.png",
+                    "BgImg":"JSON/action_adven_IMG/pacificrim2.jpg"
+        },
+        "anime6": {
+            "img": "JSON/action_adven_IMG/mr&mssmith1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Official Trailer_ Mr. & Mrs. Smith (2005).mp4",
+                "imgDetails": "SMarried life in the suburbs turns from lethally dull to just lethal when John and Jane Smith discover they're both undercover assassins.",
+                    "imgName": "JSON/action_adven_IMG/mr&mssmitName.jpg",
+                    "BgImg":"JSON/action_adven_IMG/mr&mssmith2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/action_adven_IMG/thegreatwall1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/the_great_wall.mp4",
+                "imgDetails": "Searching for gunpowder in Song dynasty China, European mercenaries discover an epic war being waged between the country's heroes and savage monsters.",
+                    "imgName": "JSON/action_adven_IMG/thegreatwall.png",
+                    "BgImg":"JSON/action_adven_IMG/thegreatwall2.jpg"
+        },
+        "anime8": {
+            "img": "JSON/action_adven_IMG/warcraft1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Warcraft - Official Trailer (HD).mp4",
+                "imgDetails": "Humans and orcs clash when Draenor's warriors arrive at Azeroth through a portal in this fantasy tale based on the popular video game.",
+                    "imgName": "JSON/action_adven_IMG/warcrafteName.png",
+                    "BgImg":"JSON/action_adven_IMG/warcraft2.jpg"
+        },
+        "anime9": {
+        
+            "img": "JSON/action_adven_IMG/redNotice2.jpg",
+            "imgVideo": " JSON/actionAdvenVideo/redNotice.mp4",
+                "imgDetails": "An FBI profiler pursuing the world's most wanted art thief becomes his reluctant partner in crime to catch an elusive crook who's always one step ahead. ",
+                    "imgName": "JSON/action_adven_IMG/rednoticeName.png",
+                    "BgImg":"JSON/action_adven_IMG/redNotice1.jpg"
+        
+        },
+
+        "anime10":  {
+        
+            "img":"JSON/action_adven_IMG/accidentman1.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/Accident Man Trailer - On Blu-ray & Digital 2_6.mp4",
+            "imgDetails":"In this action-comedy sequel, assassin Mike Fallon swears off his life in London and moves to Malta, where his violent past soon catches up to him.",
+            "imgName":"JSON/action_adven_IMG/accidentName.png",
+            "BgImg":"JSON/action_adven_IMG/acciden2.jpg"
+        },
+        "anime11":  {
+        
+            "img":"JSON/action_adven_IMG/lastairbender.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/THE LAST AIRBENDER.mp4",
+            "imgDetails":"In a world ravaged by the Fire nation's aggression toward the peaceful Air, Wate",
+            "imgName":"JSON/action_adven_IMG/lastavtarName.png",
+            "BgImg":"JSON/action_adven_IMG/lastavtar2.jpg"
+        },
+        "anime12":  {
+        
+            "img":"JSON/action_adven_IMG/the5thwav1.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/THE 5TH WAVE - Official Trailer (HD).mp4",
+            "imgDetails":"After four waves of destruction turn Earth into a wasteland, a teen desperate to find her brother teams with a stranger to prepare for the fifth.",
+            "imgName":"JSON/action_adven_IMG/the5thwaveName.png",
+            "BgImg":"JSON/action_adven_IMG/the5thwave2.jpg"
+        }
+      
+    },
+    {
+        "id": "anime8",
+        "video": "JSON/actioAdvenVideo/The Great Wall - Official Trailer #2 - In Theaters This February.mp4",
+        "movie_details": "Searching for gunpowder in Song dynasty China, European mercenaries discover an epic war being waged between the country's heroes and savage monsters.",
+        "movieImage_name": "JSON/action_adven_IMG/thegreatwall.png",
+        "background_image": "JSON/action_adven_IMG/thegreatwall2.jpg",
+        "anime1": {
+            "img": "JSON/action_adven_IMG/kate2.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/KATE _ Official Trailer _ Netflix.mp4",
+                "imgDetails": "Slipped a fatal poison on her final job, a ruthless assassin working in Tokyo has less than 24 hours to find out who ordered the hit and exact revenge",
+                    "imgName": "JSON/action_adven_IMG/kateName.png",
+                    "BgImg":"JSON/action_adven_IMG/kate1.jpg"
+        },
+        "anime2": {
+            "img": "JSON/action_adven_IMG/edgeoftomorow1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Live Die Repeat_ Edge of Tomorrow _ 4K Trailer _ Warner Bros. Entertainment.mp4",
+                "imgDetails": "Bill Cage is stuck in a time loop, reliving the day he died in battle -- unless he can find a way to not only survive, but defeat the alien invaders.",
+                    "imgName": "JSON/action_adven_IMG/edgeoftmoroName.png",
+                    "BgImg":"JSON/action_adven_IMG/edgeoftomorow.jpg"
+        },
+        "anime3": {
+            "img": "JSON/action_adven_IMG/godzillavskong1.jpg",
+        
+            "imgVideo": "JSON/actioAdvenVideo/Godzilla vs. Kong – Official Trailer.mp4",
+                "imgDetails": "An ancient rivalry pits two legends against each other while a mission into uncharted terrain unearths clues to the Titans' very origins.",
+                    "imgName": "JSON/action_adven_IMG/kongVSgodzilaName.png",
+                    "BgImg":"JSON/action_adven_IMG/kongVSgodzilla.jpg"
+                },
+        "anime4": {
+            "img": "JSON/action_adven_IMG/300Spartan1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/300 - Official Trailer 2 [HD].mp4",
+                "imgDetails": "King Leonidas of Sparta leads 300 powerful warriors into an epic and bloody battle at Thermopylae against the massive invading forces of King Xerxes.",
+                    "imgName": "JSON/action_adven_IMG/300spartanName.png",
+                    "BgImg":"JSON/action_adven_IMG/300spartan.jpg"
+        },
+        "anime5": {
+            "img": "JSON/action_adven_IMG/pacificrim1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Pacific Rim - Trailer - Available October 15.mp4",
+                "imgDetails": "When the world's defenses fail against the threat of alien sea creatures, the task of saving the planet falls to a former pilot and a raw trainee.",
+                    "imgName": "JSON/action_adven_IMG/pacificrimName.png",
+                    "BgImg":"JSON/action_adven_IMG/pacificrim2.jpg"
+        },
+        "anime6": {
+            "img": "JSON/action_adven_IMG/6underground1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Final Trailer _ 6 Underground starring Ryan Reynolds _ Netflix.mp4",
+                "imgDetails": "TAfter faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.",
+                    "imgName": "JSON/action_adven_IMG/6undergroundName.png",
+                    "BgImg":"JSON/action_adven_IMG/6underground2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/action_adven_IMG/mr&mssmith1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Official Trailer_ Mr. & Mrs. Smith (2005).mp4",
+                "imgDetails": "SMarried life in the suburbs turns from lethally dull to just lethal when John and Jane Smith discover they're both undercover assassins.",
+                    "imgName": "JSON/action_adven_IMG/mr&mssmitName.jpg",
+                    "BgImg":"JSON/action_adven_IMG/mr&mssmith2.jpg"
+        },
+        "anime8": {
+            "img": "JSON/action_adven_IMG/warcraft1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Warcraft - Official Trailer (HD).mp4",
+                "imgDetails": "Humans and orcs clash when Draenor's warriors arrive at Azeroth through a portal in this fantasy tale based on the popular video game.",
+                    "imgName": "JSON/action_adven_IMG/warcrafteName.png",
+                    "BgImg":"JSON/action_adven_IMG/warcraft2.jpg"
+        },
+        "anime9": {
+        
+            "img": "JSON/action_adven_IMG/redNotice2.jpg",
+            "imgVideo": " JSON/actionAdvenVideo/redNotice.mp4",
+                "imgDetails": "An FBI profiler pursuing the world's most wanted art thief becomes his reluctant partner in crime to catch an elusive crook who's always one step ahead. ",
+                    "imgName": "JSON/action_adven_IMG/rednoticeName.png",
+                    "BgImg":"JSON/action_adven_IMG/redNotice1.jpg"
+        
+        },
+
+        "anime10":  {
+        
+            "img":"JSON/action_adven_IMG/accidentman1.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/Accident Man Trailer - On Blu-ray & Digital 2_6.mp4",
+            "imgDetails":"In this action-comedy sequel, assassin Mike Fallon swears off his life in London and moves to Malta, where his violent past soon catches up to him.",
+            "imgName":"JSON/action_adven_IMG/accidentName.png",
+            "BgImg":"JSON/action_adven_IMG/acciden2.jpg"
+        },
+        "anime11":  {
+        
+            "img":"JSON/action_adven_IMG/lastairbender.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/THE LAST AIRBENDER.mp4",
+            "imgDetails":"In a world ravaged by the Fire nation's aggression toward the peaceful Air, Wate",
+            "imgName":"JSON/action_adven_IMG/lastavtarName.png",
+            "BgImg":"JSON/action_adven_IMG/lastavtar2.jpg"
+        },
+        "anime12":  {
+        
+            "img":"JSON/action_adven_IMG/the5thwav1.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/THE 5TH WAVE - Official Trailer (HD).mp4",
+            "imgDetails":"After four waves of destruction turn Earth into a wasteland, a teen desperate to find her brother teams with a stranger to prepare for the fifth.",
+            "imgName":"JSON/action_adven_IMG/the5thwaveName.png",
+            "BgImg":"JSON/action_adven_IMG/the5thwave2.jpg"
+        }
+        
+    },
+    {
+        "id": "anime9",
+        "video": "JSON/actioAdvenVideo/Warcraft - Official Trailer (HD).mp4",
+        "movie_details": "Humans and orcs clash when Draenor's warriors arrive at Azeroth through a portal in this fantasy tale based on the popular video game.",
+        "movieImage_name": "JSON/action_adven_IMG/warcrafteName.png",
+        "background_image": "JSON/action_adven_IMG/warcraft2.jpg",
+        "anime1": {
+            "img": "JSON/action_adven_IMG/kate2.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/KATE _ Official Trailer _ Netflix.mp4",
+                "imgDetails": "Slipped a fatal poison on her final job, a ruthless assassin working in Tokyo has less than 24 hours to find out who ordered the hit and exact revenge",
+                    "imgName": "JSON/action_adven_IMG/kateName.png",
+                    "BgImg":"JSON/action_adven_IMG/kate1.jpg"
+        },
+        "anime2": {
+            "img": "JSON/action_adven_IMG/edgeoftomorow1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Live Die Repeat_ Edge of Tomorrow _ 4K Trailer _ Warner Bros. Entertainment.mp4",
+                "imgDetails": "Bill Cage is stuck in a time loop, reliving the day he died in battle -- unless he can find a way to not only survive, but defeat the alien invaders.",
+                    "imgName": "JSON/action_adven_IMG/edgeoftmoroName.png",
+                    "BgImg":"JSON/action_adven_IMG/edgeoftomorow.jpg"
+        },
+        "anime3": {
+            "img": "JSON/action_adven_IMG/godzillavskong1.jpg",
+        
+            "imgVideo": "JSON/actioAdvenVideo/Godzilla vs. Kong – Official Trailer.mp4",
+                "imgDetails": "An ancient rivalry pits two legends against each other while a mission into uncharted terrain unearths clues to the Titans' very origins.",
+                    "imgName": "JSON/action_adven_IMG/kongVSgodzilaName.png",
+                    "BgImg":"JSON/action_adven_IMG/kongVSgodzilla.jpg"
+                },
+        "anime4": {
+            "img": "JSON/action_adven_IMG/300Spartan1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/300 - Official Trailer 2 [HD].mp4",
+                "imgDetails": "King Leonidas of Sparta leads 300 powerful warriors into an epic and bloody battle at Thermopylae against the massive invading forces of King Xerxes.",
+                    "imgName": "JSON/action_adven_IMG/300spartanName.png",
+                    "BgImg":"JSON/action_adven_IMG/300spartan.jpg"
+        },
+        "anime5": {
+            "img": "JSON/action_adven_IMG/pacificrim1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Pacific Rim - Trailer - Available October 15.mp4",
+                "imgDetails": "When the world's defenses fail against the threat of alien sea creatures, the task of saving the planet falls to a former pilot and a raw trainee.",
+                    "imgName": "JSON/action_adven_IMG/pacificrimName.png",
+                    "BgImg":"JSON/action_adven_IMG/pacificrim2.jpg"
+        },
+        "anime6": {
+            "img": "JSON/action_adven_IMG/6underground1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Final Trailer _ 6 Underground starring Ryan Reynolds _ Netflix.mp4",
+                "imgDetails": "TAfter faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.",
+                    "imgName": "JSON/action_adven_IMG/6undergroundName.png",
+                    "BgImg":"JSON/action_adven_IMG/6underground2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/action_adven_IMG/thegreatwall1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/the_great_wall.mp4",
+                "imgDetails": "Searching for gunpowder in Song dynasty China, European mercenaries discover an epic war being waged between the country's heroes and savage monsters.",
+                    "imgName": "JSON/action_adven_IMG/thegreatwall.png",
+                    "BgImg":"JSON/action_adven_IMG/thegreatwall2.jpg"
+        },
+        "anime8": {
+            "img": "JSON/action_adven_IMG/mr&mssmith1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Official Trailer_ Mr. & Mrs. Smith (2005).mp4",
+                "imgDetails": "SMarried life in the suburbs turns from lethally dull to just lethal when John and Jane Smith discover they're both undercover assassins.",
+                    "imgName": "JSON/action_adven_IMG/mr&mssmitName.jpg",
+                    "BgImg":"JSON/action_adven_IMG/mr&mssmith2.jpg"
+        },
+        "anime9": {
+        
+            "img": "JSON/action_adven_IMG/redNotice2.jpg",
+            "imgVideo": " JSON/actionAdvenVideo/redNotice.mp4",
+                "imgDetails": "An FBI profiler pursuing the world's most wanted art thief becomes his reluctant partner in crime to catch an elusive crook who's always one step ahead. ",
+                    "imgName": "JSON/action_adven_IMG/rednoticeName.png",
+                    "BgImg":"JSON/action_adven_IMG/redNotice1.jpg"
+        
+        },
+
+        "anime10":  {
+        
+            "img":"JSON/action_adven_IMG/accidentman1.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/Accident Man Trailer - On Blu-ray & Digital 2_6.mp4",
+            "imgDetails":"In this action-comedy sequel, assassin Mike Fallon swears off his life in London and moves to Malta, where his violent past soon catches up to him.",
+            "imgName":"JSON/action_adven_IMG/accidentName.png",
+            "BgImg":"JSON/action_adven_IMG/acciden2.jpg"
+        },
+        "anime11":  {
+        
+            "img":"JSON/action_adven_IMG/lastairbender.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/THE LAST AIRBENDER.mp4",
+            "imgDetails":"In a world ravaged by the Fire nation's aggression toward the peaceful Air, Wate",
+            "imgName":"JSON/action_adven_IMG/lastavtarName.png",
+            "BgImg":"JSON/action_adven_IMG/lastavtar2.jpg"
+        },
+        "anime12":  {
+        
+            "img":"JSON/action_adven_IMG/the5thwav1.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/THE 5TH WAVE - Official Trailer (HD).mp4",
+            "imgDetails":"After four waves of destruction turn Earth into a wasteland, a teen desperate to find her brother teams with a stranger to prepare for the fifth.",
+            "imgName":"JSON/action_adven_IMG/the5thwaveName.png",
+            "BgImg":"JSON/action_adven_IMG/the5thwave2.jpg"
+        }
+        
+    },
+    {
+        "id": "anime10",
+        "video": "JSON/actioAdvenVideo/RED NOTICE _ Official Trailer _ Netflix.mp44",
+        "movie_details": "An FBI profiler pursuing the world's most wanted art thief becomes his reluctant partner in crime to catch an elusive crook who's always one step ahead. ",
+        "movieImage_name": "JSON/action_adven_IMG/rednoticeName.png",
+        "background_image": "JSON/action_adven_IMG/redNotice1.jpg",
+        "anime1": {
+            "img": "JSON/action_adven_IMG/kate2.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/KATE _ Official Trailer _ Netflix.mp4",
+                "imgDetails": "Slipped a fatal poison on her final job, a ruthless assassin working in Tokyo has less than 24 hours to find out who ordered the hit and exact revenge",
+                    "imgName": "JSON/action_adven_IMG/kateName.png",
+                    "BgImg":"JSON/action_adven_IMG/kate1.jpg"
+        },
+        "anime2": {
+            "img": "JSON/action_adven_IMG/edgeoftomorow1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Live Die Repeat_ Edge of Tomorrow _ 4K Trailer _ Warner Bros. Entertainment.mp4",
+                "imgDetails": "Bill Cage is stuck in a time loop, reliving the day he died in battle -- unless he can find a way to not only survive, but defeat the alien invaders.",
+                    "imgName": "JSON/action_adven_IMG/edgeoftmoroName.png",
+                    "BgImg":"JSON/action_adven_IMG/edgeoftomorow.jpg"
+        },
+        "anime3": {
+            "img": "JSON/action_adven_IMG/godzillavskong1.jpg",
+        
+            "imgVideo": "JSON/actioAdvenVideo/Godzilla vs. Kong – Official Trailer.mp4",
+                "imgDetails": "An ancient rivalry pits two legends against each other while a mission into uncharted terrain unearths clues to the Titans' very origins.",
+                    "imgName": "JSON/action_adven_IMG/kongVSgodzilaName.png",
+                    "BgImg":"JSON/action_adven_IMG/kongVSgodzilla.jpg"
+                },
+        "anime4": {
+            "img": "JSON/action_adven_IMG/300Spartan1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/300 - Official Trailer 2 [HD].mp4",
+                "imgDetails": "King Leonidas of Sparta leads 300 powerful warriors into an epic and bloody battle at Thermopylae against the massive invading forces of King Xerxes.",
+                    "imgName": "JSON/action_adven_IMG/300spartanName.png",
+                    "BgImg":"JSON/action_adven_IMG/300spartan.jpg"
+        },
+        "anime5": {
+            "img": "JSON/action_adven_IMG/pacificrim1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Pacific Rim - Trailer - Available October 15.mp4",
+                "imgDetails": "When the world's defenses fail against the threat of alien sea creatures, the task of saving the planet falls to a former pilot and a raw trainee.",
+                    "imgName": "JSON/action_adven_IMG/pacificrimName.png",
+                    "BgImg":"JSON/action_adven_IMG/pacificrim2.jpg"
+        },
+        "anime6": {
+            "img": "JSON/action_adven_IMG/6underground1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Final Trailer _ 6 Underground starring Ryan Reynolds _ Netflix.mp4",
+                "imgDetails": "TAfter faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.",
+                    "imgName": "JSON/action_adven_IMG/6undergroundName.png",
+                    "BgImg":"JSON/action_adven_IMG/6underground2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/action_adven_IMG/thegreatwall1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/the_great_wall.mp4",
+                "imgDetails": "Searching for gunpowder in Song dynasty China, European mercenaries discover an epic war being waged between the country's heroes and savage monsters.",
+                    "imgName": "JSON/action_adven_IMG/thegreatwall.png",
+                    "BgImg":"JSON/action_adven_IMG/thegreatwall2.jpg"
+        },
+        "anime8": {
+            "img": "JSON/action_adven_IMG/warcraft1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Warcraft - Official Trailer (HD).mp4",
+                "imgDetails": "Humans and orcs clash when Draenor's warriors arrive at Azeroth through a portal in this fantasy tale based on the popular video game.",
+                    "imgName": "JSON/action_adven_IMG/warcrafteName.png",
+                    "BgImg":"JSON/action_adven_IMG/warcraft2.jpg"
+        },
+        "anime9": {
+            "img": "JSON/action_adven_IMG/mr&mssmith1.jpg",
+            "imgVideo": "JSON/actioAdvenVideo/Official Trailer_ Mr. & Mrs. Smith (2005).mp4",
+                "imgDetails": "SMarried life in the suburbs turns from lethally dull to just lethal when John and Jane Smith discover they're both undercover assassins.",
+                    "imgName": "JSON/action_adven_IMG/mr&mssmitName.jpg",
+                    "BgImg":"JSON/action_adven_IMG/mr&mssmith2.jpg"
+        },
+
+        "anime10":  {
+        
+            "img":"JSON/action_adven_IMG/accidentman1.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/Accident Man Trailer - On Blu-ray & Digital 2_6.mp4",
+            "imgDetails":"In this action-comedy sequel, assassin Mike Fallon swears off his life in London and moves to Malta, where his violent past soon catches up to him.",
+            "imgName":"JSON/action_adven_IMG/accidentName.png",
+            "BgImg":"JSON/action_adven_IMG/acciden2.jpg"
+        },
+        "anime11":  {
+        
+            "img":"JSON/action_adven_IMG/lastairbender.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/THE LAST AIRBENDER.mp4",
+            "imgDetails":"In a world ravaged by the Fire nation's aggression toward the peaceful Air, Wate",
+            "imgName":"JSON/action_adven_IMG/lastavtarName.png",
+            "BgImg":"JSON/action_adven_IMG/lastavtar2.jpg"
+        },
+        "anime12":  {
+        
+            "img":"JSON/action_adven_IMG/the5thwav1.jpg",
+            "imgVideo":"JSON/actioAdvenVideo/THE 5TH WAVE - Official Trailer (HD).mp4",
+            "imgDetails":"After four waves of destruction turn Earth into a wasteland, a teen desperate to find her brother teams with a stranger to prepare for the fifth.",
+            "imgName":"JSON/action_adven_IMG/the5thwaveName.png",
+            "BgImg":"JSON/action_adven_IMG/the5thwave2.jpg"
+        }
+    }
+]

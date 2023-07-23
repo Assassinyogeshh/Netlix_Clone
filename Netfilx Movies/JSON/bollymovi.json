@@ -1,0 +1,921 @@
+[
+    {
+        "id": "anime1",
+        "video": "JSON/bollywood_video/Shah Rukh Khan In & As Raees _ Trailer _ Releasing 25 Jan.mp4",
+        "movie_details": "After street smart kid Raees rises to become Gujarat's bootlegging king in the 1980s, he tries to balance his life of crime with helping his people.",
+        "movieImage_name": "JSON/bollywood_IMG/reesName.png",
+        "background_image": "JSON/bollywood_IMG/rees1.jpg",
+        "anime1": {
+            "img": "JSON/bollywood_IMG/yaejawanihaidiwani1.jpg",
+            "imgVideo": "JSON/bollywood_video/Yeh Jawaani Hai Deewani _ English Subtitles _ Official Theatrical Trailer.mp4",
+            "imgDetails": "On a trekking trip, an introvert falls for a charming ex-classmate, whose thirst for adventure drives them apart. Years later, their paths cross again.",
+            "imgName": "JSON/bollywood_IMG/yaejawanihaidiwani.png",
+            "BgImg": "JSON/bollywood_IMG/yaejawanihaidiwani2.jpg"
+        },
+        "anime2": {
+            "img": "JSON/bollywood_IMG/omg2.jpg",
+            "imgVideo": "JSON/bollywood_video/OMG_ Oh My God Theatrical Trailer _ Paresh Rawal, Akshay Kumar.mp4",
+            "imgDetails": "Mumbai shopkeeper Kanji Bhai files a lawsuit against God when an earthquake destroys his store and his insurance policy won't cover the damage.",
+            "imgName": "JSON/bollywood_IMG/omgName.png",
+            "BgImg": "JSON/bollywood_IMG/omg1.jpg"
+        },
+        "anime3": {
+            "img": "JSON/bollywood_IMG/lakshay2.jpg",
+            "imgVideo": "JSON/bollywood_video/videoplayback.mp4",
+            "imgDetails": "After dropping out of the army, a spoiled teenager reenlists and proves his mettle by becoming an officer just as war breaks out.",
+            "imgName": "JSON/bollywood_IMG/laksahyName.png",
+            "BgImg": "JSON/bollywood_IMG/lakshay1.jpg"
+        },
+        "anime4": {
+            "img": "JSON/bollywood_IMG/brother1.jpg",
+            "imgVideo": "JSON/bollywood_video/Brothers Official Trailer _ Akshay Kumar, Sidharth Malhotra, Jackie Shroff and Jacqueline Fernandez.mp4",
+            "imgDetails": "After a troubled past with their alcoholic father, two estranged brothers prepare to face each other again as rivals in a street fighting tournament.",
+            "imgName": "JSON/bollywood_IMG/brothersName.png",
+            "BgImg": "JSON/bollywood_IMG/brother2.jpg"
+        },
+        "anime5": {
+            "img": "JSON/bollywood_IMG/pk2.jpg",
+            "imgVideo": "JSON/bollywood_video/PK Official Teaser Trailer 1 (2014) - Comedy Movie HD.mp4",
+            "imgDetails": "When a naïve alien stranded on Earth is told to pray for a way home, his search for god reveals the follies of blind faith in organized religion.",
+            "imgName": "JSON/bollywood_IMG/pkName.png",
+            "BgImg": "JSON/bollywood_IMG/pk1.jpg"
+        },
+        "anime6": {
+            "img": "JSON/bollywood_IMG/lagaan1.jpg",
+            "imgVideo": "JSON/bollywood_video/Lagaan Trailer _ Lagaan_ Once Upon a Time in India _ Aamir Khan _ Ashutosh Gowariker.mp4",
+            "imgDetails": "In 1890s India, an arrogant British commander challenges the harshly taxed residents of Champaner to a high-stakes cricket match.",
+            "imgName": "JSON/bollywood_IMG/lagaanName.png",
+            "BgImg": "JSON/bollywood_IMG/lagaan2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/bollywood_IMG/drishiyam2.jpg",
+            "imgVideo": "JSON/bollywood_video/Drishyam - Official Trailer _ Starring Ajay Devgn, Tabu & Shriya Saran.mp4",
+            "imgDetails": "An unexceptional man becomes a murder suspect when the son of a high-ranking police official who harassed his daughter goes missing.",
+            "imgName": "JSON/bollywood_IMG/drishiyamName.png",
+            "BgImg": "JSON/bollywood_IMG/drishiyam1.jpg"
+        },
+        "anime8": {
+            "img": "JSON/bollywood_IMG/marrykom2.jpg",
+            "imgVideo": "JSON/bollywood_video/Mary Kom - Official Trailer _ Priyanka Chopra in & as Mary Kom _ In Cinemas NOW.mp4",
+            "imgDetails": "The daughter of a poor rice farmer overcomes the objections of her father and the demands of a male-dominated society to pursue a career in boxing.",
+            "imgName": "JSON/bollywood_IMG/marrykomName.png",
+            "BgImg": "JSON/bollywood_IMG/marrykom1.jpg"
+        },
+        "anime9": {
+            "img": "JSON/bollywood_IMG/rrr1.jpg",
+            "imgVideo": "JSON/bollywood_video/Bheem For Ramaraju - Ramaraju Intro - RRR(Telugu) _ NTR, Ram Charan, Ajay Devgn _ SS Rajamouli.mp4",
+            "imgDetails": "A fearless warrior on a perilous mission comes face to face with a steely cop serving British forces in this epic saga set in pre-independent India.",
+            "imgName": "JSON/bollywood_IMG/rrrName.png",
+            "BgImg": "JSON/bollywood_IMG/rrr2.jpg"
+        },
+        "anime10": {
+            "img": "JSON/bollywood_IMG/chennaiexpress1.jpg",
+            "imgVideo": "JSON/bollywood_video/_Chennai Express Trailer_ (Official) _ ShahRukh Khan, Deepika Padukone.mp4",
+            "imgDetails": "What could have been a sad journey turns joyful for Rahul when he falls in love with a woman en route to submerging his grandfather's ashes.",
+            "imgName": "JSON/bollywood_IMG/chennaiexpressName.png",
+            "BgImg": "JSON/bollywood_IMG/chenaiexpress2.jpg"
+        },
+        "anime11": {
+            "img": "JSON/bollywood_IMG/fukery1.jpg",
+            "imgVideo": "JSON/bollywood_video/_Fukrey official Trailer_ _ Pulkit Samrat, Manjot Singh, Ali Fazal, Richa Chadda,.mp4",
+            "imgDetails": "Four young male friends tackle the challenges and unexpected catastrophes of growing up clueless in this music-packed Bollywood teen drama. ",
+            "imgName": "JSON/bollywood_IMG/fukeryName.png",
+            "BgImg": "JSON/bollywood_IMG/fukrey2.jpg"
+        },
+        "anime12": {
+            "img": "JSON/bollywood_IMG/hassendelber1.jpg",
+            "imgVideo": "JSON/bollywood_video/HASEEN DILRUBA Official Trailer _ Taapsee Pannu, Vikrant, Harshvardhan _ Netflix.mp4",
+            "imgDetails": "Under investigation as a suspect in her husband’s murder, a wife reveals details of their thorny marriage that seem to only further blur the truth.",
+            "imgName": "JSON/bollywood_IMG/haseenNmae.png",
+            "BgImg": "JSON/bollywood_IMG/hasseen2.jpg"
+        }
+    },
+    {
+        "id": "anime2",
+        "video": "JSON/bollywood_video/Yeh Jawaani Hai Deewani _ English Subtitles _ Official Theatrical Trailer.mp4",
+        "movie_details": "On a trekking trip, an introvert falls for a charming ex-classmate, whose thirst for adventure drives them apart. Years later, their paths cross again.",
+        "movieImage_name": "JSON/bollywood_IMG/yaejawanihaidiwani.png",
+        "background_image": "JSON/bollywood_IMG/yaejawanihaidiwani1.jpg",
+        "anime1": {
+            "img": "JSON/bollywood_IMG/lukkachupi1.jpg",
+                "imgVideo":"Luka Chuppi Official Trailer _ Kartik Aaryan, Kriti Sanon, Dinesh Vijan, Laxman Utekar _ Mar 1.mp4",
+
+            "imgDetails": "Pretending to marry in order to cohabitate, a small-town couple lands in endless awkward situations to hide the truth from their orthodox families.",
+            "imgName": "likachupiName.png",
+            "BgImg": "likachupi2.jpg"
+        },
+        "anime2": {
+            "img": "JSON/bollywood_IMG/omg2.jpg",
+            "imgVideo": "JSON/bollywood_video/OMG_ Oh My God Theatrical Trailer _ Paresh Rawal, Akshay Kumar.mp4",
+            "imgDetails": "Mumbai shopkeeper Kanji Bhai files a lawsuit against God when an earthquake destroys his store and his insurance policy won't cover the damage.",
+            "imgName": "JSON/bollywood_IMG/omgName.png",
+            "BgImg": "JSON/bollywood_IMG/omg1.jpg"
+        },
+        "anime3": {
+            "img": "JSON/bollywood_IMG/lakshay2.jpg",
+            "imgVideo": "JSON/bollywood_video/videoplayback.mp4",
+            "imgDetails": "After dropping out of the army, a spoiled teenager reenlists and proves his mettle by becoming an officer just as war breaks out.",
+            "imgName": "JSON/bollywood_IMG/laksahyName.png",
+            "BgImg": "JSON/bollywood_IMG/lakshay1.jpg"
+        },
+        "anime4": {
+            "img": "JSON/bollywood_IMG/brother1.jpg",
+            "imgVideo": "JSON/bollywood_video/Brothers Official Trailer _ Akshay Kumar, Sidharth Malhotra, Jackie Shroff and Jacqueline Fernandez.mp4",
+            "imgDetails": "After a troubled past with their alcoholic father, two estranged brothers prepare to face each other again as rivals in a street fighting tournament.",
+            "imgName": "JSON/bollywood_IMG/brothersName.png",
+            "BgImg": "JSON/bollywood_IMG/brother2.jpg"
+        },
+        "anime5": {
+            "img": "JSON/bollywood_IMG/pk2.jpg",
+            "imgVideo": "JSON/bollywood_video/PK Official Teaser Trailer 1 (2014) - Comedy Movie HD.mp4",
+            "imgDetails": "When a naïve alien stranded on Earth is told to pray for a way home, his search for god reveals the follies of blind faith in organized religion.",
+            "imgName": "JSON/bollywood_IMG/pkName.png",
+            "BgImg": "JSON/bollywood_IMG/pk1.jpg"
+        },
+        "anime6": {
+            "img": "JSON/bollywood_IMG/lagaan1.jpg",
+            "imgVideo": "JSON/bollywood_video/Lagaan Trailer _ Lagaan_ Once Upon a Time in India _ Aamir Khan _ Ashutosh Gowariker.mp4",
+            "imgDetails": "In 1890s India, an arrogant British commander challenges the harshly taxed residents of Champaner to a high-stakes cricket match.",
+            "imgName": "JSON/bollywood_IMG/lagaanName.png",
+            "BgImg": "JSON/bollywood_IMG/lagaan2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/bollywood_IMG/drishiyam2.jpg",
+            "imgVideo": "JSON/bollywood_video/Drishyam - Official Trailer _ Starring Ajay Devgn, Tabu & Shriya Saran.mp4",
+            "imgDetails": "An unexceptional man becomes a murder suspect when the son of a high-ranking police official who harassed his daughter goes missing.",
+            "imgName": "JSON/bollywood_IMG/drishiyamName.png",
+            "BgImg": "JSON/bollywood_IMG/drishiyam1.jpg"
+        },
+        "anime8": {
+            "img": "JSON/bollywood_IMG/marrykom2.jpg",
+            "imgVideo": "JSON/bollywood_video/Mary Kom - Official Trailer _ Priyanka Chopra in & as Mary Kom _ In Cinemas NOW.mp4",
+            "imgDetails": "The daughter of a poor rice farmer overcomes the objections of her father and the demands of a male-dominated society to pursue a career in boxing.",
+            "imgName": "JSON/bollywood_IMG/marrykomName.png",
+            "BgImg": "JSON/bollywood_IMG/marrykom1.jpg"
+        },
+        "anime9": {
+            "img": "JSON/bollywood_IMG/rrr1.jpg",
+            "imgVideo": "JSON/bollywood_video/Bheem For Ramaraju - Ramaraju Intro - RRR(Telugu) _ NTR, Ram Charan, Ajay Devgn _ SS Rajamouli.mp4",
+            "imgDetails": "A fearless warrior on a perilous mission comes face to face with a steely cop serving British forces in this epic saga set in pre-independent India.",
+            "imgName": "JSON/bollywood_IMG/rrrName.png",
+            "BgImg": "JSON/bollywood_IMG/rrr2.jpg"
+        },
+        "anime10": {
+            "img": "JSON/bollywood_IMG/chennaiexpress1.jpg",
+            "imgVideo": "JSON/bollywood_video/_Chennai Express Trailer_ (Official) _ ShahRukh Khan, Deepika Padukone.mp4",
+            "imgDetails": "What could have been a sad journey turns joyful for Rahul when he falls in love with a woman en route to submerging his grandfather's ashes.",
+            "imgName": "JSON/bollywood_IMG/chennaiexpressName.png",
+            "BgImg": "JSON/bollywood_IMG/chenaiexpress2.jpg"
+        },
+        "anime11": {
+            "img": "JSON/bollywood_IMG/fukery1.jpg",
+            "imgVideo": "JSON/bollywood_video/_Fukrey official Trailer_ _ Pulkit Samrat, Manjot Singh, Ali Fazal, Richa Chadda,.mp4",
+            "imgDetails": "Four young male friends tackle the challenges and unexpected catastrophes of growing up clueless in this music-packed Bollywood teen drama. ",
+            "imgName": "JSON/bollywood_IMG/fukeryName.png",
+            "BgImg": "JSON/bollywood_IMG/fukrey2.jpg"
+        },
+        "anime12": {
+            "img": "JSON/bollywood_IMG/hassendelber1.jpg",
+            "imgVideo": "JSON/bollywood_video/HASEEN DILRUBA Official Trailer _ Taapsee Pannu, Vikrant, Harshvardhan _ Netflix.mp4",
+            "imgDetails": "Under investigation as a suspect in her husband’s murder, a wife reveals details of their thorny marriage that seem to only further blur the truth.",
+            "imgName": "JSON/bollywood_IMG/haseenNmae.png",
+            "BgImg": "JSON/bollywood_IMG/hasseen2.jpg"
+        }
+    },
+    {
+        "id": "anime3",
+        "video": "JSON/bollywood_video/OMG_ Oh My God Theatrical Trailer _ Paresh Rawal, Akshay Kumar.mp4",
+        "movie_details": "Mumbai shopkeeper Kanji Bhai files a lawsuit against God when an earthquake destroys his store and his insurance policy won't cover the damage.",
+        "movieImage_name": "JSON/bollywood_IMG/omgName.png",
+        "background_image": "JSON/bollywood_IMG/omg1.jpg",
+        "anime1": {
+            "img": "JSON/bollywood_IMG/yaejawanihaidiwani1.jpg",
+            "imgVideo": "JSON/bollywood_video/Yeh Jawaani Hai Deewani _ English Subtitles _ Official Theatrical Trailer.mp4",
+            "imgDetails": "On a trekking trip, an introvert falls for a charming ex-classmate, whose thirst for adventure drives them apart. Years later, their paths cross again.",
+            "imgName": "JSON/bollywood_IMG/yaejawanihaidiwani.png",
+            "BgImg": "JSON/bollywood_IMG/yaejawanihaidiwani2.jpg"
+        },
+        "anime2": {
+            "img": "JSON/bollywood_IMG/lukkachupi1.jpg",
+                "imgVideo":"Luka Chuppi Official Trailer _ Kartik Aaryan, Kriti Sanon, Dinesh Vijan, Laxman Utekar _ Mar 1.mp4",
+
+            "imgDetails": "Pretending to marry in order to cohabitate, a small-town couple lands in endless awkward situations to hide the truth from their orthodox families.",
+            "imgName": "likachupiName.png",
+            "BgImg": "likachupi2.jpg"
+        },
+        "anime3": {
+            "img": "JSON/bollywood_IMG/lakshay2.jpg",
+            "imgVideo": "JSON/bollywood_video/videoplayback.mp4",
+            "imgDetails": "After dropping out of the army, a spoiled teenager reenlists and proves his mettle by becoming an officer just as war breaks out.",
+            "imgName": "JSON/bollywood_IMG/laksahyName.png",
+            "BgImg": "JSON/bollywood_IMG/lakshay1.jpg"
+        },
+        "anime4": {
+            "img": "JSON/bollywood_IMG/brother1.jpg",
+            "imgVideo": "JSON/bollywood_video/Brothers Official Trailer _ Akshay Kumar, Sidharth Malhotra, Jackie Shroff and Jacqueline Fernandez.mp4",
+            "imgDetails": "After a troubled past with their alcoholic father, two estranged brothers prepare to face each other again as rivals in a street fighting tournament.",
+            "imgName": "JSON/bollywood_IMG/brothersName.png",
+            "BgImg": "JSON/bollywood_IMG/brother2.jpg"
+        },
+        "anime5": {
+            "img": "JSON/bollywood_IMG/pk2.jpg",
+            "imgVideo": "JSON/bollywood_video/PK Official Teaser Trailer 1 (2014) - Comedy Movie HD.mp4",
+            "imgDetails": "When a naïve alien stranded on Earth is told to pray for a way home, his search for god reveals the follies of blind faith in organized religion.",
+            "imgName": "JSON/bollywood_IMG/pkName.png",
+            "BgImg": "JSON/bollywood_IMG/pk1.jpg"
+        },
+        "anime6": {
+            "img": "JSON/bollywood_IMG/lagaan1.jpg",
+            "imgVideo": "JSON/bollywood_video/Lagaan Trailer _ Lagaan_ Once Upon a Time in India _ Aamir Khan _ Ashutosh Gowariker.mp4",
+            "imgDetails": "In 1890s India, an arrogant British commander challenges the harshly taxed residents of Champaner to a high-stakes cricket match.",
+            "imgName": "JSON/bollywood_IMG/lagaanName.png",
+            "BgImg": "JSON/bollywood_IMG/lagaan2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/bollywood_IMG/drishiyam2.jpg",
+            "imgVideo": "JSON/bollywood_video/Drishyam - Official Trailer _ Starring Ajay Devgn, Tabu & Shriya Saran.mp4",
+            "imgDetails": "An unexceptional man becomes a murder suspect when the son of a high-ranking police official who harassed his daughter goes missing.",
+            "imgName": "JSON/bollywood_IMG/drishiyamName.png",
+            "BgImg": "JSON/bollywood_IMG/drishiyam1.jpg"
+        },
+        "anime8": {
+            "img": "JSON/bollywood_IMG/marrykom2.jpg",
+            "imgVideo": "JSON/bollywood_video/Mary Kom - Official Trailer _ Priyanka Chopra in & as Mary Kom _ In Cinemas NOW.mp4",
+            "imgDetails": "The daughter of a poor rice farmer overcomes the objections of her father and the demands of a male-dominated society to pursue a career in boxing.",
+            "imgName": "JSON/bollywood_IMG/marrykomName.png",
+            "BgImg": "JSON/bollywood_IMG/marrykom1.jpg"
+        },
+        "anime9": {
+            "img": "JSON/bollywood_IMG/rrr1.jpg",
+            "imgVideo": "JSON/bollywood_video/Bheem For Ramaraju - Ramaraju Intro - RRR(Telugu) _ NTR, Ram Charan, Ajay Devgn _ SS Rajamouli.mp4",
+            "imgDetails": "A fearless warrior on a perilous mission comes face to face with a steely cop serving British forces in this epic saga set in pre-independent India.",
+            "imgName": "JSON/bollywood_IMG/rrrName.png",
+            "BgImg": "JSON/bollywood_IMG/rrr2.jpg"
+        },
+        "anime10": {
+            "img": "JSON/bollywood_IMG/chennaiexpress1.jpg",
+            "imgVideo": "JSON/bollywood_video/_Chennai Express Trailer_ (Official) _ ShahRukh Khan, Deepika Padukone.mp4",
+            "imgDetails": "What could have been a sad journey turns joyful for Rahul when he falls in love with a woman en route to submerging his grandfather's ashes.",
+            "imgName": "JSON/bollywood_IMG/chennaiexpressName.png",
+            "BgImg": "JSON/bollywood_IMG/chenaiexpress2.jpg"
+        },
+        "anime11": {
+            "img": "JSON/bollywood_IMG/fukery1.jpg",
+            "imgVideo": "JSON/bollywood_video/_Fukrey official Trailer_ _ Pulkit Samrat, Manjot Singh, Ali Fazal, Richa Chadda,.mp4",
+            "imgDetails": "Four young male friends tackle the challenges and unexpected catastrophes of growing up clueless in this music-packed Bollywood teen drama. ",
+            "imgName": "JSON/bollywood_IMG/fukeryName.png",
+            "BgImg": "JSON/bollywood_IMG/fukrey2.jpg"
+        },
+        "anime12": {
+            "img": "JSON/bollywood_IMG/hassendelber1.jpg",
+            "imgVideo": "JSON/bollywood_video/HASEEN DILRUBA Official Trailer _ Taapsee Pannu, Vikrant, Harshvardhan _ Netflix.mp4",
+            "imgDetails": "Under investigation as a suspect in her husband’s murder, a wife reveals details of their thorny marriage that seem to only further blur the truth.",
+            "imgName": "JSON/bollywood_IMG/haseenNmae.png",
+            "BgImg": "JSON/bollywood_IMG/hasseen2.jpg"
+        }
+    },
+    {
+        "id": "anime4",
+        "video": "JSON/bollywood_video/videoplayback.mp4",
+        "movie_details": "After dropping out of the army, a spoiled teenager reenlists and proves his mettle by becoming an officer just as war breaks out.",
+        "movieImage_name": "JSON/bollywood_IMG/laksahyName.png",
+        "background_image": "JSON/bollywood_IMG/lakshay1.jpg",
+        "anime1": {
+            "img": "JSON/bollywood_IMG/yaejawanihaidiwani1.jpg",
+            "imgVideo": "JSON/bollywood_video/Yeh Jawaani Hai Deewani _ English Subtitles _ Official Theatrical Trailer.mp4",
+            "imgDetails": "On a trekking trip, an introvert falls for a charming ex-classmate, whose thirst for adventure drives them apart. Years later, their paths cross again.",
+            "imgName": "JSON/bollywood_IMG/yaejawanihaidiwani.png",
+            "BgImg": "JSON/bollywood_IMG/yaejawanihaidiwani2.jpg"
+        },
+        "anime2": {
+            "img": "JSON/bollywood_IMG/omg2.jpg",
+            "imgVideo": "JSON/bollywood_video/OMG_ Oh My God Theatrical Trailer _ Paresh Rawal, Akshay Kumar.mp4",
+            "imgDetails": "Mumbai shopkeeper Kanji Bhai files a lawsuit against God when an earthquake destroys his store and his insurance policy won't cover the damage.",
+            "imgName": "JSON/bollywood_IMG/omgName.png",
+            "BgImg": "JSON/bollywood_IMG/omg1.jpg"
+        },
+        "anime3": {
+            "img": "JSON/bollywood_IMG/lukkachupi1.jpg",
+                "imgVideo":"Luka Chuppi Official Trailer _ Kartik Aaryan, Kriti Sanon, Dinesh Vijan, Laxman Utekar _ Mar 1.mp4",
+
+            "imgDetails": "Pretending to marry in order to cohabitate, a small-town couple lands in endless awkward situations to hide the truth from their orthodox families.",
+            "imgName": "likachupiName.png",
+            "BgImg": "likachupi2.jpg"
+        },
+        "anime4": {
+            "img": "JSON/bollywood_IMG/brother1.jpg",
+            "imgVideo": "JSON/bollywood_video/Brothers Official Trailer _ Akshay Kumar, Sidharth Malhotra, Jackie Shroff and Jacqueline Fernandez.mp4",
+            "imgDetails": "After a troubled past with their alcoholic father, two estranged brothers prepare to face each other again as rivals in a street fighting tournament.",
+            "imgName": "JSON/bollywood_IMG/brothersName.png",
+            "BgImg": "JSON/bollywood_IMG/brother2.jpg"
+        },
+        "anime5": {
+            "img": "JSON/bollywood_IMG/pk2.jpg",
+            "imgVideo": "JSON/bollywood_video/PK Official Teaser Trailer 1 (2014) - Comedy Movie HD.mp4",
+            "imgDetails": "When a naïve alien stranded on Earth is told to pray for a way home, his search for god reveals the follies of blind faith in organized religion.",
+            "imgName": "JSON/bollywood_IMG/pkName.png",
+            "BgImg": "JSON/bollywood_IMG/pk1.jpg"
+        },
+        "anime6": {
+            "img": "JSON/bollywood_IMG/lagaan1.jpg",
+            "imgVideo": "JSON/bollywood_video/Lagaan Trailer _ Lagaan_ Once Upon a Time in India _ Aamir Khan _ Ashutosh Gowariker.mp4",
+            "imgDetails": "In 1890s India, an arrogant British commander challenges the harshly taxed residents of Champaner to a high-stakes cricket match.",
+            "imgName": "JSON/bollywood_IMG/lagaanName.png",
+            "BgImg": "JSON/bollywood_IMG/lagaan2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/bollywood_IMG/drishiyam2.jpg",
+            "imgVideo": "JSON/bollywood_video/Drishyam - Official Trailer _ Starring Ajay Devgn, Tabu & Shriya Saran.mp4",
+            "imgDetails": "An unexceptional man becomes a murder suspect when the son of a high-ranking police official who harassed his daughter goes missing.",
+            "imgName": "JSON/bollywood_IMG/drishiyamName.png",
+            "BgImg": "JSON/bollywood_IMG/drishiyam1.jpg"
+        },
+        "anime8": {
+            "img": "JSON/bollywood_IMG/marrykom2.jpg",
+            "imgVideo": "JSON/bollywood_video/Mary Kom - Official Trailer _ Priyanka Chopra in & as Mary Kom _ In Cinemas NOW.mp4",
+            "imgDetails": "The daughter of a poor rice farmer overcomes the objections of her father and the demands of a male-dominated society to pursue a career in boxing.",
+            "imgName": "JSON/bollywood_IMG/marrykomName.png",
+            "BgImg": "JSON/bollywood_IMG/marrykom1.jpg"
+        },
+        "anime9": {
+            "img": "JSON/bollywood_IMG/rrr1.jpg",
+            "imgVideo": "JSON/bollywood_video/Bheem For Ramaraju - Ramaraju Intro - RRR(Telugu) _ NTR, Ram Charan, Ajay Devgn _ SS Rajamouli.mp4",
+            "imgDetails": "A fearless warrior on a perilous mission comes face to face with a steely cop serving British forces in this epic saga set in pre-independent India.",
+            "imgName": "JSON/bollywood_IMG/rrrName.png",
+            "BgImg": "JSON/bollywood_IMG/rrr2.jpg"
+        },
+        "anime10": {
+            "img": "JSON/bollywood_IMG/chennaiexpress1.jpg",
+            "imgVideo": "JSON/bollywood_video/_Chennai Express Trailer_ (Official) _ ShahRukh Khan, Deepika Padukone.mp4",
+            "imgDetails": "What could have been a sad journey turns joyful for Rahul when he falls in love with a woman en route to submerging his grandfather's ashes.",
+            "imgName": "JSON/bollywood_IMG/chennaiexpressName.png",
+            "BgImg": "JSON/bollywood_IMG/chenaiexpress2.jpg"
+        },
+        "anime11": {
+            "img": "JSON/bollywood_IMG/fukery1.jpg",
+            "imgVideo": "JSON/bollywood_video/_Fukrey official Trailer_ _ Pulkit Samrat, Manjot Singh, Ali Fazal, Richa Chadda,.mp4",
+            "imgDetails": "Four young male friends tackle the challenges and unexpected catastrophes of growing up clueless in this music-packed Bollywood teen drama. ",
+            "imgName": "JSON/bollywood_IMG/fukeryName.png",
+            "BgImg": "JSON/bollywood_IMG/fukrey2.jpg"
+        },
+        "anime12": {
+            "img": "JSON/bollywood_IMG/hassendelber1.jpg",
+            "imgVideo": "JSON/bollywood_video/HASEEN DILRUBA Official Trailer _ Taapsee Pannu, Vikrant, Harshvardhan _ Netflix.mp4",
+            "imgDetails": "Under investigation as a suspect in her husband’s murder, a wife reveals details of their thorny marriage that seem to only further blur the truth.",
+            "imgName": "JSON/bollywood_IMG/haseenNmae.png",
+            "BgImg": "JSON/bollywood_IMG/hasseen2.jpg"
+        }
+    },
+    {
+        "id": "anime5",
+        "video": "JSON/bollywood_video/Brothers Official Trailer _ Akshay Kumar, Sidharth Malhotra, Jackie Shroff and Jacqueline Fernandez.mp4",
+        "movie_details": "After a troubled past with their alcoholic father, two estranged brothers prepare to face each other again as rivals in a street fighting tournament.",
+        "movieImage_name": "JSON/bollywood_IMG/brothersName.png",
+        "background_image": "JSON/bollywood_IMG/brother1.jpg",
+        "anime1": {
+            "img": "JSON/bollywood_IMG/yaejawanihaidiwani1.jpg",
+            "imgVideo": "JSON/bollywood_video/Yeh Jawaani Hai Deewani _ English Subtitles _ Official Theatrical Trailer.mp4",
+            "imgDetails": "On a trekking trip, an introvert falls for a charming ex-classmate, whose thirst for adventure drives them apart. Years later, their paths cross again.",
+            "imgName": "JSON/bollywood_IMG/yaejawanihaidiwani.png",
+            "BgImg": "JSON/bollywood_IMG/yaejawanihaidiwani2.jpg"
+        },
+        "anime2": {
+            "img": "JSON/bollywood_IMG/omg2.jpg",
+            "imgVideo": "JSON/bollywood_video/OMG_ Oh My God Theatrical Trailer _ Paresh Rawal, Akshay Kumar.mp4",
+            "imgDetails": "Mumbai shopkeeper Kanji Bhai files a lawsuit against God when an earthquake destroys his store and his insurance policy won't cover the damage.",
+            "imgName": "JSON/bollywood_IMG/omgName.png",
+            "BgImg": "JSON/bollywood_IMG/omg1.jpg"
+        },
+        "anime3": {
+            "img": "JSON/bollywood_IMG/lakshay2.jpg",
+            "imgVideo": "JSON/bollywood_video/videoplayback.mp4",
+            "imgDetails": "After dropping out of the army, a spoiled teenager reenlists and proves his mettle by becoming an officer just as war breaks out.",
+            "imgName": "JSON/bollywood_IMG/laksahyName.png",
+            "BgImg": "JSON/bollywood_IMG/lakshay1.jpg"
+        },
+        "anime4": {
+            "img": "JSON/bollywood_IMG/lukkachupi1.jpg",
+                "imgVideo":"Luka Chuppi Official Trailer _ Kartik Aaryan, Kriti Sanon, Dinesh Vijan, Laxman Utekar _ Mar 1.mp4",
+
+            "imgDetails": "Pretending to marry in order to cohabitate, a small-town couple lands in endless awkward situations to hide the truth from their orthodox families.",
+            "imgName": "likachupiName.png",
+            "BgImg": "likachupi2.jpg"
+        },
+        "anime5": {
+            "img": "JSON/bollywood_IMG/pk2.jpg",
+            "imgVideo": "JSON/bollywood_video/PK Official Teaser Trailer 1 (2014) - Comedy Movie HD.mp4",
+            "imgDetails": "When a naïve alien stranded on Earth is told to pray for a way home, his search for god reveals the follies of blind faith in organized religion.",
+            "imgName": "JSON/bollywood_IMG/pkName.png",
+            "BgImg": "JSON/bollywood_IMG/pk1.jpg"
+        },
+        "anime6": {
+            "img": "JSON/bollywood_IMG/lagaan1.jpg",
+            "imgVideo": "JSON/bollywood_video/Lagaan Trailer _ Lagaan_ Once Upon a Time in India _ Aamir Khan _ Ashutosh Gowariker.mp4",
+            "imgDetails": "In 1890s India, an arrogant British commander challenges the harshly taxed residents of Champaner to a high-stakes cricket match.",
+            "imgName": "JSON/bollywood_IMG/lagaanName.png",
+            "BgImg": "JSON/bollywood_IMG/lagaan2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/bollywood_IMG/drishiyam2.jpg",
+            "imgVideo": "JSON/bollywood_video/Drishyam - Official Trailer _ Starring Ajay Devgn, Tabu & Shriya Saran.mp4",
+            "imgDetails": "An unexceptional man becomes a murder suspect when the son of a high-ranking police official who harassed his daughter goes missing.",
+            "imgName": "JSON/bollywood_IMG/drishiyamName.png",
+            "BgImg": "JSON/bollywood_IMG/drishiyam1.jpg"
+        },
+        "anime8": {
+            "img": "JSON/bollywood_IMG/marrykom2.jpg",
+            "imgVideo": "JSON/bollywood_video/Mary Kom - Official Trailer _ Priyanka Chopra in & as Mary Kom _ In Cinemas NOW.mp4",
+            "imgDetails": "The daughter of a poor rice farmer overcomes the objections of her father and the demands of a male-dominated society to pursue a career in boxing.",
+            "imgName": "JSON/bollywood_IMG/marrykomName.png",
+            "BgImg": "JSON/bollywood_IMG/marrykom1.jpg"
+        },
+        "anime9": {
+            "img": "JSON/bollywood_IMG/rrr1.jpg",
+            "imgVideo": "JSON/bollywood_video/Bheem For Ramaraju - Ramaraju Intro - RRR(Telugu) _ NTR, Ram Charan, Ajay Devgn _ SS Rajamouli.mp4",
+            "imgDetails": "A fearless warrior on a perilous mission comes face to face with a steely cop serving British forces in this epic saga set in pre-independent India.",
+            "imgName": "JSON/bollywood_IMG/rrrName.png",
+            "BgImg": "JSON/bollywood_IMG/rrr2.jpg"
+        },
+        "anime10": {
+            "img": "JSON/bollywood_IMG/chennaiexpress1.jpg",
+            "imgVideo": "JSON/bollywood_video/_Chennai Express Trailer_ (Official) _ ShahRukh Khan, Deepika Padukone.mp4",
+            "imgDetails": "What could have been a sad journey turns joyful for Rahul when he falls in love with a woman en route to submerging his grandfather's ashes.",
+            "imgName": "JSON/bollywood_IMG/chennaiexpressName.png",
+            "BgImg": "JSON/bollywood_IMG/chenaiexpress2.jpg"
+        },
+        "anime11": {
+            "img": "JSON/bollywood_IMG/fukery1.jpg",
+            "imgVideo": "JSON/bollywood_video/_Fukrey official Trailer_ _ Pulkit Samrat, Manjot Singh, Ali Fazal, Richa Chadda,.mp4",
+            "imgDetails": "Four young male friends tackle the challenges and unexpected catastrophes of growing up clueless in this music-packed Bollywood teen drama. ",
+            "imgName": "JSON/bollywood_IMG/fukeryName.png",
+            "BgImg": "JSON/bollywood_IMG/fukrey2.jpg"
+        },
+        "anime12": {
+            "img": "JSON/bollywood_IMG/hassendelber1.jpg",
+            "imgVideo": "JSON/bollywood_video/HASEEN DILRUBA Official Trailer _ Taapsee Pannu, Vikrant, Harshvardhan _ Netflix.mp4",
+            "imgDetails": "Under investigation as a suspect in her husband’s murder, a wife reveals details of their thorny marriage that seem to only further blur the truth.",
+            "imgName": "JSON/bollywood_IMG/haseenNmae.png",
+            "BgImg": "JSON/bollywood_IMG/hasseen2.jpg"
+        }
+    },
+    {
+        "id": "anime6",
+        "video": "JSON/bollywood_video/PK Official Teaser Trailer 1 (2014) - Comedy Movie HD.mp4",
+        "movie_details": "When a naïve alien stranded on Earth is told to pray for a way home, his search for god reveals the follies of blind faith in organized religion.",
+        "movieImage_name": "JSON/bollywood_IMG/pkName.png",
+        "background_image": "JSON/bollywood_IMG/pk1.jpg",
+        "anime1": {
+            "img": "JSON/bollywood_IMG/yaejawanihaidiwani1.jpg",
+            "imgVideo": "JSON/bollywood_video/Yeh Jawaani Hai Deewani _ English Subtitles _ Official Theatrical Trailer.mp4",
+            "imgDetails": "On a trekking trip, an introvert falls for a charming ex-classmate, whose thirst for adventure drives them apart. Years later, their paths cross again.",
+            "imgName": "JSON/bollywood_IMG/yaejawanihaidiwani.png",
+            "BgImg": "JSON/bollywood_IMG/yaejawanihaidiwani2.jpg"
+        },
+        "anime2": {
+            "img": "JSON/bollywood_IMG/omg2.jpg",
+            "imgVideo": "JSON/bollywood_video/OMG_ Oh My God Theatrical Trailer _ Paresh Rawal, Akshay Kumar.mp4",
+            "imgDetails": "Mumbai shopkeeper Kanji Bhai files a lawsuit against God when an earthquake destroys his store and his insurance policy won't cover the damage.",
+            "imgName": "JSON/bollywood_IMG/omgName.png",
+            "BgImg": "JSON/bollywood_IMG/omg1.jpg"
+        },
+        "anime3": {
+            "img": "JSON/bollywood_IMG/lakshay2.jpg",
+            "imgVideo": "JSON/bollywood_video/videoplayback.mp4",
+            "imgDetails": "After dropping out of the army, a spoiled teenager reenlists and proves his mettle by becoming an officer just as war breaks out.",
+            "imgName": "JSON/bollywood_IMG/laksahyName.png",
+            "BgImg": "JSON/bollywood_IMG/lakshay1.jpg"
+        },
+        "anime4": {
+            "img": "JSON/bollywood_IMG/brother1.jpg",
+            "imgVideo": "JSON/bollywood_video/Brothers Official Trailer _ Akshay Kumar, Sidharth Malhotra, Jackie Shroff and Jacqueline Fernandez.mp4",
+            "imgDetails": "After a troubled past with their alcoholic father, two estranged brothers prepare to face each other again as rivals in a street fighting tournament.",
+            "imgName": "JSON/bollywood_IMG/brothersName.png",
+            "BgImg": "JSON/bollywood_IMG/brother2.jpg"
+        },
+        "anime5": {
+            "img": "JSON/bollywood_IMG/lukkachupi1.jpg",
+                "imgVideo":"Luka Chuppi Official Trailer _ Kartik Aaryan, Kriti Sanon, Dinesh Vijan, Laxman Utekar _ Mar 1.mp4",
+
+            "imgDetails": "Pretending to marry in order to cohabitate, a small-town couple lands in endless awkward situations to hide the truth from their orthodox families.",
+            "imgName": "likachupiName.png",
+            "BgImg": "likachupi2.jpg"
+        },
+        "anime6": {
+            "img": "JSON/bollywood_IMG/lagaan1.jpg",
+            "imgVideo": "JSON/bollywood_video/Lagaan Trailer _ Lagaan_ Once Upon a Time in India _ Aamir Khan _ Ashutosh Gowariker.mp4",
+            "imgDetails": "In 1890s India, an arrogant British commander challenges the harshly taxed residents of Champaner to a high-stakes cricket match.",
+            "imgName": "JSON/bollywood_IMG/lagaanName.png",
+            "BgImg": "JSON/bollywood_IMG/lagaan2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/bollywood_IMG/drishiyam2.jpg",
+            "imgVideo": "JSON/bollywood_video/Drishyam - Official Trailer _ Starring Ajay Devgn, Tabu & Shriya Saran.mp4",
+            "imgDetails": "An unexceptional man becomes a murder suspect when the son of a high-ranking police official who harassed his daughter goes missing.",
+            "imgName": "JSON/bollywood_IMG/drishiyamName.png",
+            "BgImg": "JSON/bollywood_IMG/drishiyam1.jpg"
+        },
+        "anime8": {
+            "img": "JSON/bollywood_IMG/marrykom2.jpg",
+            "imgVideo": "JSON/bollywood_video/Mary Kom - Official Trailer _ Priyanka Chopra in & as Mary Kom _ In Cinemas NOW.mp4",
+            "imgDetails": "The daughter of a poor rice farmer overcomes the objections of her father and the demands of a male-dominated society to pursue a career in boxing.",
+            "imgName": "JSON/bollywood_IMG/marrykomName.png",
+            "BgImg": "JSON/bollywood_IMG/marrykom1.jpg"
+        },
+        "anime9": {
+            "img": "JSON/bollywood_IMG/rrr1.jpg",
+            "imgVideo": "JSON/bollywood_video/Bheem For Ramaraju - Ramaraju Intro - RRR(Telugu) _ NTR, Ram Charan, Ajay Devgn _ SS Rajamouli.mp4",
+            "imgDetails": "A fearless warrior on a perilous mission comes face to face with a steely cop serving British forces in this epic saga set in pre-independent India.",
+            "imgName": "JSON/bollywood_IMG/rrrName.png",
+            "BgImg": "JSON/bollywood_IMG/rrr2.jpg"
+        },
+        "anime10": {
+            "img": "JSON/bollywood_IMG/chennaiexpress1.jpg",
+            "imgVideo": "JSON/bollywood_video/_Chennai Express Trailer_ (Official) _ ShahRukh Khan, Deepika Padukone.mp4",
+            "imgDetails": "What could have been a sad journey turns joyful for Rahul when he falls in love with a woman en route to submerging his grandfather's ashes.",
+            "imgName": "JSON/bollywood_IMG/chennaiexpressName.png",
+            "BgImg": "JSON/bollywood_IMG/chenaiexpress2.jpg"
+        },
+        "anime11": {
+            "img": "JSON/bollywood_IMG/fukery1.jpg",
+            "imgVideo": "JSON/bollywood_video/_Fukrey official Trailer_ _ Pulkit Samrat, Manjot Singh, Ali Fazal, Richa Chadda,.mp4",
+            "imgDetails": "Four young male friends tackle the challenges and unexpected catastrophes of growing up clueless in this music-packed Bollywood teen drama. ",
+            "imgName": "JSON/bollywood_IMG/fukeryName.png",
+            "BgImg": "JSON/bollywood_IMG/fukrey2.jpg"
+        },
+        "anime12": {
+            "img": "JSON/bollywood_IMG/hassendelber1.jpg",
+            "imgVideo": "JSON/bollywood_video/HASEEN DILRUBA Official Trailer _ Taapsee Pannu, Vikrant, Harshvardhan _ Netflix.mp4",
+            "imgDetails": "Under investigation as a suspect in her husband’s murder, a wife reveals details of their thorny marriage that seem to only further blur the truth.",
+            "imgName": "JSON/bollywood_IMG/haseenNmae.png",
+            "BgImg": "JSON/bollywood_IMG/hasseen2.jpg"
+        }
+    },
+    {
+        "id": "anime7",
+        "video": "JSON/bollywood_video/Lagaan Trailer _ Lagaan_ Once Upon a Time in India _ Aamir Khan _ Ashutosh Gowariker.mp4",
+        "movie_details": "In 1890s India, an arrogant British commander challenges the harshly taxed residents of Champaner to a high-stakes cricket match.",
+        "movieImage_name": "JSON/bollywood_IMG/lagaanName.png",
+        "background_image": "JSON/bollywood_IMG/lagaan2.jpg",
+        "anime1": {
+            "img": "JSON/bollywood_IMG/yaejawanihaidiwani1.jpg",
+            "imgVideo": "JSON/bollywood_video/Yeh Jawaani Hai Deewani _ English Subtitles _ Official Theatrical Trailer.mp4",
+            "imgDetails": "On a trekking trip, an introvert falls for a charming ex-classmate, whose thirst for adventure drives them apart. Years later, their paths cross again.",
+            "imgName": "JSON/bollywood_IMG/yaejawanihaidiwani.png",
+            "BgImg": "JSON/bollywood_IMG/yaejawanihaidiwani2.jpg"
+        },
+        "anime2": {
+            "img": "JSON/bollywood_IMG/omg2.jpg",
+            "imgVideo": "JSON/bollywood_video/OMG_ Oh My God Theatrical Trailer _ Paresh Rawal, Akshay Kumar.mp4",
+            "imgDetails": "Mumbai shopkeeper Kanji Bhai files a lawsuit against God when an earthquake destroys his store and his insurance policy won't cover the damage.",
+            "imgName": "JSON/bollywood_IMG/omgName.png",
+            "BgImg": "JSON/bollywood_IMG/omg1.jpg"
+        },
+        "anime3": {
+            "img": "JSON/bollywood_IMG/lakshay2.jpg",
+            "imgVideo": "JSON/bollywood_video/videoplayback.mp4",
+            "imgDetails": "After dropping out of the army, a spoiled teenager reenlists and proves his mettle by becoming an officer just as war breaks out.",
+            "imgName": "JSON/bollywood_IMG/laksahyName.png",
+            "BgImg": "JSON/bollywood_IMG/lakshay1.jpg"
+        },
+        "anime4": {
+            "img": "JSON/bollywood_IMG/brother1.jpg",
+            "imgVideo": "JSON/bollywood_video/Brothers Official Trailer _ Akshay Kumar, Sidharth Malhotra, Jackie Shroff and Jacqueline Fernandez.mp4",
+            "imgDetails": "After a troubled past with their alcoholic father, two estranged brothers prepare to face each other again as rivals in a street fighting tournament.",
+            "imgName": "JSON/bollywood_IMG/brothersName.png",
+            "BgImg": "JSON/bollywood_IMG/brother2.jpg"
+        },
+        "anime5": {
+            "img": "JSON/bollywood_IMG/pk2.jpg",
+            "imgVideo": "JSON/bollywood_video/PK Official Teaser Trailer 1 (2014) - Comedy Movie HD.mp4",
+            "imgDetails": "When a naïve alien stranded on Earth is told to pray for a way home, his search for god reveals the follies of blind faith in organized religion.",
+            "imgName": "JSON/bollywood_IMG/pkName.png",
+            "BgImg": "JSON/bollywood_IMG/pk1.jpg"
+        },
+        "anime6": {
+            "img": "JSON/bollywood_IMG/lukkachupi1.jpg",
+                "imgVideo":"Luka Chuppi Official Trailer _ Kartik Aaryan, Kriti Sanon, Dinesh Vijan, Laxman Utekar _ Mar 1.mp4",
+
+            "imgDetails": "Pretending to marry in order to cohabitate, a small-town couple lands in endless awkward situations to hide the truth from their orthodox families.",
+            "imgName": "likachupiName.png",
+            "BgImg": "likachupi2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/bollywood_IMG/drishiyam2.jpg",
+            "imgVideo": "JSON/bollywood_video/Drishyam - Official Trailer _ Starring Ajay Devgn, Tabu & Shriya Saran.mp4",
+            "imgDetails": "An unexceptional man becomes a murder suspect when the son of a high-ranking police official who harassed his daughter goes missing.",
+            "imgName": "JSON/bollywood_IMG/drishiyamName.png",
+            "BgImg": "JSON/bollywood_IMG/drishiyam1.jpg"
+        },
+        "anime8": {
+            "img": "JSON/bollywood_IMG/marrykom2.jpg",
+            "imgVideo": "JSON/bollywood_video/Mary Kom - Official Trailer _ Priyanka Chopra in & as Mary Kom _ In Cinemas NOW.mp4",
+            "imgDetails": "The daughter of a poor rice farmer overcomes the objections of her father and the demands of a male-dominated society to pursue a career in boxing.",
+            "imgName": "JSON/bollywood_IMG/marrykomName.png",
+            "BgImg": "JSON/bollywood_IMG/marrykom1.jpg"
+        },
+        "anime9": {
+            "img": "JSON/bollywood_IMG/rrr1.jpg",
+            "imgVideo": "JSON/bollywood_video/Bheem For Ramaraju - Ramaraju Intro - RRR(Telugu) _ NTR, Ram Charan, Ajay Devgn _ SS Rajamouli.mp4",
+            "imgDetails": "A fearless warrior on a perilous mission comes face to face with a steely cop serving British forces in this epic saga set in pre-independent India.",
+            "imgName": "JSON/bollywood_IMG/rrrName.png",
+            "BgImg": "JSON/bollywood_IMG/rrr2.jpg"
+        },
+        "anime10": {
+            "img": "JSON/bollywood_IMG/chennaiexpress1.jpg",
+            "imgVideo": "JSON/bollywood_video/_Chennai Express Trailer_ (Official) _ ShahRukh Khan, Deepika Padukone.mp4",
+            "imgDetails": "What could have been a sad journey turns joyful for Rahul when he falls in love with a woman en route to submerging his grandfather's ashes.",
+            "imgName": "JSON/bollywood_IMG/chennaiexpressName.png",
+            "BgImg": "JSON/bollywood_IMG/chenaiexpress2.jpg"
+        },
+        "anime11": {
+            "img": "JSON/bollywood_IMG/fukery1.jpg",
+            "imgVideo": "JSON/bollywood_video/_Fukrey official Trailer_ _ Pulkit Samrat, Manjot Singh, Ali Fazal, Richa Chadda,.mp4",
+            "imgDetails": "Four young male friends tackle the challenges and unexpected catastrophes of growing up clueless in this music-packed Bollywood teen drama. ",
+            "imgName": "JSON/bollywood_IMG/fukeryName.png",
+            "BgImg": "JSON/bollywood_IMG/fukrey2.jpg"
+        },
+        "anime12": {
+            "img": "JSON/bollywood_IMG/hassendelber1.jpg",
+            "imgVideo": "JSON/bollywood_video/HASEEN DILRUBA Official Trailer _ Taapsee Pannu, Vikrant, Harshvardhan _ Netflix.mp4",
+            "imgDetails": "Under investigation as a suspect in her husband’s murder, a wife reveals details of their thorny marriage that seem to only further blur the truth.",
+            "imgName": "JSON/bollywood_IMG/haseenNmae.png",
+            "BgImg": "JSON/bollywood_IMG/hasseen2.jpg"
+        }
+    },
+    {
+        "id": "anime8",
+        "video": "JSON/bollywood_video/Drishyam - Official Trailer _ Starring Ajay Devgn, Tabu & Shriya Saran.mp4",
+        "movie_details": "An unexceptional man becomes a murder suspect when the son of a high-ranking police official who harassed his daughter goes missing.",
+        "movieImage_name": "JSON/bollywood_IMG/drishiyamName.png",
+        "background_image": "JSON/bollywood_IMG/drishiyam1.jpg",
+        "anime1": {
+            "img": "JSON/bollywood_IMG/yaejawanihaidiwani1.jpg",
+            "imgVideo": "JSON/bollywood_video/Yeh Jawaani Hai Deewani _ English Subtitles _ Official Theatrical Trailer.mp4",
+            "imgDetails": "On a trekking trip, an introvert falls for a charming ex-classmate, whose thirst for adventure drives them apart. Years later, their paths cross again.",
+            "imgName": "JSON/bollywood_IMG/yaejawanihaidiwani.png",
+            "BgImg": "JSON/bollywood_IMG/yaejawanihaidiwani2.jpg"
+        },
+        "anime2": {
+            "img": "JSON/bollywood_IMG/omg2.jpg",
+            "imgVideo": "JSON/bollywood_video/OMG_ Oh My God Theatrical Trailer _ Paresh Rawal, Akshay Kumar.mp4",
+            "imgDetails": "Mumbai shopkeeper Kanji Bhai files a lawsuit against God when an earthquake destroys his store and his insurance policy won't cover the damage.",
+            "imgName": "JSON/bollywood_IMG/omgName.png",
+            "BgImg": "JSON/bollywood_IMG/omg1.jpg"
+        },
+        "anime3": {
+            "img": "JSON/bollywood_IMG/lakshay2.jpg",
+            "imgVideo": "JSON/bollywood_video/videoplayback.mp4",
+            "imgDetails": "After dropping out of the army, a spoiled teenager reenlists and proves his mettle by becoming an officer just as war breaks out.",
+            "imgName": "JSON/bollywood_IMG/laksahyName.png",
+            "BgImg": "JSON/bollywood_IMG/lakshay1.jpg"
+        },
+        "anime4": {
+            "img": "JSON/bollywood_IMG/brother1.jpg",
+            "imgVideo": "JSON/bollywood_video/Brothers Official Trailer _ Akshay Kumar, Sidharth Malhotra, Jackie Shroff and Jacqueline Fernandez.mp4",
+            "imgDetails": "After a troubled past with their alcoholic father, two estranged brothers prepare to face each other again as rivals in a street fighting tournament.",
+            "imgName": "JSON/bollywood_IMG/brothersName.png",
+            "BgImg": "JSON/bollywood_IMG/brother2.jpg"
+        },
+        "anime5": {
+            "img": "JSON/bollywood_IMG/pk2.jpg",
+            "imgVideo": "JSON/bollywood_video/PK Official Teaser Trailer 1 (2014) - Comedy Movie HD.mp4",
+            "imgDetails": "When a naïve alien stranded on Earth is told to pray for a way home, his search for god reveals the follies of blind faith in organized religion.",
+            "imgName": "JSON/bollywood_IMG/pkName.png",
+            "BgImg": "JSON/bollywood_IMG/pk1.jpg"
+        },
+        "anime6": {
+            "img": "JSON/bollywood_IMG/lagaan1.jpg",
+            "imgVideo": "JSON/bollywood_video/Lagaan Trailer _ Lagaan_ Once Upon a Time in India _ Aamir Khan _ Ashutosh Gowariker.mp4",
+            "imgDetails": "In 1890s India, an arrogant British commander challenges the harshly taxed residents of Champaner to a high-stakes cricket match.",
+            "imgName": "JSON/bollywood_IMG/lagaanName.png",
+            "BgImg": "JSON/bollywood_IMG/lagaan2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/bollywood_IMG/lukkachupi1.jpg",
+                "imgVideo":"Luka Chuppi Official Trailer _ Kartik Aaryan, Kriti Sanon, Dinesh Vijan, Laxman Utekar _ Mar 1.mp4",
+
+            "imgDetails": "Pretending to marry in order to cohabitate, a small-town couple lands in endless awkward situations to hide the truth from their orthodox families.",
+            "imgName": "likachupiName.png",
+            "BgImg": "likachupi2.jpg"
+        },
+        "anime8": {
+            "img": "JSON/bollywood_IMG/marrykom2.jpg",
+            "imgVideo": "JSON/bollywood_video/Mary Kom - Official Trailer _ Priyanka Chopra in & as Mary Kom _ In Cinemas NOW.mp4",
+            "imgDetails": "The daughter of a poor rice farmer overcomes the objections of her father and the demands of a male-dominated society to pursue a career in boxing.",
+            "imgName": "JSON/bollywood_IMG/marrykomName.png",
+            "BgImg": "JSON/bollywood_IMG/marrykom1.jpg"
+        },
+        "anime9": {
+            "img": "JSON/bollywood_IMG/rrr1.jpg",
+            "imgVideo": "JSON/bollywood_video/Bheem For Ramaraju - Ramaraju Intro - RRR(Telugu) _ NTR, Ram Charan, Ajay Devgn _ SS Rajamouli.mp4",
+            "imgDetails": "A fearless warrior on a perilous mission comes face to face with a steely cop serving British forces in this epic saga set in pre-independent India.",
+            "imgName": "JSON/bollywood_IMG/rrrName.png",
+            "BgImg": "JSON/bollywood_IMG/rrr2.jpg"
+        },
+        "anime10": {
+            "img": "JSON/bollywood_IMG/chennaiexpress1.jpg",
+            "imgVideo": "JSON/bollywood_video/_Chennai Express Trailer_ (Official) _ ShahRukh Khan, Deepika Padukone.mp4",
+            "imgDetails": "What could have been a sad journey turns joyful for Rahul when he falls in love with a woman en route to submerging his grandfather's ashes.",
+            "imgName": "JSON/bollywood_IMG/chennaiexpressName.png",
+            "BgImg": "JSON/bollywood_IMG/chenaiexpress2.jpg"
+        },
+        "anime11": {
+            "img": "JSON/bollywood_IMG/fukery1.jpg",
+            "imgVideo": "JSON/bollywood_video/_Fukrey official Trailer_ _ Pulkit Samrat, Manjot Singh, Ali Fazal, Richa Chadda,.mp4",
+            "imgDetails": "Four young male friends tackle the challenges and unexpected catastrophes of growing up clueless in this music-packed Bollywood teen drama. ",
+            "imgName": "JSON/bollywood_IMG/fukeryName.png",
+            "BgImg": "JSON/bollywood_IMG/fukrey2.jpg"
+        },
+        "anime12": {
+            "img": "JSON/bollywood_IMG/hassendelber1.jpg",
+            "imgVideo": "JSON/bollywood_video/HASEEN DILRUBA Official Trailer _ Taapsee Pannu, Vikrant, Harshvardhan _ Netflix.mp4",
+            "imgDetails": "Under investigation as a suspect in her husband’s murder, a wife reveals details of their thorny marriage that seem to only further blur the truth.",
+            "imgName": "JSON/bollywood_IMG/haseenNmae.png",
+            "BgImg": "JSON/bollywood_IMG/hasseen2.jpg"
+        }
+    },
+    {
+        "id": "anime9",
+        "video": "JSON/bollywood_video/Mary Kom - Official Trailer _ Priyanka Chopra in & as Mary Kom _ In Cinemas NOW.mp4",
+        "movie_details": "The daughter of a poor rice farmer overcomes the objections of her father and the demands of a male-dominated society to pursue a career in boxing.",
+        "movieImage_name": "JSON/bollywood_IMG/marrykomName.png",
+        "background_image": "JSON/bollywood_IMG/marrykom1.jpg",
+        "anime1": {
+            "img": "JSON/bollywood_IMG/yaejawanihaidiwani1.jpg",
+            "imgVideo": "JSON/bollywood_video/Yeh Jawaani Hai Deewani _ English Subtitles _ Official Theatrical Trailer.mp4",
+            "imgDetails": "On a trekking trip, an introvert falls for a charming ex-classmate, whose thirst for adventure drives them apart. Years later, their paths cross again.",
+            "imgName": "JSON/bollywood_IMG/yaejawanihaidiwani.png",
+            "BgImg": "JSON/bollywood_IMG/yaejawanihaidiwani2.jpg"
+        },
+        "anime2": {
+            "img": "JSON/bollywood_IMG/omg2.jpg",
+            "imgVideo": "JSON/bollywood_video/OMG_ Oh My God Theatrical Trailer _ Paresh Rawal, Akshay Kumar.mp4",
+            "imgDetails": "Mumbai shopkeeper Kanji Bhai files a lawsuit against God when an earthquake destroys his store and his insurance policy won't cover the damage.",
+            "imgName": "JSON/bollywood_IMG/omgName.png",
+            "BgImg": "JSON/bollywood_IMG/omg1.jpg"
+        },
+        "anime3": {
+            "img": "JSON/bollywood_IMG/lakshay2.jpg",
+            "imgVideo": "JSON/bollywood_video/videoplayback.mp4",
+            "imgDetails": "After dropping out of the army, a spoiled teenager reenlists and proves his mettle by becoming an officer just as war breaks out.",
+            "imgName": "JSON/bollywood_IMG/laksahyName.png",
+            "BgImg": "JSON/bollywood_IMG/lakshay1.jpg"
+        },
+        "anime4": {
+            "img": "JSON/bollywood_IMG/brother1.jpg",
+            "imgVideo": "JSON/bollywood_video/Brothers Official Trailer _ Akshay Kumar, Sidharth Malhotra, Jackie Shroff and Jacqueline Fernandez.mp4",
+            "imgDetails": "After a troubled past with their alcoholic father, two estranged brothers prepare to face each other again as rivals in a street fighting tournament.",
+            "imgName": "JSON/bollywood_IMG/brothersName.png",
+            "BgImg": "JSON/bollywood_IMG/brother2.jpg"
+        },
+        "anime5": {
+            "img": "JSON/bollywood_IMG/pk2.jpg",
+            "imgVideo": "JSON/bollywood_video/PK Official Teaser Trailer 1 (2014) - Comedy Movie HD.mp4",
+            "imgDetails": "When a naïve alien stranded on Earth is told to pray for a way home, his search for god reveals the follies of blind faith in organized religion.",
+            "imgName": "JSON/bollywood_IMG/pkName.png",
+            "BgImg": "JSON/bollywood_IMG/pk1.jpg"
+        },
+        "anime6": {
+            "img": "JSON/bollywood_IMG/lagaan1.jpg",
+            "imgVideo": "JSON/bollywood_video/Lagaan Trailer _ Lagaan_ Once Upon a Time in India _ Aamir Khan _ Ashutosh Gowariker.mp4",
+            "imgDetails": "In 1890s India, an arrogant British commander challenges the harshly taxed residents of Champaner to a high-stakes cricket match.",
+            "imgName": "JSON/bollywood_IMG/lagaanName.png",
+            "BgImg": "JSON/bollywood_IMG/lagaan2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/bollywood_IMG/drishiyam2.jpg",
+            "imgVideo": "JSON/bollywood_video/Drishyam - Official Trailer _ Starring Ajay Devgn, Tabu & Shriya Saran.mp4",
+            "imgDetails": "An unexceptional man becomes a murder suspect when the son of a high-ranking police official who harassed his daughter goes missing.",
+            "imgName": "JSON/bollywood_IMG/drishiyamName.png",
+            "BgImg": "JSON/bollywood_IMG/drishiyam1.jpg"
+        },
+        "anime8": {
+            "img": "JSON/bollywood_IMG/lukkachupi1.jpg",
+                "imgVideo":"Luka Chuppi Official Trailer _ Kartik Aaryan, Kriti Sanon, Dinesh Vijan, Laxman Utekar _ Mar 1.mp4",
+
+            "imgDetails": "Pretending to marry in order to cohabitate, a small-town couple lands in endless awkward situations to hide the truth from their orthodox families.",
+            "imgName": "likachupiName.png",
+            "BgImg": "likachupi2.jpg"
+        },
+        "anime9": {
+            "img": "JSON/bollywood_IMG/rrr1.jpg",
+            "imgVideo": "JSON/bollywood_video/Bheem For Ramaraju - Ramaraju Intro - RRR(Telugu) _ NTR, Ram Charan, Ajay Devgn _ SS Rajamouli.mp4",
+            "imgDetails": "A fearless warrior on a perilous mission comes face to face with a steely cop serving British forces in this epic saga set in pre-independent India.",
+            "imgName": "JSON/bollywood_IMG/rrrName.png",
+            "BgImg": "JSON/bollywood_IMG/rrr2.jpg"
+        },
+        "anime10": {
+            "img": "JSON/bollywood_IMG/chennaiexpress1.jpg",
+            "imgVideo": "JSON/bollywood_video/_Chennai Express Trailer_ (Official) _ ShahRukh Khan, Deepika Padukone.mp4",
+            "imgDetails": "What could have been a sad journey turns joyful for Rahul when he falls in love with a woman en route to submerging his grandfather's ashes.",
+            "imgName": "JSON/bollywood_IMG/chennaiexpressName.png",
+            "BgImg": "JSON/bollywood_IMG/chenaiexpress2.jpg"
+        },
+        "anime11": {
+            "img": "JSON/bollywood_IMG/fukery1.jpg",
+            "imgVideo": "JSON/bollywood_video/_Fukrey official Trailer_ _ Pulkit Samrat, Manjot Singh, Ali Fazal, Richa Chadda,.mp4",
+            "imgDetails": "Four young male friends tackle the challenges and unexpected catastrophes of growing up clueless in this music-packed Bollywood teen drama. ",
+            "imgName": "JSON/bollywood_IMG/fukeryName.png",
+            "BgImg": "JSON/bollywood_IMG/fukrey2.jpg"
+        },
+        "anime12": {
+            "img": "JSON/bollywood_IMG/hassendelber1.jpg",
+            "imgVideo": "JSON/bollywood_video/HASEEN DILRUBA Official Trailer _ Taapsee Pannu, Vikrant, Harshvardhan _ Netflix.mp4",
+            "imgDetails": "Under investigation as a suspect in her husband’s murder, a wife reveals details of their thorny marriage that seem to only further blur the truth.",
+            "imgName": "JSON/bollywood_IMG/haseenNmae.png",
+            "BgImg": "JSON/bollywood_IMG/hasseen2.jpg"
+        }
+    },
+    {
+        "id": "anime10",
+        "video": "JSON/bollywood_video/Bheem For Ramaraju - Ramaraju Intro - RRR(Telugu) _ NTR, Ram Charan, Ajay Devgn _ SS Rajamouli.mp4",
+        "movie_details": "A fearless warrior on a perilous mission comes face to face with a steely cop serving British forces in this epic saga set in pre-independent India.",
+        "movieImage_name": "JSON/bollywood_IMG/rrrName.png",
+        "background_image": "JSON/bollywood_IMG/rrr2.jpg",
+        "anime1": {
+            "img": "JSON/bollywood_IMG/yaejawanihaidiwani1.jpg",
+            "imgVideo": "JSON/bollywood_video/Yeh Jawaani Hai Deewani _ English Subtitles _ Official Theatrical Trailer.mp4",
+            "imgDetails": "On a trekking trip, an introvert falls for a charming ex-classmate, whose thirst for adventure drives them apart. Years later, their paths cross again.",
+            "imgName": "JSON/bollywood_IMG/yaejawanihaidiwani.png",
+            "BgImg": "JSON/bollywood_IMG/yaejawanihaidiwani2.jpg"
+        },
+        "anime2": {
+            "img": "JSON/bollywood_IMG/omg2.jpg",
+            "imgVideo": "JSON/bollywood_video/OMG_ Oh My God Theatrical Trailer _ Paresh Rawal, Akshay Kumar.mp4",
+            "imgDetails": "Mumbai shopkeeper Kanji Bhai files a lawsuit against God when an earthquake destroys his store and his insurance policy won't cover the damage.",
+            "imgName": "JSON/bollywood_IMG/omgName.png",
+            "BgImg": "JSON/bollywood_IMG/omg1.jpg"
+        },
+        "anime3": {
+            "img": "JSON/bollywood_IMG/lakshay2.jpg",
+            "imgVideo": "JSON/bollywood_video/videoplayback.mp4",
+            "imgDetails": "After dropping out of the army, a spoiled teenager reenlists and proves his mettle by becoming an officer just as war breaks out.",
+            "imgName": "JSON/bollywood_IMG/laksahyName.png",
+            "BgImg": "JSON/bollywood_IMG/lakshay1.jpg"
+        },
+        "anime4": {
+            "img": "JSON/bollywood_IMG/brother1.jpg",
+            "imgVideo": "JSON/bollywood_video/Brothers Official Trailer _ Akshay Kumar, Sidharth Malhotra, Jackie Shroff and Jacqueline Fernandez.mp4",
+            "imgDetails": "After a troubled past with their alcoholic father, two estranged brothers prepare to face each other again as rivals in a street fighting tournament.",
+            "imgName": "JSON/bollywood_IMG/brothersName.png",
+            "BgImg": "JSON/bollywood_IMG/brother2.jpg"
+        },
+        "anime5": {
+            "img": "JSON/bollywood_IMG/pk2.jpg",
+            "imgVideo": "JSON/bollywood_video/PK Official Teaser Trailer 1 (2014) - Comedy Movie HD.mp4",
+            "imgDetails": "When a naïve alien stranded on Earth is told to pray for a way home, his search for god reveals the follies of blind faith in organized religion.",
+            "imgName": "JSON/bollywood_IMG/pkName.png",
+            "BgImg": "JSON/bollywood_IMG/pk1.jpg"
+        },
+        "anime6": {
+            "img": "JSON/bollywood_IMG/lagaan1.jpg",
+            "imgVideo": "JSON/bollywood_video/Lagaan Trailer _ Lagaan_ Once Upon a Time in India _ Aamir Khan _ Ashutosh Gowariker.mp4",
+            "imgDetails": "In 1890s India, an arrogant British commander challenges the harshly taxed residents of Champaner to a high-stakes cricket match.",
+            "imgName": "JSON/bollywood_IMG/lagaanName.png",
+            "BgImg": "JSON/bollywood_IMG/lagaan2.jpg"
+        },
+        "anime7": {
+            "img": "JSON/bollywood_IMG/drishiyam2.jpg",
+            "imgVideo": "JSON/bollywood_video/Drishyam - Official Trailer _ Starring Ajay Devgn, Tabu & Shriya Saran.mp4",
+            "imgDetails": "An unexceptional man becomes a murder suspect when the son of a high-ranking police official who harassed his daughter goes missing.",
+            "imgName": "JSON/bollywood_IMG/drishiyamName.png",
+            "BgImg": "JSON/bollywood_IMG/drishiyam1.jpg"
+        },
+        "anime8": {
+            "img": "JSON/bollywood_IMG/marrykom2.jpg",
+            "imgVideo": "JSON/bollywood_video/Mary Kom - Official Trailer _ Priyanka Chopra in & as Mary Kom _ In Cinemas NOW.mp4",
+            "imgDetails": "The daughter of a poor rice farmer overcomes the objections of her father and the demands of a male-dominated society to pursue a career in boxing.",
+            "imgName": "JSON/bollywood_IMG/marrykomName.png",
+            "BgImg": "JSON/bollywood_IMG/marrykom1.jpg"
+        },
+        "anime9": {
+            "img": "JSON/bollywood_IMG/lukkachupi1.jpg",
+                "imgVideo":"Luka Chuppi Official Trailer _ Kartik Aaryan, Kriti Sanon, Dinesh Vijan, Laxman Utekar _ Mar 1.mp4",
+
+            "imgDetails": "Pretending to marry in order to cohabitate, a small-town couple lands in endless awkward situations to hide the truth from their orthodox families.",
+            "imgName": "likachupiName.png",
+            "BgImg": "likachupi2.jpg"
+        },
+        "anime10": {
+            "img": "JSON/bollywood_IMG/chennaiexpress1.jpg",
+            "imgVideo": "JSON/bollywood_video/_Chennai Express Trailer_ (Official) _ ShahRukh Khan, Deepika Padukone.mp4",
+            "imgDetails": "What could have been a sad journey turns joyful for Rahul when he falls in love with a woman en route to submerging his grandfather's ashes.",
+            "imgName": "JSON/bollywood_IMG/chennaiexpressName.png",
+            "BgImg": "JSON/bollywood_IMG/chenaiexpress2.jpg"
+        },
+        "anime11": {
+            "img": "JSON/bollywood_IMG/fukery1.jpg",
+            "imgVideo": "JSON/bollywood_video/_Fukrey official Trailer_ _ Pulkit Samrat, Manjot Singh, Ali Fazal, Richa Chadda,.mp4",
+            "imgDetails": "Four young male friends tackle the challenges and unexpected catastrophes of growing up clueless in this music-packed Bollywood teen drama. ",
+            "imgName": "JSON/bollywood_IMG/fukeryName.png",
+            "BgImg": "JSON/bollywood_IMG/fukrey2.jpg"
+        },
+        "anime12": {
+            "img": "JSON/bollywood_IMG/hassendelber1.jpg",
+            "imgVideo": "JSON/bollywood_video/HASEEN DILRUBA Official Trailer _ Taapsee Pannu, Vikrant, Harshvardhan _ Netflix.mp4",
+            "imgDetails": "Under investigation as a suspect in her husband’s murder, a wife reveals details of their thorny marriage that seem to only further blur the truth.",
+            "imgName": "JSON/bollywood_IMG/haseenNmae.png",
+            "BgImg": "JSON/bollywood_IMG/hasseen2.jpg"
+        }
+    }
+]

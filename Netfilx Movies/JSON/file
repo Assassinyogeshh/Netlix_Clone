@@ -1,0 +1,942 @@
+[
+    {
+        "id": "anime1",
+        "video": "JSON/video/ykauza.mp4",
+        "movie_details": "Tooru Kirishima's notoriety is spread far and wide in the underworld. He is most commonly known as 'The Demon of Sakuragi'—a man who is not afraid to resort to violence if deemed necessary. After almost jeopardizing a peace treaty, his boss tasks him with the most difficult job he has ever had: taking care of seven-year-old Yaeka Sakuragi—the boss' precious daughter—so that Tooru understands what it means to be responsible for another life. At first, the two do not seem to meet eye to eye, as Tooru has no clue on how to communicate with Yaeka, and the young girl is not used to expressing her emotions. However, as time goes on, they come to understand each other despite their differences. The fearsome right-hand man of a yakuza boss and the child he must protect are about to learn that family is not always bound by blood.",
+        "movieImage_name": "JSON/animeIMG/yakuzaName.png",
+        "background_image": "JSON/animeIMG/yakuza2.jpg",
+        "anime1": {
+            "img":"JSON/animeIMG/onepiece2.jpg",
+            "imgVideo":"JSON/video/One Piece.mp4",
+            "imgDetails":"Gold Roger was known as the 'Pirate King' the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King. Enter Monkey Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy's reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/onepieceName.jpg",
+            "BgImg":"JSON/animeIMG/onepiece1.jpg"
+        },
+        "anime2":  {
+            "img":"JSON/animeIMG/bleach3.jpg",
+            "imgVideo":"JSON/video/Bleach_ Thousand-Year Blood War.mp4",
+            "imgDetails":"Ichigo Kurosaki is an ordinary high schooler—until his family is attacked by a Hollow, a corrupt spirit that seeks to devour human souls. It is then that he meets a Soul Reaper named Rukia Kuchiki, who gets injured while protecting Ichigo's family from the assailant. To save his family, Ichigo accepts Rukia's offer of taking her powers and becomes a Soul Reaper as a result. However, as Rukia is unable to regain her powers, Ichigo is given the daunting task of hunting down the Hollows that plague their town. However, he is not alone in his fight, as he is later joined by his friends—classmates Orihime Inoue, Yasutora Sado, and Uryuu Ishida—who each have their own unique abilities. As Ichigo and his comrades get used to their new duties and support each other on and off the battlefield, the young Soul Reaper soon learns that the Hollows are not the only real threat to the human world. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/bleachName.png",
+            "BgImg":"SON/animeIMG/bleach4.jpg"
+        },
+        "anime3":  {
+            "img":"JSON/images/naruto3.jpg",
+            "imgVideo":"JSON/video/Naruto.mp4",
+            "imgDetails":"Moments prior to Naruto Uzumaki's birth, a huge demon known as the Kyuubi, the Nine-Tailed Fox, attacked Konohagakure, the Hidden Leaf Village, and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the Fourth Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto. Now, Naruto is a hyperactive and knuckle-headed ninja still living in Konohagakure. Shunned because of the Kyuubi inside him, Naruto struggles to find his place in the village, while his burning desire to become the Hokage of Konohagakure leads him not only to some great new friends, but also some deadly foes. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/naruto-logo.png",
+            "BgImg":"JSON/images/naruto-1.jpg"
+        },
+        "anime4":  {
+            "img":"JSON/animeIMG/deathnote2.jpg",
+            "imgVideo":"JSON/video/Death Note.mp4",
+            "imgDetails":"A shinigami, as a god of death, can kill any person—provided they see their victim's face and write their victim's name in a notebook called a Death Note. One day, Ryuk, bored by the shinigami lifestyle and interested in seeing how a human would use a Death Note, drops one into the human realm. High school student and prodigy Light Yagami stumbles upon the Death Note and—since he deplores the state of the world—tests the deadly notebook by writing a criminal's name in it. When the criminal dies immediately following his experiment with the Death Note, Light is greatly surprised and quickly recognizes how devastating the power that has fallen into his hands could be. With this divine capability, Light decides to extinguish all criminals in order to build a new world where crime does not exist and people worship him as a god. Police, however, quickly discover that a serial killer is targeting criminals and, consequently, try to apprehend the culprit. To do this, the Japanese investigators count on the assistance of the best detective in the world: a young and eccentric man known only by the name of L. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/deatnoteName.png",
+            "BgImg":"JSON/animeIMG/deathnote3.jpg"
+        },
+        "anime5":  {
+            "img":"JSON/animeIMG/blackclover2.jpg",
+            "imgVideo":"JSON/video/Black Clover.mp4",
+            "imgDetails":"Asta and Yuno were abandoned at the same church on the same day. Raised together as children, they came to know of the 'Wizard King'—a title given to the strongest mage in the kingdom—and promised that they would compete against each other for the position of the next Wizard King. However, as they grew up, the stark difference between them became evident. While Yuno is able to wield magic with amazing power and control, Asta cannot use magic at all and desperately tries to awaken his powers by training physically. When they reach the age of 15, Yuno is bestowed a spectacular Grimoire with a four-leaf clover, while Asta receives nothing. However, soon after, Yuno is attacked by a person named Lebuty, whose main purpose is to obtain Yuno's Grimoire. Asta tries to fight Lebuty, but he is outmatched. Though without hope and on the brink of defeat, he finds the strength to continue when he hears Yuno's voice. Unleashing his inner emotions in a rage, Asta receives a five-leaf clover Grimoire, a 'Black Clover' giving him enough power to defeat Lebuty. A few days later, the two friends head out into the world, both seeking the same goal—to become the Wizard King! [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/blackcloverName.png",
+            "BgImg":"JSON/animeIMG/blackvclover1.jpg"
+        },
+        "anime6":  {
+            "img":"JSON/animeIMG/tokyoghoul3.jpg",
+            "imgVideo":"JSON/video/Tokyo Ghoul.mp4",
+            "imgDetails":"Tokyo has become a cruel and merciless city—a place where vicious creatures called 'ghouls' exist alongside humans. The citizens of this once great metropolis live in constant fear of these bloodthirsty savages and their thirst for human flesh. However, the greatest threat these ghouls pose is their dangerous ability to masquerade as humans and blend in with society. Based on the best-selling supernatural horror manga by Sui Ishida, Tokyo Ghoul follows Ken Kaneki, a shy, bookish college student, who is instantly drawn to Rize Kamishiro, an avid reader like himself. However, Rize is not exactly who she seems, and this unfortunate meeting pushes Kaneki into the dark depths of the ghouls' inhuman world. In a twist of fate, Kaneki is saved by the enigmatic waitress Touka Kirishima, and thus begins his new, secret life as a half-ghoul/half-human who must find a way to integrate into both societies. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/tokyoName.png",
+            "BgImg":"JSON/animeIMG/tokyoghoul2.webp"
+        },
+        "anime7":  {
+            "img":"JSON/animeIMG/deomslayer2.jpg",
+            "imgVideo":"JSON/video/Demon Slayer.mp4",
+            "imgDetails":"Since ancient times, rumors have abounded of man-eating Demons lurking in the woods. Because of this, the local townsfolk never venture outside at night. Legend has it that a Demon Slayer also roams the night, hunting down these bloodthirsty Demons. For young Tanjiro Kamado, these rumors will soon to become his harsh reality. Ever since the death of his father, Tanjiro has taken it upon himself to support his family. Although their lives may be hardened by tragedy, they've found happiness. But that ephemeral warmth is shattered one day when Tanjiro finds his family slaughtered and the lone survivor, his sister Nezuko Kamado, turned into a Demon. To his surprise, however, Nezuko still shows signs of human emotion and thought. Thus begins Tanjiro's journey to seek out the Demon who killed their family and turn his sister human again",
+            "imgName":"JSON/animeIMG/demonslayeNme.png",
+            "BgImg":"JSON/animeIMG/demonslayer3.jpg"
+        },
+        "anime8":  {
+            "img":"JSON/animeIMG/myheroacdmi2.jpg",
+            "imgVideo":"JSON/video/My Hero Academia.mp4",
+            "imgDetails":"The appearance of 'quirks,' newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual. Since he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izuku's unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Might's quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor! Enduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this year's freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/myhroacdmiName.png",
+            "BgImg":"JSON/animeIMG/myhroacadmi3.jpg"
+        },
+        "anime9": {
+            "img":"JSON/animeIMG/seven-deadly-sins.png",
+            "imgVideo":"JSON/video/Seven Deadly Sins Season 1 _ Available Now!.mp4",
+            "imgDetails":"In a world similar to the European Middle Ages, the feared yet revered Holy Knights of Britannia use immensely powerful magic to protect the region of Britannia and its kingdoms. However, a small subset of the Knights supposedly betrayed their homeland and turned their blades against their comrades in an attempt to overthrow the ruler of Liones. They were defeated by the Holy Knights, but rumors continued to persist that these legendary knights, called the 'Seven Deadly Sins,' were still alive. Ten years later, the Holy Knights themselves staged a coup d’état, and thus became the new, tyrannical rulers of the Kingdom of Liones. Based on the best-selling manga series of the same name, Nanatsu no Taizai follows the adventures of Elizabeth, the third princess of the Kingdom of Liones, and her search for the Seven Deadly Sins. With their help, she endeavors to not only take back her kingdom from the Holy Knights, but to also seek justice in an unjust world. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/sevendeadlysinsName.png",
+            "BgImg":"JSON/animeIMG/sevendeadlysins4.jpg"
+        },
+        "anime10":  {
+
+            "img":"JSON/animeIMG/serrphoftheend1.jpg",
+            "imgVideo":"JSON/video/serphoftheend.mp4",
+            "imgDetails":"After a deadly viral plague, the few child survivors become livestock for the vampires taking over the world. But one group is fighting back.",
+            "imgName":"JSON/animeIMG/serphoftheendName.png",
+            "BgImg":"JSON/animeIMG/serphpftheend2.jpg"
+        },
+        "anime11":  {
+
+            "img":"JSON/animeIMG/chainsawman1.jpg",
+            "imgVideo":"JSON/video/Chainsaw Man - Main Trailer ／『チェンソーマン』本予告.mp4",
+            "imgDetails":"After being left for dead, Denji turns into a devil-human hybrid with chainsaw powers, and gets recruited into a governmental devil hunting agency.",
+            "imgName":"JSON/animeIMG/",
+            "BgImg":"JSON/animeIMG/"
+        },
+        "anime12":  {
+
+            "img":"JSON/animeIMG/onepuch1.jpg",
+            "imgVideo":"JSON/video/One Punch Man Official Trailer.mp4",
+            "imgDetails":"The most powerful superhero in the world can kill anyone with one blow. But nothing can challenge him, so he struggles with ennui and depression.",
+            "imgName":"JSON/animeIMG/chainsawmanName.png",
+            "BgImg":"JSON/animeIMG/chainsawman2.jpg"
+        }
+    },
+    {
+        "id": "anime2",
+        "video": "JSON/video/Naruto.mp4",
+        "movie_details": "Moments prior to Naruto Uzumaki's birth, a huge demon known as the Kyuubi, the Nine-Tailed Fox, attacked Konohagakure, the Hidden Leaf Village, and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the Fourth Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto. Now, Naruto is a hyperactive and knuckle-headed ninja still living in Konohagakure. Shunned because of the Kyuubi inside him, Naruto struggles to find his place in the village, while his burning desire to become the Hokage of Konohagakure leads him not only to some great new friends, but also some deadly foes. [Written by MAL Rewrite]",
+        "movieImage_name": "JSON/animeIMG/naruto-logo.png",
+        "background_image": "JSON/animeIMG/Naruto6.jpg",
+        "anime1": {
+            "img":"JSON/animeIMG/onepiece2.jpg",
+            "imgVideo":"JSON/video/One Piece.mp4",
+            "imgDetails":"Gold Roger was known as the 'Pirate King' the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King. Enter Monkey Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy's reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/onepieceName.jpg",
+            "BgImg":"JSON/animeIMG/onepiece1.jpg"
+        },
+        "anime2":  {
+            "img":"JSON/animeIMG/bleach3.jpg",
+            "imgVideo":"JSON/video/Bleach_ Thousand-Year Blood War.mp4",
+            "imgDetails":"Ichigo Kurosaki is an ordinary high schooler—until his family is attacked by a Hollow, a corrupt spirit that seeks to devour human souls. It is then that he meets a Soul Reaper named Rukia Kuchiki, who gets injured while protecting Ichigo's family from the assailant. To save his family, Ichigo accepts Rukia's offer of taking her powers and becomes a Soul Reaper as a result. However, as Rukia is unable to regain her powers, Ichigo is given the daunting task of hunting down the Hollows that plague their town. However, he is not alone in his fight, as he is later joined by his friends—classmates Orihime Inoue, Yasutora Sado, and Uryuu Ishida—who each have their own unique abilities. As Ichigo and his comrades get used to their new duties and support each other on and off the battlefield, the young Soul Reaper soon learns that the Hollows are not the only real threat to the human world. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/bleachName.png",
+            "BgImg":"SON/animeIMG/bleach4.jpg"
+        },
+        "anime3":  {
+            "img":"JSON/images/parasyte1.jpg",
+            "imgVideo":"JSON/video/Toonami_ Parasyte Promo English Dub.mp4",
+            "imgDetails":"A teenager battles an onslaught of parasites from space with help from Migi, a docile parasitic creature that's taken over his right hand.",
+            "imgName":"JSON/animeIMG/parsyteNmae.png",
+            "BgImg":"JSON/images/parsyte2.jpg"
+        },
+        "anime4":  {
+            "img":"JSON/animeIMG/deathnote2.jpg",
+            "imgVideo":"JSON/video/Death Note.mp4",
+            "imgDetails":"A shinigami, as a god of death, can kill any person—provided they see their victim's face and write their victim's name in a notebook called a Death Note. One day, Ryuk, bored by the shinigami lifestyle and interested in seeing how a human would use a Death Note, drops one into the human realm. High school student and prodigy Light Yagami stumbles upon the Death Note and—since he deplores the state of the world—tests the deadly notebook by writing a criminal's name in it. When the criminal dies immediately following his experiment with the Death Note, Light is greatly surprised and quickly recognizes how devastating the power that has fallen into his hands could be. With this divine capability, Light decides to extinguish all criminals in order to build a new world where crime does not exist and people worship him as a god. Police, however, quickly discover that a serial killer is targeting criminals and, consequently, try to apprehend the culprit. To do this, the Japanese investigators count on the assistance of the best detective in the world: a young and eccentric man known only by the name of L. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/deatnoteName.png",
+            "BgImg":"JSON/animeIMG/deathnote3.jpg"
+        },
+        "anime5":  {
+            "img":"JSON/animeIMG/blackclover2.jpg",
+            "imgVideo":"JSON/video/Black Clover.mp4",
+            "imgDetails":"Asta and Yuno were abandoned at the same church on the same day. Raised together as children, they came to know of the 'Wizard King'—a title given to the strongest mage in the kingdom—and promised that they would compete against each other for the position of the next Wizard King. However, as they grew up, the stark difference between them became evident. While Yuno is able to wield magic with amazing power and control, Asta cannot use magic at all and desperately tries to awaken his powers by training physically. When they reach the age of 15, Yuno is bestowed a spectacular Grimoire with a four-leaf clover, while Asta receives nothing. However, soon after, Yuno is attacked by a person named Lebuty, whose main purpose is to obtain Yuno's Grimoire. Asta tries to fight Lebuty, but he is outmatched. Though without hope and on the brink of defeat, he finds the strength to continue when he hears Yuno's voice. Unleashing his inner emotions in a rage, Asta receives a five-leaf clover Grimoire, a 'Black Clover' giving him enough power to defeat Lebuty. A few days later, the two friends head out into the world, both seeking the same goal—to become the Wizard King! [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/blackcloverName.png",
+            "BgImg":"JSON/animeIMG/blackvclover1.jpg"
+        },
+        "anime6":  {
+            "img":"JSON/animeIMG/tokyoghoul3.jpg",
+            "imgVideo":"JSON/video/Tokyo Ghoul.mp4",
+            "imgDetails":"Tokyo has become a cruel and merciless city—a place where vicious creatures called 'ghouls' exist alongside humans. The citizens of this once great metropolis live in constant fear of these bloodthirsty savages and their thirst for human flesh. However, the greatest threat these ghouls pose is their dangerous ability to masquerade as humans and blend in with society. Based on the best-selling supernatural horror manga by Sui Ishida, Tokyo Ghoul follows Ken Kaneki, a shy, bookish college student, who is instantly drawn to Rize Kamishiro, an avid reader like himself. However, Rize is not exactly who she seems, and this unfortunate meeting pushes Kaneki into the dark depths of the ghouls' inhuman world. In a twist of fate, Kaneki is saved by the enigmatic waitress Touka Kirishima, and thus begins his new, secret life as a half-ghoul/half-human who must find a way to integrate into both societies. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/tokyoName.png",
+            "BgImg":"JSON/animeIMG/tokyoghoul2.webp"
+        },
+        "anime7":  {
+            "img":"JSON/animeIMG/deomslayer2.jpg",
+            "imgVideo":"JSON/video/Demon Slayer.mp4",
+            "imgDetails":"Since ancient times, rumors have abounded of man-eating Demons lurking in the woods. Because of this, the local townsfolk never venture outside at night. Legend has it that a Demon Slayer also roams the night, hunting down these bloodthirsty Demons. For young Tanjiro Kamado, these rumors will soon to become his harsh reality. Ever since the death of his father, Tanjiro has taken it upon himself to support his family. Although their lives may be hardened by tragedy, they've found happiness. But that ephemeral warmth is shattered one day when Tanjiro finds his family slaughtered and the lone survivor, his sister Nezuko Kamado, turned into a Demon. To his surprise, however, Nezuko still shows signs of human emotion and thought. Thus begins Tanjiro's journey to seek out the Demon who killed their family and turn his sister human again",
+            "imgName":"JSON/animeIMG/demonslayeNme.png",
+            "BgImg":"JSON/animeIMG/demonslayer3.jpg"
+        },
+        "anime8":  {
+            "img":"JSON/animeIMG/myheroacdmi2.jpg",
+            "imgVideo":"JSON/video/My Hero Academia.mp4",
+            "imgDetails":"The appearance of 'quirks,' newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual. Since he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izuku's unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Might's quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor! Enduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this year's freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/myhroacdmiName.png",
+            "BgImg":"JSON/animeIMG/myhroacadmi3.jpg"
+        },
+        "anime9": {
+            "img":"JSON/animeIMG/seven-deadly-sins.png",
+            "imgVideo":"JSON/video/Seven Deadly Sins Season 1 _ Available Now!.mp4",
+            "imgDetails":"In a world similar to the European Middle Ages, the feared yet revered Holy Knights of Britannia use immensely powerful magic to protect the region of Britannia and its kingdoms. However, a small subset of the Knights supposedly betrayed their homeland and turned their blades against their comrades in an attempt to overthrow the ruler of Liones. They were defeated by the Holy Knights, but rumors continued to persist that these legendary knights, called the 'Seven Deadly Sins,' were still alive. Ten years later, the Holy Knights themselves staged a coup d’état, and thus became the new, tyrannical rulers of the Kingdom of Liones. Based on the best-selling manga series of the same name, Nanatsu no Taizai follows the adventures of Elizabeth, the third princess of the Kingdom of Liones, and her search for the Seven Deadly Sins. With their help, she endeavors to not only take back her kingdom from the Holy Knights, but to also seek justice in an unjust world. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/sevendeadlysinsName.png",
+            "BgImg":"JSON/animeIMG/sevendeadlysins4.jpg"
+        },
+        "anime10":  {
+
+            "img":"JSON/animeIMG/serrphoftheend1.jpg",
+            "imgVideo":"JSON/video/serphoftheend.mp4",
+            "imgDetails":"After a deadly viral plague, the few child survivors become livestock for the vampires taking over the world. But one group is fighting back.",
+            "imgName":"JSON/animeIMG/serphoftheendName.png",
+            "BgImg":"JSON/animeIMG/serphpftheend2.jpg"
+        },
+        "anime11":  {
+
+            "img":"JSON/animeIMG/chainsawman1.jpg",
+            "imgVideo":"JSON/video/Chainsaw Man - Main Trailer ／『チェンソーマン』本予告.mp4",
+            "imgDetails":"After being left for dead, Denji turns into a devil-human hybrid with chainsaw powers, and gets recruited into a governmental devil hunting agency.",
+            "imgName":"JSON/animeIMG/",
+            "BgImg":"JSON/animeIMG/"
+        },
+        "anime12":  {
+
+            "img":"JSON/animeIMG/onepuch1.jpg",
+            "imgVideo":"JSON/video/One Punch Man Official Trailer.mp4",
+            "imgDetails":"The most powerful superhero in the world can kill anyone with one blow. But nothing can challenge him, so he struggles with ennui and depression.",
+            "imgName":"JSON/animeIMG/chainsawmanName.png",
+            "BgImg":"JSON/animeIMG/chainsawman2.jpg"
+        }
+    },
+    {
+        "id": "anime3",
+        "video": "JSON/video/One Piece.mp4",
+        "movie_details": "Gold Roger was known as the 'Pirate King' the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King. Enter Monkey Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirateransacking villages for fun, Luffy's reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece. [Written by MAL Rewrite]",
+        "movieImage_name": "JSON/animeIMG/onepieceName.jpg",
+        "background_image": "JSON/animeIMG/onepiece1.jpg",
+        "anime1": {
+            "img":"JSON/images/parasyte1.jpg",
+            "imgVideo":"JSON/video/Toonami_ Parasyte Promo English Dub.mp4",
+            "imgDetails":"A teenager battles an onslaught of parasites from space with help from Migi, a docile parasitic creature that's taken over his right hand.",
+            "imgName":"JSON/animeIMG/parsyteNmae.png",
+            "BgImg":"JSON/images/parsyte2.jpg"
+        },
+        "anime2":  {
+            "img":"JSON/animeIMG/bleach3.jpg",
+            "imgVideo":"JSON/video/Bleach_ Thousand-Year Blood War.mp4",
+            "imgDetails":"Ichigo Kurosaki is an ordinary high schooler—until his family is attacked by a Hollow, a corrupt spirit that seeks to devour human souls. It is then that he meets a Soul Reaper named Rukia Kuchiki, who gets injured while protecting Ichigo's family from the assailant. To save his family, Ichigo accepts Rukia's offer of taking her powers and becomes a Soul Reaper as a result. However, as Rukia is unable to regain her powers, Ichigo is given the daunting task of hunting down the Hollows that plague their town. However, he is not alone in his fight, as he is later joined by his friends—classmates Orihime Inoue, Yasutora Sado, and Uryuu Ishida—who each have their own unique abilities. As Ichigo and his comrades get used to their new duties and support each other on and off the battlefield, the young Soul Reaper soon learns that the Hollows are not the only real threat to the human world. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/bleachName.png",
+            "BgImg":"SON/animeIMG/bleach4.jpg"
+        },
+        "anime3":  {
+            "img":"JSON/images/naruto3.jpg",
+            "imgVideo":"JSON/video/Naruto.mp4",
+            "imgDetails":"Moments prior to Naruto Uzumaki's birth, a huge demon known as the Kyuubi, the Nine-Tailed Fox, attacked Konohagakure, the Hidden Leaf Village, and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the Fourth Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto. Now, Naruto is a hyperactive and knuckle-headed ninja still living in Konohagakure. Shunned because of the Kyuubi inside him, Naruto struggles to find his place in the village, while his burning desire to become the Hokage of Konohagakure leads him not only to some great new friends, but also some deadly foes. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/naruto-logo.png",
+            "BgImg":"JSON/images/naruto-1.jpg"
+        },
+        "anime4":  {
+            "img":"JSON/animeIMG/deathnote2.jpg",
+            "imgVideo":"JSON/video/Death Note.mp4",
+            "imgDetails":"A shinigami, as a god of death, can kill any person—provided they see their victim's face and write their victim's name in a notebook called a Death Note. One day, Ryuk, bored by the shinigami lifestyle and interested in seeing how a human would use a Death Note, drops one into the human realm. High school student and prodigy Light Yagami stumbles upon the Death Note and—since he deplores the state of the world—tests the deadly notebook by writing a criminal's name in it. When the criminal dies immediately following his experiment with the Death Note, Light is greatly surprised and quickly recognizes how devastating the power that has fallen into his hands could be. With this divine capability, Light decides to extinguish all criminals in order to build a new world where crime does not exist and people worship him as a god. Police, however, quickly discover that a serial killer is targeting criminals and, consequently, try to apprehend the culprit. To do this, the Japanese investigators count on the assistance of the best detective in the world: a young and eccentric man known only by the name of L. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/deatnoteName.png",
+            "BgImg":"JSON/animeIMG/deathnote3.jpg"
+        },
+        "anime5":  {
+            "img":"JSON/animeIMG/blackclover2.jpg",
+            "imgVideo":"JSON/video/Black Clover.mp4",
+            "imgDetails":"Asta and Yuno were abandoned at the same church on the same day. Raised together as children, they came to know of the 'Wizard King'—a title given to the strongest mage in the kingdom—and promised that they would compete against each other for the position of the next Wizard King. However, as they grew up, the stark difference between them became evident. While Yuno is able to wield magic with amazing power and control, Asta cannot use magic at all and desperately tries to awaken his powers by training physically. When they reach the age of 15, Yuno is bestowed a spectacular Grimoire with a four-leaf clover, while Asta receives nothing. However, soon after, Yuno is attacked by a person named Lebuty, whose main purpose is to obtain Yuno's Grimoire. Asta tries to fight Lebuty, but he is outmatched. Though without hope and on the brink of defeat, he finds the strength to continue when he hears Yuno's voice. Unleashing his inner emotions in a rage, Asta receives a five-leaf clover Grimoire, a 'Black Clover' giving him enough power to defeat Lebuty. A few days later, the two friends head out into the world, both seeking the same goal—to become the Wizard King! [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/blackcloverName.png",
+            "BgImg":"JSON/animeIMG/blackvclover1.jpg"
+        },
+        "anime6":  {
+            "img":"JSON/animeIMG/tokyoghoul3.jpg",
+            "imgVideo":"JSON/video/Tokyo Ghoul.mp4",
+            "imgDetails":"Tokyo has become a cruel and merciless city—a place where vicious creatures called 'ghouls' exist alongside humans. The citizens of this once great metropolis live in constant fear of these bloodthirsty savages and their thirst for human flesh. However, the greatest threat these ghouls pose is their dangerous ability to masquerade as humans and blend in with society. Based on the best-selling supernatural horror manga by Sui Ishida, Tokyo Ghoul follows Ken Kaneki, a shy, bookish college student, who is instantly drawn to Rize Kamishiro, an avid reader like himself. However, Rize is not exactly who she seems, and this unfortunate meeting pushes Kaneki into the dark depths of the ghouls' inhuman world. In a twist of fate, Kaneki is saved by the enigmatic waitress Touka Kirishima, and thus begins his new, secret life as a half-ghoul/half-human who must find a way to integrate into both societies. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/tokyoName.png",
+            "BgImg":"JSON/animeIMG/tokyoghoul2.webp"
+        },
+        "anime7":  {
+            "img":"JSON/animeIMG/deomslayer2.jpg",
+            "imgVideo":"JSON/video/Demon Slayer.mp4",
+            "imgDetails":"Since ancient times, rumors have abounded of man-eating Demons lurking in the woods. Because of this, the local townsfolk never venture outside at night. Legend has it that a Demon Slayer also roams the night, hunting down these bloodthirsty Demons. For young Tanjiro Kamado, these rumors will soon to become his harsh reality. Ever since the death of his father, Tanjiro has taken it upon himself to support his family. Although their lives may be hardened by tragedy, they've found happiness. But that ephemeral warmth is shattered one day when Tanjiro finds his family slaughtered and the lone survivor, his sister Nezuko Kamado, turned into a Demon. To his surprise, however, Nezuko still shows signs of human emotion and thought. Thus begins Tanjiro's journey to seek out the Demon who killed their family and turn his sister human again",
+            "imgName":"JSON/animeIMG/demonslayeNme.png",
+            "BgImg":"JSON/animeIMG/demonslayer3.jpg"
+        },
+        "anime8":  {
+            "img":"JSON/animeIMG/myheroacdmi2.jpg",
+            "imgVideo":"JSON/video/My Hero Academia.mp4",
+            "imgDetails":"The appearance of 'quirks,' newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual. Since he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izuku's unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Might's quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor! Enduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this year's freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/myhroacdmiName.png",
+            "BgImg":"JSON/animeIMG/myhroacadmi3.jpg"
+        },
+        "anime9": {
+            "img":"JSON/animeIMG/seven-deadly-sins.png",
+            "imgVideo":"JSON/video/Seven Deadly Sins Season 1 _ Available Now!.mp4",
+            "imgDetails":"In a world similar to the European Middle Ages, the feared yet revered Holy Knights of Britannia use immensely powerful magic to protect the region of Britannia and its kingdoms. However, a small subset of the Knights supposedly betrayed their homeland and turned their blades against their comrades in an attempt to overthrow the ruler of Liones. They were defeated by the Holy Knights, but rumors continued to persist that these legendary knights, called the 'Seven Deadly Sins,' were still alive. Ten years later, the Holy Knights themselves staged a coup d’état, and thus became the new, tyrannical rulers of the Kingdom of Liones. Based on the best-selling manga series of the same name, Nanatsu no Taizai follows the adventures of Elizabeth, the third princess of the Kingdom of Liones, and her search for the Seven Deadly Sins. With their help, she endeavors to not only take back her kingdom from the Holy Knights, but to also seek justice in an unjust world. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/sevendeadlysinsName.png",
+            "BgImg":"JSON/animeIMG/sevendeadlysins4.jpg"
+        },
+        "anime10":  {
+
+            "img":"JSON/animeIMG/serrphoftheend1.jpg",
+            "imgVideo":"JSON/video/serphoftheend.mp4",
+            "imgDetails":"After a deadly viral plague, the few child survivors become livestock for the vampires taking over the world. But one group is fighting back.",
+            "imgName":"JSON/animeIMG/serphoftheendName.png",
+            "BgImg":"JSON/animeIMG/serphpftheend2.jpg"
+        },
+        "anime11":  {
+
+            "img":"JSON/animeIMG/chainsawman1.jpg",
+            "imgVideo":"JSON/video/Chainsaw Man - Main Trailer ／『チェンソーマン』本予告.mp4",
+            "imgDetails":"After being left for dead, Denji turns into a devil-human hybrid with chainsaw powers, and gets recruited into a governmental devil hunting agency.",
+            "imgName":"JSON/animeIMG/",
+            "BgImg":"JSON/animeIMG/"
+        },
+        "anime12":  {
+
+            "img":"JSON/animeIMG/onepuch1.jpg",
+            "imgVideo":"JSON/video/One Punch Man Official Trailer.mp4",
+            "imgDetails":"The most powerful superhero in the world can kill anyone with one blow. But nothing can challenge him, so he struggles with ennui and depression.",
+            "imgName":"JSON/animeIMG/chainsawmanName.png",
+            "BgImg":"JSON/animeIMG/chainsawman2.jpg"
+        }
+    },
+    {
+        "id": "anime4",
+        "video": "JSON/video/Bleach_ Thousand-Year Blood War.mp4",
+        "movie_details": "Ichigo Kurosaki is an ordinary high schooler—until his family is attacked by a Hollow, a corrupt spirit that seeks to devour human souls. It is then that he meets a Soul Reaper named Rukia Kuchiki, who gets injured while protecting Ichigo's family from the assailant. To save his family, Ichigo accepts Rukia's offer of taking her powers and becomes a Soul Reaper as a result. However, as Rukia is unable to regain her powers, Ichigo is given the daunting task of hunting down the Hollows that plague their town. However, he is not alone in his fight, as he is later joined by his friends—classmates Orihime Inoue, Yasutora Sado, and Uryuu Ishida—who each have their own unique abilities. As Ichigo and his comrades get used to their new duties and support each other on and off the battlefield, the young Soul Reaper soon learns that the Hollows are not the only real threat to the human world. [Written by MAL Rewrite]",
+        "movieImage_name": "JSON/animeIMG/bleachName.png",
+        "background_image": "JSON/animeIMG/bleach4.jpg",
+        "anime1": {
+            "img":"JSON/animeIMG/onepiece2.jpg",
+            "imgVideo":"JSON/video/One Piece.mp4",
+            "imgDetails":"Gold Roger was known as the 'Pirate King' the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King. Enter Monkey Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy's reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/onepieceName.jpg",
+            "BgImg":"JSON/animeIMG/onepiece1.jpg"
+        },
+        "anime2":  {
+            "img":"JSON/images/parasyte1.jpg",
+            "imgVideo":"JSON/video/Toonami_ Parasyte Promo English Dub.mp4",
+            "imgDetails":"A teenager battles an onslaught of parasites from space with help from Migi, a docile parasitic creature that's taken over his right hand.",
+            "imgName":"JSON/animeIMG/parsyteNmae.png",
+            "BgImg":"JSON/images/parsyte2.jpg"
+        },
+        "anime3":  {
+            "img":"JSON/images/naruto3.jpg",
+            "imgVideo":"JSON/video/Naruto.mp4",
+            "imgDetails":"Moments prior to Naruto Uzumaki's birth, a huge demon known as the Kyuubi, the Nine-Tailed Fox, attacked Konohagakure, the Hidden Leaf Village, and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the Fourth Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto. Now, Naruto is a hyperactive and knuckle-headed ninja still living in Konohagakure. Shunned because of the Kyuubi inside him, Naruto struggles to find his place in the village, while his burning desire to become the Hokage of Konohagakure leads him not only to some great new friends, but also some deadly foes. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/naruto-logo.png",
+            "BgImg":"JSON/images/naruto-1.jpg"
+        },
+        "anime4":  {
+            "img":"JSON/animeIMG/deathnote2.jpg",
+            "imgVideo":"JSON/video/Death Note.mp4",
+            "imgDetails":"A shinigami, as a god of death, can kill any person—provided they see their victim's face and write their victim's name in a notebook called a Death Note. One day, Ryuk, bored by the shinigami lifestyle and interested in seeing how a human would use a Death Note, drops one into the human realm. High school student and prodigy Light Yagami stumbles upon the Death Note and—since he deplores the state of the world—tests the deadly notebook by writing a criminal's name in it. When the criminal dies immediately following his experiment with the Death Note, Light is greatly surprised and quickly recognizes how devastating the power that has fallen into his hands could be. With this divine capability, Light decides to extinguish all criminals in order to build a new world where crime does not exist and people worship him as a god. Police, however, quickly discover that a serial killer is targeting criminals and, consequently, try to apprehend the culprit. To do this, the Japanese investigators count on the assistance of the best detective in the world: a young and eccentric man known only by the name of L. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/deatnoteName.png",
+            "BgImg":"JSON/animeIMG/deathnote3.jpg"
+        },
+        "anime5":  {
+            "img":"JSON/animeIMG/blackclover2.jpg",
+            "imgVideo":"JSON/video/Black Clover.mp4",
+            "imgDetails":"Asta and Yuno were abandoned at the same church on the same day. Raised together as children, they came to know of the 'Wizard King'—a title given to the strongest mage in the kingdom—and promised that they would compete against each other for the position of the next Wizard King. However, as they grew up, the stark difference between them became evident. While Yuno is able to wield magic with amazing power and control, Asta cannot use magic at all and desperately tries to awaken his powers by training physically. When they reach the age of 15, Yuno is bestowed a spectacular Grimoire with a four-leaf clover, while Asta receives nothing. However, soon after, Yuno is attacked by a person named Lebuty, whose main purpose is to obtain Yuno's Grimoire. Asta tries to fight Lebuty, but he is outmatched. Though without hope and on the brink of defeat, he finds the strength to continue when he hears Yuno's voice. Unleashing his inner emotions in a rage, Asta receives a five-leaf clover Grimoire, a 'Black Clover' giving him enough power to defeat Lebuty. A few days later, the two friends head out into the world, both seeking the same goal—to become the Wizard King! [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/blackcloverName.png",
+            "BgImg":"JSON/animeIMG/blackvclover1.jpg"
+        },
+        "anime6":  {
+            "img":"JSON/animeIMG/tokyoghoul3.jpg",
+            "imgVideo":"JSON/video/Tokyo Ghoul.mp4",
+            "imgDetails":"Tokyo has become a cruel and merciless city—a place where vicious creatures called 'ghouls' exist alongside humans. The citizens of this once great metropolis live in constant fear of these bloodthirsty savages and their thirst for human flesh. However, the greatest threat these ghouls pose is their dangerous ability to masquerade as humans and blend in with society. Based on the best-selling supernatural horror manga by Sui Ishida, Tokyo Ghoul follows Ken Kaneki, a shy, bookish college student, who is instantly drawn to Rize Kamishiro, an avid reader like himself. However, Rize is not exactly who she seems, and this unfortunate meeting pushes Kaneki into the dark depths of the ghouls' inhuman world. In a twist of fate, Kaneki is saved by the enigmatic waitress Touka Kirishima, and thus begins his new, secret life as a half-ghoul/half-human who must find a way to integrate into both societies. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/tokyoName.png",
+            "BgImg":"JSON/animeIMG/tokyoghoul2.webp"
+        },
+        "anime7":  {
+            "img":"JSON/animeIMG/deomslayer2.jpg",
+            "imgVideo":"JSON/video/Demon Slayer.mp4",
+            "imgDetails":"Since ancient times, rumors have abounded of man-eating Demons lurking in the woods. Because of this, the local townsfolk never venture outside at night. Legend has it that a Demon Slayer also roams the night, hunting down these bloodthirsty Demons. For young Tanjiro Kamado, these rumors will soon to become his harsh reality. Ever since the death of his father, Tanjiro has taken it upon himself to support his family. Although their lives may be hardened by tragedy, they've found happiness. But that ephemeral warmth is shattered one day when Tanjiro finds his family slaughtered and the lone survivor, his sister Nezuko Kamado, turned into a Demon. To his surprise, however, Nezuko still shows signs of human emotion and thought. Thus begins Tanjiro's journey to seek out the Demon who killed their family and turn his sister human again",
+            "imgName":"JSON/animeIMG/demonslayeNme.png",
+            "BgImg":"JSON/animeIMG/demonslayer3.jpg"
+        },
+        "anime8":  {
+            "img":"JSON/animeIMG/myheroacdmi2.jpg",
+            "imgVideo":"JSON/video/My Hero Academia.mp4",
+            "imgDetails":"The appearance of 'quirks,' newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual. Since he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izuku's unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Might's quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor! Enduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this year's freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/myhroacdmiName.png",
+            "BgImg":"JSON/animeIMG/myhroacadmi3.jpg"
+        },
+        "anime9": {
+            "img":"JSON/animeIMG/seven-deadly-sins.png",
+            "imgVideo":"JSON/video/Seven Deadly Sins Season 1 _ Available Now!.mp4",
+            "imgDetails":"In a world similar to the European Middle Ages, the feared yet revered Holy Knights of Britannia use immensely powerful magic to protect the region of Britannia and its kingdoms. However, a small subset of the Knights supposedly betrayed their homeland and turned their blades against their comrades in an attempt to overthrow the ruler of Liones. They were defeated by the Holy Knights, but rumors continued to persist that these legendary knights, called the 'Seven Deadly Sins,' were still alive. Ten years later, the Holy Knights themselves staged a coup d’état, and thus became the new, tyrannical rulers of the Kingdom of Liones. Based on the best-selling manga series of the same name, Nanatsu no Taizai follows the adventures of Elizabeth, the third princess of the Kingdom of Liones, and her search for the Seven Deadly Sins. With their help, she endeavors to not only take back her kingdom from the Holy Knights, but to also seek justice in an unjust world. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/sevendeadlysinsName.png",
+            "BgImg":"JSON/animeIMG/sevendeadlysins4.jpg"
+        },
+        "anime10":  {
+
+            "img":"JSON/animeIMG/serrphoftheend1.jpg",
+            "imgVideo":"JSON/video/serphoftheend.mp4",
+            "imgDetails":"After a deadly viral plague, the few child survivors become livestock for the vampires taking over the world. But one group is fighting back.",
+            "imgName":"JSON/animeIMG/serphoftheendName.png",
+            "BgImg":"JSON/animeIMG/serphpftheend2.jpg"
+        },
+        "anime11":  {
+
+            "img":"JSON/animeIMG/chainsawman1.jpg",
+            "imgVideo":"JSON/video/Chainsaw Man - Main Trailer ／『チェンソーマン』本予告.mp4",
+            "imgDetails":"After being left for dead, Denji turns into a devil-human hybrid with chainsaw powers, and gets recruited into a governmental devil hunting agency.",
+            "imgName":"JSON/animeIMG/",
+            "BgImg":"JSON/animeIMG/"
+        },
+        "anime12":  {
+
+            "img":"JSON/animeIMG/onepuch1.jpg",
+            "imgVideo":"JSON/video/One Punch Man Official Trailer.mp4",
+            "imgDetails":"The most powerful superhero in the world can kill anyone with one blow. But nothing can challenge him, so he struggles with ennui and depression.",
+            "imgName":"JSON/animeIMG/chainsawmanName.png",
+            "BgImg":"JSON/animeIMG/chainsawman2.jpg"
+        }
+    },
+    {
+        "id": "anime5",
+        "video": "JSON/video/Death Note.mp4",
+        "movie_details": "A shinigami, as a god of death, can kill any person—provided they see their victim's face and write their victim's name in a notebook called a Death Note. One day, Ryuk, bored by the shinigami lifestyle and interested in seeing how a human would use a Death Note, drops one into the human realm. High school student and prodigy Light Yagami stumbles upon the Death Note and—since he deplores the state of the world—tests the deadly notebook by writing a criminal's name in it. When the criminal dies immediately following his experiment with the Death Note, Light is greatly surprised and quickly recognizes how devastating the power that has fallen into his hands could be. With this divine capability, Light decides to extinguish all criminals in order to build a new world where crime does not exist and people worship him as a god. Police, however, quickly discover that a serial killer is targeting criminals and, consequently, try to apprehend the culprit. To do this, the Japanese investigators count on the assistance of the best detective in the world: a young and eccentric man known only by the name of L. [Written by MAL Rewrite] ",
+        "movieImage_name": "JSON/animeIMG/deatnoteName.png",
+        "background_image": "JSON/animeIMG/deathnote3.jpg",
+        "anime1": {
+            "img":"JSON/animeIMG/onepiece2.jpg",
+            "imgVideo":"JSON/video/One Piece.mp4",
+            "imgDetails":"Gold Roger was known as the 'Pirate King' the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King. Enter Monkey Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy's reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/onepieceName.jpg",
+            "BgImg":"JSON/animeIMG/onepiece1.jpg"
+        },
+        "anime2":  {
+            "img":"JSON/animeIMG/bleach3.jpg",
+            "imgVideo":"JSON/video/Bleach_ Thousand-Year Blood War.mp4",
+            "imgDetails":"Ichigo Kurosaki is an ordinary high schooler—until his family is attacked by a Hollow, a corrupt spirit that seeks to devour human souls. It is then that he meets a Soul Reaper named Rukia Kuchiki, who gets injured while protecting Ichigo's family from the assailant. To save his family, Ichigo accepts Rukia's offer of taking her powers and becomes a Soul Reaper as a result. However, as Rukia is unable to regain her powers, Ichigo is given the daunting task of hunting down the Hollows that plague their town. However, he is not alone in his fight, as he is later joined by his friends—classmates Orihime Inoue, Yasutora Sado, and Uryuu Ishida—who each have their own unique abilities. As Ichigo and his comrades get used to their new duties and support each other on and off the battlefield, the young Soul Reaper soon learns that the Hollows are not the only real threat to the human world. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/bleachName.png",
+            "BgImg":"SON/animeIMG/bleach4.jpg"
+        },
+        "anime3":  {
+            "img":"JSON/images/naruto3.jpg",
+            "imgVideo":"JSON/video/Naruto.mp4",
+            "imgDetails":"Moments prior to Naruto Uzumaki's birth, a huge demon known as the Kyuubi, the Nine-Tailed Fox, attacked Konohagakure, the Hidden Leaf Village, and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the Fourth Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto. Now, Naruto is a hyperactive and knuckle-headed ninja still living in Konohagakure. Shunned because of the Kyuubi inside him, Naruto struggles to find his place in the village, while his burning desire to become the Hokage of Konohagakure leads him not only to some great new friends, but also some deadly foes. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/naruto-logo.png",
+            "BgImg":"JSON/images/naruto-1.jpg"
+        },
+        "anime4":  {
+            "img":"JSON/images/parasyte1.jpg",
+            "imgVideo":"JSON/video/Toonami_ Parasyte Promo English Dub.mp4",
+            "imgDetails":"A teenager battles an onslaught of parasites from space with help from Migi, a docile parasitic creature that's taken over his right hand.",
+            "imgName":"JSON/animeIMG/parsyteNmae.png",
+            "BgImg":"JSON/images/parsyte2.jpg"
+        },
+        "anime5":  {
+            "img":"JSON/animeIMG/blackclover2.jpg",
+            "imgVideo":"JSON/video/Black Clover.mp4",
+            "imgDetails":"Asta and Yuno were abandoned at the same church on the same day. Raised together as children, they came to know of the 'Wizard King'—a title given to the strongest mage in the kingdom—and promised that they would compete against each other for the position of the next Wizard King. However, as they grew up, the stark difference between them became evident. While Yuno is able to wield magic with amazing power and control, Asta cannot use magic at all and desperately tries to awaken his powers by training physically. When they reach the age of 15, Yuno is bestowed a spectacular Grimoire with a four-leaf clover, while Asta receives nothing. However, soon after, Yuno is attacked by a person named Lebuty, whose main purpose is to obtain Yuno's Grimoire. Asta tries to fight Lebuty, but he is outmatched. Though without hope and on the brink of defeat, he finds the strength to continue when he hears Yuno's voice. Unleashing his inner emotions in a rage, Asta receives a five-leaf clover Grimoire, a 'Black Clover' giving him enough power to defeat Lebuty. A few days later, the two friends head out into the world, both seeking the same goal—to become the Wizard King! [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/blackcloverName.png",
+            "BgImg":"JSON/animeIMG/blackvclover1.jpg"
+        },
+        "anime6":  {
+            "img":"JSON/animeIMG/tokyoghoul3.jpg",
+            "imgVideo":"JSON/video/Tokyo Ghoul.mp4",
+            "imgDetails":"Tokyo has become a cruel and merciless city—a place where vicious creatures called 'ghouls' exist alongside humans. The citizens of this once great metropolis live in constant fear of these bloodthirsty savages and their thirst for human flesh. However, the greatest threat these ghouls pose is their dangerous ability to masquerade as humans and blend in with society. Based on the best-selling supernatural horror manga by Sui Ishida, Tokyo Ghoul follows Ken Kaneki, a shy, bookish college student, who is instantly drawn to Rize Kamishiro, an avid reader like himself. However, Rize is not exactly who she seems, and this unfortunate meeting pushes Kaneki into the dark depths of the ghouls' inhuman world. In a twist of fate, Kaneki is saved by the enigmatic waitress Touka Kirishima, and thus begins his new, secret life as a half-ghoul/half-human who must find a way to integrate into both societies. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/tokyoName.png",
+            "BgImg":"JSON/animeIMG/tokyoghoul2.webp"
+        },
+        "anime7":  {
+            "img":"JSON/animeIMG/deomslayer2.jpg",
+            "imgVideo":"JSON/video/Demon Slayer.mp4",
+            "imgDetails":"Since ancient times, rumors have abounded of man-eating Demons lurking in the woods. Because of this, the local townsfolk never venture outside at night. Legend has it that a Demon Slayer also roams the night, hunting down these bloodthirsty Demons. For young Tanjiro Kamado, these rumors will soon to become his harsh reality. Ever since the death of his father, Tanjiro has taken it upon himself to support his family. Although their lives may be hardened by tragedy, they've found happiness. But that ephemeral warmth is shattered one day when Tanjiro finds his family slaughtered and the lone survivor, his sister Nezuko Kamado, turned into a Demon. To his surprise, however, Nezuko still shows signs of human emotion and thought. Thus begins Tanjiro's journey to seek out the Demon who killed their family and turn his sister human again",
+            "imgName":"JSON/animeIMG/demonslayeNme.png",
+            "BgImg":"JSON/animeIMG/demonslayer3.jpg"
+        },
+        "anime8":  {
+            "img":"JSON/animeIMG/myheroacdmi2.jpg",
+            "imgVideo":"JSON/video/My Hero Academia.mp4",
+            "imgDetails":"The appearance of 'quirks,' newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual. Since he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izuku's unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Might's quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor! Enduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this year's freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/myhroacdmiName.png",
+            "BgImg":"JSON/animeIMG/myhroacadmi3.jpg"
+        },
+        "anime9": {
+            "img":"JSON/animeIMG/seven-deadly-sins.png",
+            "imgVideo":"JSON/video/Seven Deadly Sins Season 1 _ Available Now!.mp4",
+            "imgDetails":"In a world similar to the European Middle Ages, the feared yet revered Holy Knights of Britannia use immensely powerful magic to protect the region of Britannia and its kingdoms. However, a small subset of the Knights supposedly betrayed their homeland and turned their blades against their comrades in an attempt to overthrow the ruler of Liones. They were defeated by the Holy Knights, but rumors continued to persist that these legendary knights, called the 'Seven Deadly Sins,' were still alive. Ten years later, the Holy Knights themselves staged a coup d’état, and thus became the new, tyrannical rulers of the Kingdom of Liones. Based on the best-selling manga series of the same name, Nanatsu no Taizai follows the adventures of Elizabeth, the third princess of the Kingdom of Liones, and her search for the Seven Deadly Sins. With their help, she endeavors to not only take back her kingdom from the Holy Knights, but to also seek justice in an unjust world. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/sevendeadlysinsName.png",
+            "BgImg":"JSON/animeIMG/sevendeadlysins4.jpg"
+        },
+        "anime10":  {
+
+            "img":"JSON/animeIMG/serrphoftheend1.jpg",
+            "imgVideo":"JSON/video/serphoftheend.mp4",
+            "imgDetails":"After a deadly viral plague, the few child survivors become livestock for the vampires taking over the world. But one group is fighting back.",
+            "imgName":"JSON/animeIMG/serphoftheendName.png",
+            "BgImg":"JSON/animeIMG/serphpftheend2.jpg"
+        },
+        "anime11":  {
+
+            "img":"JSON/animeIMG/chainsawman1.jpg",
+            "imgVideo":"JSON/video/Chainsaw Man - Main Trailer ／『チェンソーマン』本予告.mp4",
+            "imgDetails":"After being left for dead, Denji turns into a devil-human hybrid with chainsaw powers, and gets recruited into a governmental devil hunting agency.",
+            "imgName":"JSON/animeIMG/",
+            "BgImg":"JSON/animeIMG/"
+        },
+        "anime12":  {
+
+            "img":"JSON/animeIMG/onepuch1.jpg",
+            "imgVideo":"JSON/video/One Punch Man Official Trailer.mp4",
+            "imgDetails":"The most powerful superhero in the world can kill anyone with one blow. But nothing can challenge him, so he struggles with ennui and depression.",
+            "imgName":"JSON/animeIMG/chainsawmanName.png",
+            "BgImg":"JSON/animeIMG/chainsawman2.jpg"
+        }
+    },
+    {
+        "id": "anime6",
+        "video": "JSON/video/Black Clover.mp4",
+        "movie_details": "Asta and Yuno were abandoned at the same church on the same day. Raised together as children, they came to know of the 'Wizard King'—a title given to the strongest mage in the kingdom—and promised that they would compete against each other for the position of the next Wizard King. However, as they grew up, the stark difference between them became evident. While Yuno is able to wield magic with amazing power and control, Asta cannot use magic at all and desperately tries to awaken his powers by training physically. When they reach the age of 15, Yuno is bestowed a spectacular Grimoire with a four-leaf clover, while Asta receives nothing. However, soon after, Yuno is attacked by a person named Lebuty, whose main purpose is to obtain Yuno's Grimoire. Asta tries to fight Lebuty, but he is outmatched. Though without hope and on the brink of defeat, he finds the strength to continue when he hears Yuno's voice. Unleashing his inner emotions in a rage, Asta receives a five-leaf clover Grimoire, a 'Black Clover' giving him enough power to defeat Lebuty. A few days later, the two friends head out into the world, both seeking the same goal—to become the Wizard King! [Written by MAL Rewrite]",
+        "movieImage_name": "JSON/animeIMG/blackcloverName.png",
+        "background_image": "JSON/animeIMG/blackvclover1.jpg",
+        "anime1": {
+            "img":"JSON/animeIMG/onepiece2.jpg",
+            "imgVideo":"JSON/video/One Piece.mp4",
+            "imgDetails":"Gold Roger was known as the 'Pirate King' the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King. Enter Monkey Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy's reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/onepieceName.jpg",
+            "BgImg":"JSON/animeIMG/onepiece1.jpg"
+        },
+        "anime2":  {
+            "img":"JSON/animeIMG/bleach3.jpg",
+            "imgVideo":"JSON/video/Bleach_ Thousand-Year Blood War.mp4",
+            "imgDetails":"Ichigo Kurosaki is an ordinary high schooler—until his family is attacked by a Hollow, a corrupt spirit that seeks to devour human souls. It is then that he meets a Soul Reaper named Rukia Kuchiki, who gets injured while protecting Ichigo's family from the assailant. To save his family, Ichigo accepts Rukia's offer of taking her powers and becomes a Soul Reaper as a result. However, as Rukia is unable to regain her powers, Ichigo is given the daunting task of hunting down the Hollows that plague their town. However, he is not alone in his fight, as he is later joined by his friends—classmates Orihime Inoue, Yasutora Sado, and Uryuu Ishida—who each have their own unique abilities. As Ichigo and his comrades get used to their new duties and support each other on and off the battlefield, the young Soul Reaper soon learns that the Hollows are not the only real threat to the human world. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/bleachName.png",
+            "BgImg":"SON/animeIMG/bleach4.jpg"
+        },
+        "anime3":  {
+            "img":"JSON/images/naruto3.jpg",
+            "imgVideo":"JSON/video/Naruto.mp4",
+            "imgDetails":"Moments prior to Naruto Uzumaki's birth, a huge demon known as the Kyuubi, the Nine-Tailed Fox, attacked Konohagakure, the Hidden Leaf Village, and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the Fourth Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto. Now, Naruto is a hyperactive and knuckle-headed ninja still living in Konohagakure. Shunned because of the Kyuubi inside him, Naruto struggles to find his place in the village, while his burning desire to become the Hokage of Konohagakure leads him not only to some great new friends, but also some deadly foes. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/naruto-logo.png",
+            "BgImg":"JSON/images/naruto-1.jpg"
+        },
+        "anime4":  {
+            "img":"JSON/animeIMG/deathnote2.jpg",
+            "imgVideo":"JSON/video/Death Note.mp4",
+            "imgDetails":"A shinigami, as a god of death, can kill any person—provided they see their victim's face and write their victim's name in a notebook called a Death Note. One day, Ryuk, bored by the shinigami lifestyle and interested in seeing how a human would use a Death Note, drops one into the human realm. High school student and prodigy Light Yagami stumbles upon the Death Note and—since he deplores the state of the world—tests the deadly notebook by writing a criminal's name in it. When the criminal dies immediately following his experiment with the Death Note, Light is greatly surprised and quickly recognizes how devastating the power that has fallen into his hands could be. With this divine capability, Light decides to extinguish all criminals in order to build a new world where crime does not exist and people worship him as a god. Police, however, quickly discover that a serial killer is targeting criminals and, consequently, try to apprehend the culprit. To do this, the Japanese investigators count on the assistance of the best detective in the world: a young and eccentric man known only by the name of L. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/deatnoteName.png",
+            "BgImg":"JSON/animeIMG/deathnote3.jpg"
+        },
+        "anime5":  {
+            "img":"JSON/images/parasyte1.jpg",
+            "imgVideo":"JSON/video/Toonami_ Parasyte Promo English Dub.mp4",
+            "imgDetails":"A teenager battles an onslaught of parasites from space with help from Migi, a docile parasitic creature that's taken over his right hand.",
+            "imgName":"JSON/animeIMG/parsyteNmae.png",
+            "BgImg":"JSON/images/parsyte2.jpg"
+        },
+        "anime6":  {
+            "img":"JSON/animeIMG/tokyoghoul3.jpg",
+            "imgVideo":"JSON/video/Tokyo Ghoul.mp4",
+            "imgDetails":"Tokyo has become a cruel and merciless city—a place where vicious creatures called 'ghouls' exist alongside humans. The citizens of this once great metropolis live in constant fear of these bloodthirsty savages and their thirst for human flesh. However, the greatest threat these ghouls pose is their dangerous ability to masquerade as humans and blend in with society. Based on the best-selling supernatural horror manga by Sui Ishida, Tokyo Ghoul follows Ken Kaneki, a shy, bookish college student, who is instantly drawn to Rize Kamishiro, an avid reader like himself. However, Rize is not exactly who she seems, and this unfortunate meeting pushes Kaneki into the dark depths of the ghouls' inhuman world. In a twist of fate, Kaneki is saved by the enigmatic waitress Touka Kirishima, and thus begins his new, secret life as a half-ghoul/half-human who must find a way to integrate into both societies. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/tokyoName.png",
+            "BgImg":"JSON/animeIMG/tokyoghoul2.webp"
+        },
+        "anime7":  {
+            "img":"JSON/animeIMG/deomslayer2.jpg",
+            "imgVideo":"JSON/video/Demon Slayer.mp4",
+            "imgDetails":"Since ancient times, rumors have abounded of man-eating Demons lurking in the woods. Because of this, the local townsfolk never venture outside at night. Legend has it that a Demon Slayer also roams the night, hunting down these bloodthirsty Demons. For young Tanjiro Kamado, these rumors will soon to become his harsh reality. Ever since the death of his father, Tanjiro has taken it upon himself to support his family. Although their lives may be hardened by tragedy, they've found happiness. But that ephemeral warmth is shattered one day when Tanjiro finds his family slaughtered and the lone survivor, his sister Nezuko Kamado, turned into a Demon. To his surprise, however, Nezuko still shows signs of human emotion and thought. Thus begins Tanjiro's journey to seek out the Demon who killed their family and turn his sister human again",
+            "imgName":"JSON/animeIMG/demonslayeNme.png",
+            "BgImg":"JSON/animeIMG/demonslayer3.jpg"
+        },
+        "anime8":  {
+            "img":"JSON/animeIMG/myheroacdmi2.jpg",
+            "imgVideo":"JSON/video/My Hero Academia.mp4",
+            "imgDetails":"The appearance of 'quirks,' newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual. Since he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izuku's unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Might's quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor! Enduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this year's freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/myhroacdmiName.png",
+            "BgImg":"JSON/animeIMG/myhroacadmi3.jpg"
+        },
+        "anime9": {
+            "img":"JSON/animeIMG/seven-deadly-sins.png",
+            "imgVideo":"JSON/video/Seven Deadly Sins Season 1 _ Available Now!.mp4",
+            "imgDetails":"In a world similar to the European Middle Ages, the feared yet revered Holy Knights of Britannia use immensely powerful magic to protect the region of Britannia and its kingdoms. However, a small subset of the Knights supposedly betrayed their homeland and turned their blades against their comrades in an attempt to overthrow the ruler of Liones. They were defeated by the Holy Knights, but rumors continued to persist that these legendary knights, called the 'Seven Deadly Sins,' were still alive. Ten years later, the Holy Knights themselves staged a coup d’état, and thus became the new, tyrannical rulers of the Kingdom of Liones. Based on the best-selling manga series of the same name, Nanatsu no Taizai follows the adventures of Elizabeth, the third princess of the Kingdom of Liones, and her search for the Seven Deadly Sins. With their help, she endeavors to not only take back her kingdom from the Holy Knights, but to also seek justice in an unjust world. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/sevendeadlysinsName.png",
+            "BgImg":"JSON/animeIMG/sevendeadlysins4.jpg"
+        },
+        "anime10":  {
+
+            "img":"JSON/animeIMG/serrphoftheend1.jpg",
+            "imgVideo":"JSON/video/serphoftheend.mp4",
+            "imgDetails":"After a deadly viral plague, the few child survivors become livestock for the vampires taking over the world. But one group is fighting back.",
+            "imgName":"JSON/animeIMG/serphoftheendName.png",
+            "BgImg":"JSON/animeIMG/serphpftheend2.jpg"
+        },
+        "anime11":  {
+
+            "img":"JSON/animeIMG/chainsawman1.jpg",
+            "imgVideo":"JSON/video/Chainsaw Man - Main Trailer ／『チェンソーマン』本予告.mp4",
+            "imgDetails":"After being left for dead, Denji turns into a devil-human hybrid with chainsaw powers, and gets recruited into a governmental devil hunting agency.",
+            "imgName":"JSON/animeIMG/",
+            "BgImg":"JSON/animeIMG/"
+        },
+        "anime12":  {
+
+            "img":"JSON/animeIMG/onepuch1.jpg",
+            "imgVideo":"JSON/video/One Punch Man Official Trailer.mp4",
+            "imgDetails":"The most powerful superhero in the world can kill anyone with one blow. But nothing can challenge him, so he struggles with ennui and depression.",
+            "imgName":"JSON/animeIMG/chainsawmanName.png",
+            "BgImg":"JSON/animeIMG/chainsawman2.jpg"
+        }
+    },
+    {
+        "id": "anime7",
+        "video": "JSON/video/Tokyo Ghoul.mp4",
+        "movie_details": "Tokyo has become a cruel and merciless city—a place where vicious creatures called 'ghouls' exist alongside humans. The citizens of this once great metropolis live in constant fear of these bloodthirsty savages and their thirst for human flesh. However, the greatest threat these ghouls pose is their dangerous ability to masquerade as humans and blend in with society. Based on the best-selling supernatural horror manga by Sui Ishida, Tokyo Ghoul follows Ken Kaneki, a shy, bookish college student, who is instantly drawn to Rize Kamishiro, an avid reader like himself. However, Rize is not exactly who she seems, and this unfortunate meeting pushes Kaneki into the dark depths of the ghouls' inhuman world. In a twist of fate, Kaneki is saved by the enigmatic waitress Touka Kirishima, and thus begins his new, secret life as a half-ghoul/half-human who must find a way to integrate into both societies. [Written by MAL Rewrite] ",
+        "movieImage_name": "JSON/animeIMG/tokyoName.png",
+        "background_image": "JSON/animeIMG/tokyoghoul2.webp",
+        "anime1": {
+            "img":"JSON/animeIMG/onepiece2.jpg",
+            "imgVideo":"JSON/video/One Piece.mp4",
+            "imgDetails":"Gold Roger was known as the 'Pirate King' the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King. Enter Monkey Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy's reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/onepieceName.jpg",
+            "BgImg":"JSON/animeIMG/onepiece1.jpg"
+        },
+        "anime2":  {
+            "img":"JSON/animeIMG/bleach3.jpg",
+            "imgVideo":"JSON/video/Bleach_ Thousand-Year Blood War.mp4",
+            "imgDetails":"Ichigo Kurosaki is an ordinary high schooler—until his family is attacked by a Hollow, a corrupt spirit that seeks to devour human souls. It is then that he meets a Soul Reaper named Rukia Kuchiki, who gets injured while protecting Ichigo's family from the assailant. To save his family, Ichigo accepts Rukia's offer of taking her powers and becomes a Soul Reaper as a result. However, as Rukia is unable to regain her powers, Ichigo is given the daunting task of hunting down the Hollows that plague their town. However, he is not alone in his fight, as he is later joined by his friends—classmates Orihime Inoue, Yasutora Sado, and Uryuu Ishida—who each have their own unique abilities. As Ichigo and his comrades get used to their new duties and support each other on and off the battlefield, the young Soul Reaper soon learns that the Hollows are not the only real threat to the human world. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/bleachName.png",
+            "BgImg":"SON/animeIMG/bleach4.jpg"
+        },
+        "anime3":  {
+            "img":"JSON/images/naruto3.jpg",
+            "imgVideo":"JSON/video/Naruto.mp4",
+            "imgDetails":"Moments prior to Naruto Uzumaki's birth, a huge demon known as the Kyuubi, the Nine-Tailed Fox, attacked Konohagakure, the Hidden Leaf Village, and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the Fourth Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto. Now, Naruto is a hyperactive and knuckle-headed ninja still living in Konohagakure. Shunned because of the Kyuubi inside him, Naruto struggles to find his place in the village, while his burning desire to become the Hokage of Konohagakure leads him not only to some great new friends, but also some deadly foes. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/naruto-logo.png",
+            "BgImg":"JSON/images/naruto-1.jpg"
+        },
+        "anime4":  {
+            "img":"JSON/animeIMG/deathnote2.jpg",
+            "imgVideo":"JSON/video/Death Note.mp4",
+            "imgDetails":"A shinigami, as a god of death, can kill any person—provided they see their victim's face and write their victim's name in a notebook called a Death Note. One day, Ryuk, bored by the shinigami lifestyle and interested in seeing how a human would use a Death Note, drops one into the human realm. High school student and prodigy Light Yagami stumbles upon the Death Note and—since he deplores the state of the world—tests the deadly notebook by writing a criminal's name in it. When the criminal dies immediately following his experiment with the Death Note, Light is greatly surprised and quickly recognizes how devastating the power that has fallen into his hands could be. With this divine capability, Light decides to extinguish all criminals in order to build a new world where crime does not exist and people worship him as a god. Police, however, quickly discover that a serial killer is targeting criminals and, consequently, try to apprehend the culprit. To do this, the Japanese investigators count on the assistance of the best detective in the world: a young and eccentric man known only by the name of L. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/deatnoteName.png",
+            "BgImg":"JSON/animeIMG/deathnote3.jpg"
+        },
+        "anime5":  {
+            "img":"JSON/animeIMG/blackclover2.jpg",
+            "imgVideo":"JSON/video/Black Clover.mp4",
+            "imgDetails":"Asta and Yuno were abandoned at the same church on the same day. Raised together as children, they came to know of the 'Wizard King'—a title given to the strongest mage in the kingdom—and promised that they would compete against each other for the position of the next Wizard King. However, as they grew up, the stark difference between them became evident. While Yuno is able to wield magic with amazing power and control, Asta cannot use magic at all and desperately tries to awaken his powers by training physically. When they reach the age of 15, Yuno is bestowed a spectacular Grimoire with a four-leaf clover, while Asta receives nothing. However, soon after, Yuno is attacked by a person named Lebuty, whose main purpose is to obtain Yuno's Grimoire. Asta tries to fight Lebuty, but he is outmatched. Though without hope and on the brink of defeat, he finds the strength to continue when he hears Yuno's voice. Unleashing his inner emotions in a rage, Asta receives a five-leaf clover Grimoire, a 'Black Clover' giving him enough power to defeat Lebuty. A few days later, the two friends head out into the world, both seeking the same goal—to become the Wizard King! [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/blackcloverName.png",
+            "BgImg":"JSON/animeIMG/blackvclover1.jpg"
+        },
+        "anime6":  {
+            "img":"JSON/images/parasyte1.jpg",
+            "imgVideo":"JSON/video/Toonami_ Parasyte Promo English Dub.mp4",
+            "imgDetails":"A teenager battles an onslaught of parasites from space with help from Migi, a docile parasitic creature that's taken over his right hand.",
+            "imgName":"JSON/animeIMG/parsyteNmae.png",
+            "BgImg":"JSON/images/parsyte2.jpg"
+        },
+        "anime7":  {
+            "img":"JSON/animeIMG/deomslayer2.jpg",
+            "imgVideo":"JSON/video/Demon Slayer.mp4",
+            "imgDetails":"Since ancient times, rumors have abounded of man-eating Demons lurking in the woods. Because of this, the local townsfolk never venture outside at night. Legend has it that a Demon Slayer also roams the night, hunting down these bloodthirsty Demons. For young Tanjiro Kamado, these rumors will soon to become his harsh reality. Ever since the death of his father, Tanjiro has taken it upon himself to support his family. Although their lives may be hardened by tragedy, they've found happiness. But that ephemeral warmth is shattered one day when Tanjiro finds his family slaughtered and the lone survivor, his sister Nezuko Kamado, turned into a Demon. To his surprise, however, Nezuko still shows signs of human emotion and thought. Thus begins Tanjiro's journey to seek out the Demon who killed their family and turn his sister human again",
+            "imgName":"JSON/animeIMG/demonslayeNme.png",
+            "BgImg":"JSON/animeIMG/demonslayer3.jpg"
+        },
+        "anime8":  {
+            "img":"JSON/animeIMG/myheroacdmi2.jpg",
+            "imgVideo":"JSON/video/My Hero Academia.mp4",
+            "imgDetails":"The appearance of 'quirks,' newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual. Since he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izuku's unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Might's quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor! Enduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this year's freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/myhroacdmiName.png",
+            "BgImg":"JSON/animeIMG/myhroacadmi3.jpg"
+        },
+        "anime9": {
+            "img":"JSON/animeIMG/seven-deadly-sins.png",
+            "imgVideo":"JSON/video/Seven Deadly Sins Season 1 _ Available Now!.mp4",
+            "imgDetails":"In a world similar to the European Middle Ages, the feared yet revered Holy Knights of Britannia use immensely powerful magic to protect the region of Britannia and its kingdoms. However, a small subset of the Knights supposedly betrayed their homeland and turned their blades against their comrades in an attempt to overthrow the ruler of Liones. They were defeated by the Holy Knights, but rumors continued to persist that these legendary knights, called the 'Seven Deadly Sins,' were still alive. Ten years later, the Holy Knights themselves staged a coup d’état, and thus became the new, tyrannical rulers of the Kingdom of Liones. Based on the best-selling manga series of the same name, Nanatsu no Taizai follows the adventures of Elizabeth, the third princess of the Kingdom of Liones, and her search for the Seven Deadly Sins. With their help, she endeavors to not only take back her kingdom from the Holy Knights, but to also seek justice in an unjust world. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/sevendeadlysinsName.png",
+            "BgImg":"JSON/animeIMG/sevendeadlysins4.jpg"
+        },
+        "anime10":  {
+
+            "img":"JSON/animeIMG/serrphoftheend1.jpg",
+            "imgVideo":"JSON/video/serphoftheend.mp4",
+            "imgDetails":"After a deadly viral plague, the few child survivors become livestock for the vampires taking over the world. But one group is fighting back.",
+            "imgName":"JSON/animeIMG/serphoftheendName.png",
+            "BgImg":"JSON/animeIMG/serphpftheend2.jpg"
+        },
+        "anime11":  {
+
+            "img":"JSON/animeIMG/chainsawman1.jpg",
+            "imgVideo":"JSON/video/Chainsaw Man - Main Trailer ／『チェンソーマン』本予告.mp4",
+            "imgDetails":"After being left for dead, Denji turns into a devil-human hybrid with chainsaw powers, and gets recruited into a governmental devil hunting agency.",
+            "imgName":"JSON/animeIMG/",
+            "BgImg":"JSON/animeIMG/"
+        },
+        "anime12":  {
+
+            "img":"JSON/animeIMG/onepuch1.jpg",
+            "imgVideo":"JSON/video/One Punch Man Official Trailer.mp4",
+            "imgDetails":"The most powerful superhero in the world can kill anyone with one blow. But nothing can challenge him, so he struggles with ennui and depression.",
+            "imgName":"JSON/animeIMG/chainsawmanName.png",
+            "BgImg":"JSON/animeIMG/chainsawman2.jpg"
+        }
+    },
+    {
+        "id": "anime8",
+        "video": "JSON/video/Demon Slayer.mp4",
+        "movie_details": "Since ancient times, rumors have abounded of man-eating Demons lurking in the woods. Because of this, the local townsfolk never venture outside at night. Legend has it that a Demon Slayer also roams the night, hunting down these bloodthirsty Demons. For young Tanjiro Kamado, these rumors will soon to become his harsh reality. Ever since the death of his father, Tanjiro has taken it upon himself to support his family. Although their lives may be hardened by tragedy, they've found happiness. But that ephemeral warmth is shattered one day when Tanjiro finds his family slaughtered and the lone survivor, his sister Nezuko Kamado, turned into a Demon. To his surprise, however, Nezuko still shows signs of human emotion and thought. Thus begins Tanjiro's journey to seek out the Demon who killed their family and turn his sister human again",
+        "movieImage_name": "JSON/animeIMG/demonslayeNme.png",
+        "background_image": "JSON/animeIMG/demonslayer3.jpg",
+        "anime1": {
+            "img":"JSON/animeIMG/onepiece2.jpg",
+            "imgVideo":"JSON/video/One Piece.mp4",
+            "imgDetails":"Gold Roger was known as the 'Pirate King' the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King. Enter Monkey Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy's reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/onepieceName.jpg",
+            "BgImg":"JSON/animeIMG/onepiece1.jpg"
+        },
+        "anime2":  {
+            "img":"JSON/animeIMG/bleach3.jpg",
+            "imgVideo":"JSON/video/Bleach_ Thousand-Year Blood War.mp4",
+            "imgDetails":"Ichigo Kurosaki is an ordinary high schooler—until his family is attacked by a Hollow, a corrupt spirit that seeks to devour human souls. It is then that he meets a Soul Reaper named Rukia Kuchiki, who gets injured while protecting Ichigo's family from the assailant. To save his family, Ichigo accepts Rukia's offer of taking her powers and becomes a Soul Reaper as a result. However, as Rukia is unable to regain her powers, Ichigo is given the daunting task of hunting down the Hollows that plague their town. However, he is not alone in his fight, as he is later joined by his friends—classmates Orihime Inoue, Yasutora Sado, and Uryuu Ishida—who each have their own unique abilities. As Ichigo and his comrades get used to their new duties and support each other on and off the battlefield, the young Soul Reaper soon learns that the Hollows are not the only real threat to the human world. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/bleachName.png",
+            "BgImg":"SON/animeIMG/bleach4.jpg"
+        },
+        "anime3":  {
+            "img":"JSON/images/naruto3.jpg",
+            "imgVideo":"JSON/video/Naruto.mp4",
+            "imgDetails":"Moments prior to Naruto Uzumaki's birth, a huge demon known as the Kyuubi, the Nine-Tailed Fox, attacked Konohagakure, the Hidden Leaf Village, and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the Fourth Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto. Now, Naruto is a hyperactive and knuckle-headed ninja still living in Konohagakure. Shunned because of the Kyuubi inside him, Naruto struggles to find his place in the village, while his burning desire to become the Hokage of Konohagakure leads him not only to some great new friends, but also some deadly foes. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/naruto-logo.png",
+            "BgImg":"JSON/images/naruto-1.jpg"
+        },
+        "anime4":  {
+            "img":"JSON/animeIMG/deathnote2.jpg",
+            "imgVideo":"JSON/video/Death Note.mp4",
+            "imgDetails":"A shinigami, as a god of death, can kill any person—provided they see their victim's face and write their victim's name in a notebook called a Death Note. One day, Ryuk, bored by the shinigami lifestyle and interested in seeing how a human would use a Death Note, drops one into the human realm. High school student and prodigy Light Yagami stumbles upon the Death Note and—since he deplores the state of the world—tests the deadly notebook by writing a criminal's name in it. When the criminal dies immediately following his experiment with the Death Note, Light is greatly surprised and quickly recognizes how devastating the power that has fallen into his hands could be. With this divine capability, Light decides to extinguish all criminals in order to build a new world where crime does not exist and people worship him as a god. Police, however, quickly discover that a serial killer is targeting criminals and, consequently, try to apprehend the culprit. To do this, the Japanese investigators count on the assistance of the best detective in the world: a young and eccentric man known only by the name of L. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/deatnoteName.png",
+            "BgImg":"JSON/animeIMG/deathnote3.jpg"
+        },
+        "anime5":  {
+            "img":"JSON/animeIMG/blackclover2.jpg",
+            "imgVideo":"JSON/video/Black Clover.mp4",
+            "imgDetails":"Asta and Yuno were abandoned at the same church on the same day. Raised together as children, they came to know of the 'Wizard King'—a title given to the strongest mage in the kingdom—and promised that they would compete against each other for the position of the next Wizard King. However, as they grew up, the stark difference between them became evident. While Yuno is able to wield magic with amazing power and control, Asta cannot use magic at all and desperately tries to awaken his powers by training physically. When they reach the age of 15, Yuno is bestowed a spectacular Grimoire with a four-leaf clover, while Asta receives nothing. However, soon after, Yuno is attacked by a person named Lebuty, whose main purpose is to obtain Yuno's Grimoire. Asta tries to fight Lebuty, but he is outmatched. Though without hope and on the brink of defeat, he finds the strength to continue when he hears Yuno's voice. Unleashing his inner emotions in a rage, Asta receives a five-leaf clover Grimoire, a 'Black Clover' giving him enough power to defeat Lebuty. A few days later, the two friends head out into the world, both seeking the same goal—to become the Wizard King! [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/blackcloverName.png",
+            "BgImg":"JSON/animeIMG/blackvclover1.jpg"
+        },
+        "anime6":  {
+            "img":"JSON/animeIMG/tokyoghoul3.jpg",
+            "imgVideo":"JSON/video/Tokyo Ghoul.mp4",
+            "imgDetails":"Tokyo has become a cruel and merciless city—a place where vicious creatures called 'ghouls' exist alongside humans. The citizens of this once great metropolis live in constant fear of these bloodthirsty savages and their thirst for human flesh. However, the greatest threat these ghouls pose is their dangerous ability to masquerade as humans and blend in with society. Based on the best-selling supernatural horror manga by Sui Ishida, Tokyo Ghoul follows Ken Kaneki, a shy, bookish college student, who is instantly drawn to Rize Kamishiro, an avid reader like himself. However, Rize is not exactly who she seems, and this unfortunate meeting pushes Kaneki into the dark depths of the ghouls' inhuman world. In a twist of fate, Kaneki is saved by the enigmatic waitress Touka Kirishima, and thus begins his new, secret life as a half-ghoul/half-human who must find a way to integrate into both societies. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/tokyoName.png",
+            "BgImg":"JSON/animeIMG/tokyoghoul2.webp"
+        },
+        "anime7":  {
+            "img":"JSON/images/parasyte1.jpg",
+            "imgVideo":"JSON/video/Toonami_ Parasyte Promo English Dub.mp4",
+            "imgDetails":"A teenager battles an onslaught of parasites from space with help from Migi, a docile parasitic creature that's taken over his right hand.",
+            "imgName":"JSON/animeIMG/parsyteNmae.png",
+            "BgImg":"JSON/images/parsyte2.jpg"
+        },
+        "anime8":  {
+            "img":"JSON/animeIMG/myheroacdmi2.jpg",
+            "imgVideo":"JSON/video/My Hero Academia.mp4",
+            "imgDetails":"The appearance of 'quirks,' newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual. Since he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izuku's unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Might's quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor! Enduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this year's freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/myhroacdmiName.png",
+            "BgImg":"JSON/animeIMG/myhroacadmi3.jpg"
+        },
+        "anime9": {
+            "img":"JSON/animeIMG/seven-deadly-sins.png",
+            "imgVideo":"JSON/video/Seven Deadly Sins Season 1 _ Available Now!.mp4",
+            "imgDetails":"In a world similar to the European Middle Ages, the feared yet revered Holy Knights of Britannia use immensely powerful magic to protect the region of Britannia and its kingdoms. However, a small subset of the Knights supposedly betrayed their homeland and turned their blades against their comrades in an attempt to overthrow the ruler of Liones. They were defeated by the Holy Knights, but rumors continued to persist that these legendary knights, called the 'Seven Deadly Sins,' were still alive. Ten years later, the Holy Knights themselves staged a coup d’état, and thus became the new, tyrannical rulers of the Kingdom of Liones. Based on the best-selling manga series of the same name, Nanatsu no Taizai follows the adventures of Elizabeth, the third princess of the Kingdom of Liones, and her search for the Seven Deadly Sins. With their help, she endeavors to not only take back her kingdom from the Holy Knights, but to also seek justice in an unjust world. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/sevendeadlysinsName.png",
+            "BgImg":"JSON/animeIMG/sevendeadlysins4.jpg"
+        },
+        "anime10":  {
+
+            "img":"JSON/animeIMG/serrphoftheend1.jpg",
+            "imgVideo":"JSON/video/serphoftheend.mp4",
+            "imgDetails":"After a deadly viral plague, the few child survivors become livestock for the vampires taking over the world. But one group is fighting back.",
+            "imgName":"JSON/animeIMG/serphoftheendName.png",
+            "BgImg":"JSON/animeIMG/serphpftheend2.jpg"
+        },
+        "anime11":  {
+
+            "img":"JSON/animeIMG/chainsawman1.jpg",
+            "imgVideo":"JSON/video/Chainsaw Man - Main Trailer ／『チェンソーマン』本予告.mp4",
+            "imgDetails":"After being left for dead, Denji turns into a devil-human hybrid with chainsaw powers, and gets recruited into a governmental devil hunting agency.",
+            "imgName":"JSON/animeIMG/",
+            "BgImg":"JSON/animeIMG/"
+        },
+        "anime12":  {
+
+            "img":"JSON/animeIMG/onepuch1.jpg",
+            "imgVideo":"JSON/video/One Punch Man Official Trailer.mp4",
+            "imgDetails":"The most powerful superhero in the world can kill anyone with one blow. But nothing can challenge him, so he struggles with ennui and depression.",
+            "imgName":"JSON/animeIMG/chainsawmanName.png",
+            "BgImg":"JSON/animeIMG/chainsawman2.jpg"
+        }
+    },
+    {
+        "id": "anime9",
+        "video": "JSON/video/My Hero Academia.mp4",
+        "movie_details": "The appearance of 'quirks,' newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual. Since he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izuku's unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Might's quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor! Enduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this year's freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero. [Written by MAL Rewrite]",
+        "movieImage_name": "JSON/animeIMG/myhroacdmiName.png",
+        "background_image": "JSON/animeIMG/myhroacadmi3.jpg",
+        "anime1": {
+            "img":"JSON/animeIMG/onepiece2.jpg",
+            "imgVideo":"JSON/video/One Piece.mp4",
+            "imgDetails":"Gold Roger was known as the 'Pirate King' the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King. Enter Monkey Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy's reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/onepieceName.jpg",
+            "BgImg":"JSON/animeIMG/onepiece1.jpg"
+        },
+        "anime2":  {
+            "img":"JSON/animeIMG/bleach3.jpg",
+            "imgVideo":"JSON/video/Bleach_ Thousand-Year Blood War.mp4",
+            "imgDetails":"Ichigo Kurosaki is an ordinary high schooler—until his family is attacked by a Hollow, a corrupt spirit that seeks to devour human souls. It is then that he meets a Soul Reaper named Rukia Kuchiki, who gets injured while protecting Ichigo's family from the assailant. To save his family, Ichigo accepts Rukia's offer of taking her powers and becomes a Soul Reaper as a result. However, as Rukia is unable to regain her powers, Ichigo is given the daunting task of hunting down the Hollows that plague their town. However, he is not alone in his fight, as he is later joined by his friends—classmates Orihime Inoue, Yasutora Sado, and Uryuu Ishida—who each have their own unique abilities. As Ichigo and his comrades get used to their new duties and support each other on and off the battlefield, the young Soul Reaper soon learns that the Hollows are not the only real threat to the human world. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/bleachName.png",
+            "BgImg":"SON/animeIMG/bleach4.jpg"
+        },
+        "anime3":  {
+            "img":"JSON/images/naruto3.jpg",
+            "imgVideo":"JSON/video/Naruto.mp4",
+            "imgDetails":"Moments prior to Naruto Uzumaki's birth, a huge demon known as the Kyuubi, the Nine-Tailed Fox, attacked Konohagakure, the Hidden Leaf Village, and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the Fourth Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto. Now, Naruto is a hyperactive and knuckle-headed ninja still living in Konohagakure. Shunned because of the Kyuubi inside him, Naruto struggles to find his place in the village, while his burning desire to become the Hokage of Konohagakure leads him not only to some great new friends, but also some deadly foes. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/naruto-logo.png",
+            "BgImg":"JSON/images/naruto-1.jpg"
+        },
+        "anime4":  {
+            "img":"JSON/animeIMG/deathnote2.jpg",
+            "imgVideo":"JSON/video/Death Note.mp4",
+            "imgDetails":"A shinigami, as a god of death, can kill any person—provided they see their victim's face and write their victim's name in a notebook called a Death Note. One day, Ryuk, bored by the shinigami lifestyle and interested in seeing how a human would use a Death Note, drops one into the human realm. High school student and prodigy Light Yagami stumbles upon the Death Note and—since he deplores the state of the world—tests the deadly notebook by writing a criminal's name in it. When the criminal dies immediately following his experiment with the Death Note, Light is greatly surprised and quickly recognizes how devastating the power that has fallen into his hands could be. With this divine capability, Light decides to extinguish all criminals in order to build a new world where crime does not exist and people worship him as a god. Police, however, quickly discover that a serial killer is targeting criminals and, consequently, try to apprehend the culprit. To do this, the Japanese investigators count on the assistance of the best detective in the world: a young and eccentric man known only by the name of L. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/deatnoteName.png",
+            "BgImg":"JSON/animeIMG/deathnote3.jpg"
+        },
+        "anime5":  {
+            "img":"JSON/animeIMG/blackclover2.jpg",
+            "imgVideo":"JSON/video/Black Clover.mp4",
+            "imgDetails":"Asta and Yuno were abandoned at the same church on the same day. Raised together as children, they came to know of the 'Wizard King'—a title given to the strongest mage in the kingdom—and promised that they would compete against each other for the position of the next Wizard King. However, as they grew up, the stark difference between them became evident. While Yuno is able to wield magic with amazing power and control, Asta cannot use magic at all and desperately tries to awaken his powers by training physically. When they reach the age of 15, Yuno is bestowed a spectacular Grimoire with a four-leaf clover, while Asta receives nothing. However, soon after, Yuno is attacked by a person named Lebuty, whose main purpose is to obtain Yuno's Grimoire. Asta tries to fight Lebuty, but he is outmatched. Though without hope and on the brink of defeat, he finds the strength to continue when he hears Yuno's voice. Unleashing his inner emotions in a rage, Asta receives a five-leaf clover Grimoire, a 'Black Clover' giving him enough power to defeat Lebuty. A few days later, the two friends head out into the world, both seeking the same goal—to become the Wizard King! [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/blackcloverName.png",
+            "BgImg":"JSON/animeIMG/blackvclover1.jpg"
+        },
+        "anime6":  {
+            "img":"JSON/animeIMG/tokyoghoul3.jpg",
+            "imgVideo":"JSON/video/Tokyo Ghoul.mp4",
+            "imgDetails":"Tokyo has become a cruel and merciless city—a place where vicious creatures called 'ghouls' exist alongside humans. The citizens of this once great metropolis live in constant fear of these bloodthirsty savages and their thirst for human flesh. However, the greatest threat these ghouls pose is their dangerous ability to masquerade as humans and blend in with society. Based on the best-selling supernatural horror manga by Sui Ishida, Tokyo Ghoul follows Ken Kaneki, a shy, bookish college student, who is instantly drawn to Rize Kamishiro, an avid reader like himself. However, Rize is not exactly who she seems, and this unfortunate meeting pushes Kaneki into the dark depths of the ghouls' inhuman world. In a twist of fate, Kaneki is saved by the enigmatic waitress Touka Kirishima, and thus begins his new, secret life as a half-ghoul/half-human who must find a way to integrate into both societies. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/tokyoName.png",
+            "BgImg":"JSON/animeIMG/tokyoghoul2.webp"
+        },
+        "anime7":  {
+            "img":"JSON/animeIMG/deomslayer2.jpg",
+            "imgVideo":"JSON/video/Demon Slayer.mp4",
+            "imgDetails":"Since ancient times, rumors have abounded of man-eating Demons lurking in the woods. Because of this, the local townsfolk never venture outside at night. Legend has it that a Demon Slayer also roams the night, hunting down these bloodthirsty Demons. For young Tanjiro Kamado, these rumors will soon to become his harsh reality. Ever since the death of his father, Tanjiro has taken it upon himself to support his family. Although their lives may be hardened by tragedy, they've found happiness. But that ephemeral warmth is shattered one day when Tanjiro finds his family slaughtered and the lone survivor, his sister Nezuko Kamado, turned into a Demon. To his surprise, however, Nezuko still shows signs of human emotion and thought. Thus begins Tanjiro's journey to seek out the Demon who killed their family and turn his sister human again",
+            "imgName":"JSON/animeIMG/demonslayeNme.png",
+            "BgImg":"JSON/animeIMG/demonslayer3.jpg"
+        },
+        "anime8":  {
+            "img":"JSON/images/parasyte1.jpg",
+            "imgVideo":"JSON/video/Toonami_ Parasyte Promo English Dub.mp4",
+            "imgDetails":"A teenager battles an onslaught of parasites from space with help from Migi, a docile parasitic creature that's taken over his right hand.",
+            "imgName":"JSON/animeIMG/parsyteNmae.png",
+            "BgImg":"JSON/images/parsyte2.jpg"
+        },
+        "anime9": {
+            "img":"JSON/animeIMG/seven-deadly-sins.png",
+            "imgVideo":"JSON/video/Seven Deadly Sins Season 1 _ Available Now!.mp4",
+            "imgDetails":"In a world similar to the European Middle Ages, the feared yet revered Holy Knights of Britannia use immensely powerful magic to protect the region of Britannia and its kingdoms. However, a small subset of the Knights supposedly betrayed their homeland and turned their blades against their comrades in an attempt to overthrow the ruler of Liones. They were defeated by the Holy Knights, but rumors continued to persist that these legendary knights, called the 'Seven Deadly Sins,' were still alive. Ten years later, the Holy Knights themselves staged a coup d’état, and thus became the new, tyrannical rulers of the Kingdom of Liones. Based on the best-selling manga series of the same name, Nanatsu no Taizai follows the adventures of Elizabeth, the third princess of the Kingdom of Liones, and her search for the Seven Deadly Sins. With their help, she endeavors to not only take back her kingdom from the Holy Knights, but to also seek justice in an unjust world. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/sevendeadlysinsName.png",
+            "BgImg":"JSON/animeIMG/sevendeadlysins4.jpg"
+        },
+        "anime10":  {
+
+            "img":"JSON/animeIMG/serrphoftheend1.jpg",
+            "imgVideo":"JSON/video/serphoftheend.mp4",
+            "imgDetails":"After a deadly viral plague, the few child survivors become livestock for the vampires taking over the world. But one group is fighting back.",
+            "imgName":"JSON/animeIMG/serphoftheendName.png",
+            "BgImg":"JSON/animeIMG/serphpftheend2.jpg"
+        },
+        "anime11":  {
+
+            "img":"JSON/animeIMG/chainsawman1.jpg",
+            "imgVideo":"JSON/video/Chainsaw Man - Main Trailer ／『チェンソーマン』本予告.mp4",
+            "imgDetails":"After being left for dead, Denji turns into a devil-human hybrid with chainsaw powers, and gets recruited into a governmental devil hunting agency.",
+            "imgName":"JSON/animeIMG/",
+            "BgImg":"JSON/animeIMG/"
+        },
+        "anime12":  {
+
+            "img":"JSON/animeIMG/onepuch1.jpg",
+            "imgVideo":"JSON/video/One Punch Man Official Trailer.mp4",
+            "imgDetails":"The most powerful superhero in the world can kill anyone with one blow. But nothing can challenge him, so he struggles with ennui and depression.",
+            "imgName":"JSON/animeIMG/chainsawmanName.png",
+            "BgImg":"JSON/animeIMG/chainsawman2.jpg"
+        }
+    },
+    {
+        "id": "anime10",
+        "video": "JSON/video/Seven Deadly Sins Season 1 _ Available Now!.mp4",
+        "movie_details": "In a world similar to the European Middle Ages, the feared yet revered Holy Knights of Britannia use immensely powerful magic to protect the region of Britannia and its kingdoms. However, a small subset of the Knights supposedly betrayed their homeland and turned their blades against their comrades in an attempt to overthrow the ruler of Liones. They were defeated by the Holy Knights, but rumors continued to persist that these legendary knights, called the 'Seven Deadly Sins,' were still alive. Ten years later, the Holy Knights themselves staged a coup d’état, and thus became the new, tyrannical rulers of the Kingdom of Liones. Based on the best-selling manga series of the same name, Nanatsu no Taizai follows the adventures of Elizabeth, the third princess of the Kingdom of Liones, and her search for the Seven Deadly Sins. With their help, she endeavors to not only take back her kingdom from the Holy Knights, but to also seek justice in an unjust world. [Written by MAL Rewrite] ",
+        "movieImage_name": "JSON/animeIMG/sevendeadlysinsName.png",
+        "background_image": "JSON/animeIMG/sevendeadlysins4.jpg",
+        "anime1": {
+            "img":"JSON/animeIMG/onepiece2.jpg",
+            "imgVideo":"JSON/video/One Piece.mp4",
+            "imgDetails":"Gold Roger was known as the 'Pirate King' the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King. Enter Monkey Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy's reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/onepieceName.jpg",
+            "BgImg":"JSON/animeIMG/onepiece1.jpg"
+        },
+        "anime2":  {
+            "img":"JSON/animeIMG/bleach3.jpg",
+            "imgVideo":"JSON/video/Bleach_ Thousand-Year Blood War.mp4",
+            "imgDetails":"Ichigo Kurosaki is an ordinary high schooler—until his family is attacked by a Hollow, a corrupt spirit that seeks to devour human souls. It is then that he meets a Soul Reaper named Rukia Kuchiki, who gets injured while protecting Ichigo's family from the assailant. To save his family, Ichigo accepts Rukia's offer of taking her powers and becomes a Soul Reaper as a result. However, as Rukia is unable to regain her powers, Ichigo is given the daunting task of hunting down the Hollows that plague their town. However, he is not alone in his fight, as he is later joined by his friends—classmates Orihime Inoue, Yasutora Sado, and Uryuu Ishida—who each have their own unique abilities. As Ichigo and his comrades get used to their new duties and support each other on and off the battlefield, the young Soul Reaper soon learns that the Hollows are not the only real threat to the human world. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/bleachName.png",
+            "BgImg":"SON/animeIMG/bleach4.jpg"
+        },
+        "anime3":  {
+            "img":"JSON/images/naruto3.jpg",
+            "imgVideo":"JSON/video/Naruto.mp4",
+            "imgDetails":"Moments prior to Naruto Uzumaki's birth, a huge demon known as the Kyuubi, the Nine-Tailed Fox, attacked Konohagakure, the Hidden Leaf Village, and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the Fourth Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto. Now, Naruto is a hyperactive and knuckle-headed ninja still living in Konohagakure. Shunned because of the Kyuubi inside him, Naruto struggles to find his place in the village, while his burning desire to become the Hokage of Konohagakure leads him not only to some great new friends, but also some deadly foes. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/naruto-logo.png",
+            "BgImg":"JSON/images/naruto-1.jpg"
+        },
+        "anime4":  {
+            "img":"JSON/animeIMG/deathnote2.jpg",
+            "imgVideo":"JSON/video/Death Note.mp4",
+            "imgDetails":"A shinigami, as a god of death, can kill any person—provided they see their victim's face and write their victim's name in a notebook called a Death Note. One day, Ryuk, bored by the shinigami lifestyle and interested in seeing how a human would use a Death Note, drops one into the human realm. High school student and prodigy Light Yagami stumbles upon the Death Note and—since he deplores the state of the world—tests the deadly notebook by writing a criminal's name in it. When the criminal dies immediately following his experiment with the Death Note, Light is greatly surprised and quickly recognizes how devastating the power that has fallen into his hands could be. With this divine capability, Light decides to extinguish all criminals in order to build a new world where crime does not exist and people worship him as a god. Police, however, quickly discover that a serial killer is targeting criminals and, consequently, try to apprehend the culprit. To do this, the Japanese investigators count on the assistance of the best detective in the world: a young and eccentric man known only by the name of L. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/deatnoteName.png",
+            "BgImg":"JSON/animeIMG/deathnote3.jpg"
+        },
+        "anime5":  {
+            "img":"JSON/animeIMG/blackclover2.jpg",
+            "imgVideo":"JSON/video/Black Clover.mp4",
+            "imgDetails":"Asta and Yuno were abandoned at the same church on the same day. Raised together as children, they came to know of the 'Wizard King'—a title given to the strongest mage in the kingdom—and promised that they would compete against each other for the position of the next Wizard King. However, as they grew up, the stark difference between them became evident. While Yuno is able to wield magic with amazing power and control, Asta cannot use magic at all and desperately tries to awaken his powers by training physically. When they reach the age of 15, Yuno is bestowed a spectacular Grimoire with a four-leaf clover, while Asta receives nothing. However, soon after, Yuno is attacked by a person named Lebuty, whose main purpose is to obtain Yuno's Grimoire. Asta tries to fight Lebuty, but he is outmatched. Though without hope and on the brink of defeat, he finds the strength to continue when he hears Yuno's voice. Unleashing his inner emotions in a rage, Asta receives a five-leaf clover Grimoire, a 'Black Clover' giving him enough power to defeat Lebuty. A few days later, the two friends head out into the world, both seeking the same goal—to become the Wizard King! [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/blackcloverName.png",
+            "BgImg":"JSON/animeIMG/blackvclover1.jpg"
+        },
+        "anime6":  {
+            "img":"JSON/animeIMG/tokyoghoul3.jpg",
+            "imgVideo":"JSON/video/Tokyo Ghoul.mp4",
+            "imgDetails":"Tokyo has become a cruel and merciless city—a place where vicious creatures called 'ghouls' exist alongside humans. The citizens of this once great metropolis live in constant fear of these bloodthirsty savages and their thirst for human flesh. However, the greatest threat these ghouls pose is their dangerous ability to masquerade as humans and blend in with society. Based on the best-selling supernatural horror manga by Sui Ishida, Tokyo Ghoul follows Ken Kaneki, a shy, bookish college student, who is instantly drawn to Rize Kamishiro, an avid reader like himself. However, Rize is not exactly who she seems, and this unfortunate meeting pushes Kaneki into the dark depths of the ghouls' inhuman world. In a twist of fate, Kaneki is saved by the enigmatic waitress Touka Kirishima, and thus begins his new, secret life as a half-ghoul/half-human who must find a way to integrate into both societies. [Written by MAL Rewrite] ",
+            "imgName":"JSON/animeIMG/tokyoName.png",
+            "BgImg":"JSON/animeIMG/tokyoghoul2.webp"
+        },
+        "anime7":  {
+            "img":"JSON/animeIMG/deomslayer2.jpg",
+            "imgVideo":"JSON/video/Demon Slayer.mp4",
+            "imgDetails":"Since ancient times, rumors have abounded of man-eating Demons lurking in the woods. Because of this, the local townsfolk never venture outside at night. Legend has it that a Demon Slayer also roams the night, hunting down these bloodthirsty Demons. For young Tanjiro Kamado, these rumors will soon to become his harsh reality. Ever since the death of his father, Tanjiro has taken it upon himself to support his family. Although their lives may be hardened by tragedy, they've found happiness. But that ephemeral warmth is shattered one day when Tanjiro finds his family slaughtered and the lone survivor, his sister Nezuko Kamado, turned into a Demon. To his surprise, however, Nezuko still shows signs of human emotion and thought. Thus begins Tanjiro's journey to seek out the Demon who killed their family and turn his sister human again",
+            "imgName":"JSON/animeIMG/demonslayeNme.png",
+            "BgImg":"JSON/animeIMG/demonslayer3.jpg"
+        },
+        "anime8":  {
+            "img":"JSON/animeIMG/myheroacdmi2.jpg",
+            "imgVideo":"JSON/video/My Hero Academia.mp4",
+            "imgDetails":"The appearance of 'quirks,' newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual. Since he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izuku's unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Might's quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor! Enduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this year's freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero. [Written by MAL Rewrite]",
+            "imgName":"JSON/animeIMG/myhroacdmiName.png",
+            "BgImg":"JSON/animeIMG/myhroacadmi3.jpg"
+        },
+        "anime9": {
+            "img":"JSON/images/parasyte1.jpg",
+            "imgVideo":"JSON/video/Toonami_ Parasyte Promo English Dub.mp4",
+            "imgDetails":"A teenager battles an onslaught of parasites from space with help from Migi, a docile parasitic creature that's taken over his right hand.",
+            "imgName":"JSON/animeIMG/parsyteNmae.png",
+            "BgImg":"JSON/images/parsyte2.jpg"
+        },
+        "anime10":  {
+
+            "img":"JSON/animeIMG/serrphoftheend1.jpg",
+            "imgVideo":"JSON/video/serphoftheend.mp4",
+            "imgDetails":"After a deadly viral plague, the few child survivors become livestock for the vampires taking over the world. But one group is fighting back.",
+            "imgName":"JSON/animeIMG/serphoftheendName.png",
+            "BgImg":"JSON/animeIMG/serphpftheend2.jpg"
+        },
+        "anime11":  {
+
+            "img":"JSON/animeIMG/chainsawman1.jpg",
+            "imgVideo":"JSON/video/Chainsaw Man - Main Trailer ／『チェンソーマン』本予告.mp4",
+            "imgDetails":"After being left for dead, Denji turns into a devil-human hybrid with chainsaw powers, and gets recruited into a governmental devil hunting agency.",
+            "imgName":"JSON/animeIMG/",
+            "BgImg":"JSON/animeIMG/"
+        },
+        "anime12":  {
+
+            "img":"JSON/animeIMG/onepuch1.jpg",
+            "imgVideo":"JSON/video/One Punch Man Official Trailer.mp4",
+            "imgDetails":"The most powerful superhero in the world can kill anyone with one blow. But nothing can challenge him, so he struggles with ennui and depression.",
+            "imgName":"JSON/animeIMG/chainsawmanName.png",
+            "BgImg":"JSON/animeIMG/chainsawman2.jpg"
+        }
+    }
+]

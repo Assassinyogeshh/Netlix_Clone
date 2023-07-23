@@ -1,0 +1,728 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #181818;
+    overflow-x: hidden;
+
+}
+
+header {
+  display: flex;
+  background-color: black;
+color: white;
+  height: 3.5rem;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.contain_header {
+  position: relative;
+  height: 3.5rem;
+  top: 0;
+
+  width: 100%;
+}
+
+header img {
+  margin-left: 2.5rem;
+  margin-top: 1rem;
+  width: 7rem;
+  height: 2rem;
+
+
+}
+
+.headerButton{
+  display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 38vw;
+    margin-right: 1rem;
+    height: 100%;
+}
+
+#NavBtn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 25px;
+}
+
+#NavBtn p{
+  font-size: 13px;
+}
+
+.joinN_Btn{
+  background-color: red;
+  color: white;
+  height: 2rem;
+  width: 7rem;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.Sign_In{
+  color: white;
+  height: 1.89rem;
+  width: 7rem;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  background: none;
+  border: 1px solid;
+}
+
+
+.movies_container {
+
+  display: flex;
+  flex-direction: column;
+  row-gap: 5rem;
+  margin-top: 6rem;
+
+}
+
+
+
+
+
+.section_heading {
+  margin-left: 1rem;
+  height: 100vh;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  height: 25rem;
+  margin-top: -15rem;
+  margin-bottom: 9rem;
+}
+
+.bg_video {
+
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  width: 100vw;
+  margin: auto;
+  overflow-x: hidden;
+
+}
+
+.video_holder {
+  position: absolute;
+  display: grid;
+  grid-template-columns: repeat(3, 74rem);
+  column-gap: 2rem;
+  margin-left: 3rem;
+  margin-top: -5rem;
+
+}
+
+.background_video {
+  margin: auto;
+  height: 37rem;
+  margin-left: 4rem;
+  padding-left: 2rem;
+
+
+}
+
+.video_slide_back {
+  position: relative;
+  margin: 11rem 0rem 0px 7rem;
+  z-index: 1;
+  background: none;
+  border: none;
+  height: 3rem;
+  width: 2rem;
+
+}
+
+.video_slide_back img {
+  width: 72%;
+  height: 98%;
+}
+
+.video_slide_forward img {
+  width: 72%;
+  height: 98%;
+}
+
+.video_slide_forward {
+  z-index: 1;
+  background: none;
+  border: none;
+  height: 3rem;
+  width: 2rem;
+  margin: 11rem 0 0 66rem;
+}
+
+
+
+.move {
+  margin-top: 5rem;
+  display: flex;
+
+  margin-left: 2rem;
+  flex-direction: column;
+  position: relative;
+  z-index: 5;
+  width: 100vw;
+  height: 41vh;
+}
+
+.move h5 {
+  font-size: 1.5rem;
+  width: 33rem;
+}
+
+
+
+.movie_sections {
+
+  display: flex;
+  flex-direction: row;
+  margin-left: 1rem;
+  height: 18rem;
+  position: absolute;
+  z-index: 5;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100vw;
+}
+
+.previous-btn {
+  height: 15rem;
+  width: 2rem;
+  cursor: pointer;
+  margin-left: -84rem;
+
+  border: none;
+  background: none;
+}
+
+.next-btn {
+  height: 15rem;
+  width: 2rem;
+  cursor: pointer;
+  margin-right: -76rem;
+  padding-right: 2.5rem;
+  border: none;
+  background: none;
+
+}
+
+.previous-btn img {
+  height: 31px;
+  width: 20px;
+
+}
+
+.next-btn img {
+  height: 31px;
+  width: 20px;
+
+}
+
+.anime_movie_row {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+
+  overflow-x: hidden;
+
+  align-items: center;
+  width: 92%;
+  height: 17rem;
+  margin-right: 9rem;
+
+}
+
+.move-hori {
+  display: flex;
+  flex-direction: row;
+
+  height: 100%;
+  align-items: center;
+  column-gap: 0.5rem;
+
+}
+
+
+
+.anime {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  row-gap: 7px;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  overflow: hidden;
+
+}
+
+.anime p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 1.3rem;
+}
+
+.anime img {
+  max-height: 168px;
+  width: 19rem;
+
+
+  transition: all 0.4s ease-in-out;
+
+}
+
+.anime img:hover {
+  max-height: 35rem;
+  width: 22rem;
+
+}
+#contain_BlurSection{
+  height: 66vh;
+  color: white;
+}
+
+#blur_section{
+  filter: blur(10px);
+  height: 52vh;
+ user-select: none;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  overflow-y: hidden;
+  margin-top: -17%;
+  padding-top: 2rem;
+  pointer-events: none;
+}
+
+
+
+.iam_Blur{
+  margin-top: -7rem;
+  margin-bottom: 22%;
+  height: 25%;
+  width: 100%;
+
+}
+
+.moreToWatch{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4%;
+  width: 100%;
+  row-gap: 2rem;
+}
+
+
+.moreToWatch p{
+  font-size: 1.5rem;
+  text-align: center;
+  width: 55%;
+}
+
+.moreToWatch button{
+  background-color: red;
+  color: white;
+  height: 3.4rem;
+  width: 12.5rem;
+  font-size: 23px;
+  font-weight: 500;
+}
+
+
+footer{
+  display: grid;
+  grid-template-columns: 1fr;
+  margin-top: 5rem;
+  row-gap: 2rem;
+  margin-bottom: 4rem;
+  column-gap: 1rem;
+  width: 65rem;
+  margin-left: 4.5rem;
+}
+footer h4{
+  color: #737373;
+  font-weight: 400;
+}
+.footer_section{
+  color: #737373;
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  grid-template-rows: repeat(4,1fr);
+  row-gap: 1rem;
+  column-gap: 10px;
+  font-size: 15px;
+}
+.LNG-SLCT{
+  width: 6rem;
+  background-color: #000;
+  /* background-image: none; */
+  color: gray;
+  border: 1px solid #333;
+  height: 3rem;
+}
+footer p{
+  color: #737373;
+}
+
+@media (max-width:414px) {
+
+
+
+  header {
+    justify-content: start;
+  }
+
+  header img {
+    width: 5rem;
+    height: 1.8rem;
+    margin-top: 10px;
+    margin-left: 22px;
+    
+  }
+
+  .headerButton{
+    margin-left: 3.5rem;
+    width: 15rem;
+    column-gap: 5px;
+  }
+
+  #NavBtn{
+    column-gap: 0;
+    width: 11rem;
+  }
+
+  #NavBtn p{
+    font-size: 9px;
+  }
+  .joinN_Btn{
+    height: 29px;
+    width: 111px;
+  }
+  .Sign_In{
+    height: 26px;
+    width: 103px;
+    font-size: 11px;
+  }
+
+  .movies_container{
+    
+    margin-top: -1rem;
+ 
+  }
+
+  .bg_video{
+    width: 100vw;
+    height: 39vh;
+    margin: 0;
+    margin-top: 1rem;
+  }
+
+  .video_holder{
+    margin: 1rem 0 0px 0rem;
+    grid-template-columns: repeat(3, 99%);
+    justify-items: center;
+    align-items: center;
+    column-gap: 12%;
+   
+  }
+
+  .background_video{
+    height: 100%;
+    width: 100%;
+    margin-left: 0;
+    padding: -1rem;
+    padding-left: 0;
+  }
+  .video_slide_back{
+    margin: 8rem 0rem 0px 0rem;
+    background-color: red;
+    width: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 2rem;
+    width: 2rem;
+  }
+
+  .video_slide_back img{
+    width: 48%;
+    height: 72%;
+  }
+
+  .video_slide_forward{
+    margin: 8rem 0rem 0px 22rem;
+    background-color: red;
+    width: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 2rem;
+    width: 2rem;
+  }
+  .video_slide_forward img{
+    width: 48%;
+    height: 72%;
+  }
+
+
+  .section_heading{
+    position: relative;
+    height: 11rem;
+    margin-top: -11rem;
+    margin-bottom: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+   
+  }
+
+  .move{
+    position: absolute;
+    width: 100vw;
+    height: 100%;
+    margin-left: 1rem;
+    margin-top: 2rem;
+  }
+
+  .move h5{
+    font-size: 14px;
+    margin-top: 1rem;
+    font-weight: 500;
+    width: 100vw;
+  }
+
+  .movie_sections{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    margin-left: 1.5rem;
+
+  }
+
+  .anime-name{
+    height: 100%;
+  }
+
+  .previous-btn{
+    position: absolute;
+    margin: 0 30rem 30px 0;
+        height: 3rem;
+    width: 1rem;
+  }
+
+  .previous-btn img{
+    height: 14px;
+    width: 7px;
+  }
+
+  .next-btn{
+    position: absolute;
+    margin: 0 0 30px 22.4rem;
+
+    height: 3rem;
+    width: 1rem;
+  }
+
+  .next-btn img{
+    height: 14px;
+    width: 7px;
+  }
+
+  .anime_movie_row{
+    position: absolute;
+    margin-right: 5rem;
+    height: 100%;
+    width: 96%;
+  }
+
+  .move-hori{
+    position: absolute;
+    column-gap: 3px;
+  }
+
+  .anime{
+    height: 51%;
+  }
+  .anime img{
+    width: 5.9rem;
+    }
+  .anime p{
+    font-size: 6px;
+    font-weight: 500;
+    height: 1rem;
+  }
+
+   #contain_BlurSection{
+    height: 21vh;
+   }
+   
+   #blur_section{
+    margin-top: -59%;
+    height: 25vh;
+   }
+
+   .iam_Blur{
+    margin-top: 3rem;
+    margin-bottom: -5rem;
+   }
+   
+   .moreToWatch{
+    margin-top: 6%;
+    row-gap: 0.9rem;
+   }
+   .moreToWatch h1{
+    font-size: 20px;
+   }
+
+   .moreToWatch p{
+    font-size: 14px;
+    width: 87%;
+    line-height: 173%;
+    font-weight: 500;
+}
+   
+
+   .moreToWatch button{
+    font-size: 14px;
+    width: 8rem;
+    height: 2.1rem;
+    font-weight: 400;
+   }
+
+   footer{
+    margin-top: 14rem;
+    row-gap: 0;
+    margin-bottom: 4rem;
+    column-gap: 0;
+    width: 65rem;
+    margin-left: 2.1rem;
+    height: 35vh;
+  }
+  footer h4{
+    font-size: 13px;
+    font-weight: 600;
+    margin-top: -17%;
+    height: 1.5rem;
+  }
+  .footer_section{
+    grid-template-columns: repeat(4,5rem);
+    grid-template-rows: repeat(4,29px);
+    row-gap: 1px;
+    column-gap: 0px;
+    font-size: 11px;
+    margin-top: -19%;
+  }
+ 
+
+.LNG-SLCT{
+  height: 26px;
+  font-size: 12px;
+  width: 76px;
+  margin-top: -14%;
+}
+ footer p{
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: -17%;
+ }
+
+
+}
+
+
+
+@media(max-width:375px){
+
+header{
+  column-gap: 17px;
+}
+
+.headerButton{
+  width: 62%;
+  margin-left: 1rem;
+}
+
+.movies_container{
+  margin-top: -25px;
+}
+
+.video_slide_forward{
+  margin-left: 19rem;
+}
+.move{
+  width: 96vw;
+  margin-left: 29px;
+}
+.previous-btn{
+  margin-right: 27.5rem;
+}
+
+.next-btn{
+  margin-left: 20rem;
+}
+
+
+#contain_BlurSection{
+  height: 26vh;
+}
+
+#blur_section{
+  margin-top: -13rem;
+  height: 32vh;
+}
+
+.iam_Blur{
+  
+  margin-bottom: -3rem;
+  margin-top: 2rem;
+  height: 8rem;
+
+}
+.moreToWatch{
+  margin-top: 6%;
+  row-gap: 0.9rem;
+}
+.moreToWatch h1{
+  font-size: 15px;
+}
+
+.moreToWatch p{
+  font-size: 13px;
+  width: 89%;
+  line-height: 171%;
+  font-weight: 500;
+}
+
+.moreToWatch button{
+  font-size: 11px;
+  width: 5rem;
+  height: 28px;
+  font-weight: 400;
+}
+
+footer{
+  margin-top: 17rem;
+}
+
+}
