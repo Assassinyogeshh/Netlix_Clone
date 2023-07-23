@@ -953,4 +953,15 @@ width: 69%;
         height: 46vh;
     }
 
+     .btn2 {
+        text-decoration: none;
+        color: inherit;
+        width: 100%;
+     
+    }
+    .btn3{
+        font-size: 7.5px;
+        
+    }
+
 }
