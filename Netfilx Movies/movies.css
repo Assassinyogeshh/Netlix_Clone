@@ -435,6 +435,7 @@ footer p{
     height: 39vh;
     margin: 0;
     margin-top: 1rem;
+    
   }
 
   .video_holder{
@@ -487,12 +488,13 @@ footer p{
 
   .section_heading{
     position: relative;
-    height: 11rem;
-    margin-top: -11rem;
-    margin-bottom: 3rem;
+    height: 13rem;
+    margin-top: -10rem;
+    margin-bottom: 7rem;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-left: 0rem;
 
    
   }
@@ -501,22 +503,26 @@ footer p{
     position: absolute;
     width: 100vw;
     height: 100%;
-    margin-left: 1rem;
-    margin-top: 2rem;
+    justify-content: center;
+    align-items: center;
+    row-gap: 0rem;
+    margin-top: 0;
   }
 
   .move h5{
     font-size: 14px;
-    margin-top: 1rem;
     font-weight: 500;
     width: 100vw;
+    margin-left: 0;
+    margin-bottom: 11rem;
   }
 
   .movie_sections{
     position: absolute;
     height: 100%;
     width: 100%;
-    margin-left: 1.5rem;
+    margin-left: 0;
+    justify-content: start;
 
   }
 
@@ -524,36 +530,24 @@ footer p{
     height: 100%;
   }
 
+  
+
   .previous-btn{
-    position: absolute;
-    margin: 0 30rem 30px 0;
-        height: 3rem;
-    width: 1rem;
+   display: none;
   }
 
-  .previous-btn img{
-    height: 14px;
-    width: 7px;
-  }
 
   .next-btn{
-    position: absolute;
-    margin: 0 0 30px 22.4rem;
-
-    height: 3rem;
-    width: 1rem;
+  display: none;
   }
 
-  .next-btn img{
-    height: 14px;
-    width: 7px;
-  }
+ 
 
   .anime_movie_row{
     position: absolute;
-    margin-right: 5rem;
     height: 100%;
     width: 96%;
+    overflow-x: scroll;
   }
 
   .move-hori{
@@ -562,24 +556,22 @@ footer p{
   }
 
   .anime{
-    height: 51%;
+    height: 74%;
   }
   .anime img{
-    width: 5.9rem;
+    width: 12rem;
+    max-height: 8rem;
     }
-  
-
-.anime img:hover {
-  max-height: 6rem;
-  width: 8rem;
-
-}
   .anime p{
-    font-size: 6px;
+    font-size: 12px;
     font-weight: 500;
-    height: 1rem;
+    height: 2rem;
   }
-
+  .anime img:hover {
+    max-height: 13rem;
+    width: 14rem;
+  
+  }
    #contain_BlurSection{
     height: 21vh;
    }
@@ -618,18 +610,14 @@ footer p{
    }
 
    footer{
-    margin-top: 14rem;
-    row-gap: 0;
-    margin-bottom: 4rem;
-    column-gap: 0;
-    width: 65rem;
-    margin-left: 2.1rem;
-    height: 35vh;
+    margin-left: 1.1rem;
+    height: 75vh;
+    display: flex;
+    flex-direction: column;
   }
   footer h4{
     font-size: 13px;
     font-weight: 600;
-    margin-top: -17%;
     height: 1.5rem;
   }
   .footer_section{
@@ -638,7 +626,6 @@ footer p{
     row-gap: 1px;
     column-gap: 0px;
     font-size: 11px;
-    margin-top: -19%;
   }
  
 
@@ -646,12 +633,11 @@ footer p{
   height: 26px;
   font-size: 12px;
   width: 76px;
-  margin-top: -14%;
 }
  footer p{
+    /* updated */
   font-size: 14px;
   font-weight: 400;
-  margin-top: -17%;
  }
 
 
@@ -674,6 +660,10 @@ header{
   margin-top: -25px;
 }
 
+.bg_video{
+  margin-bottom: 3rem;
+}
+
 .video_slide_forward{
   margin-left: 19rem;
 }
@@ -681,20 +671,16 @@ header{
   width: 96vw;
   margin-left: 29px;
 }
-  
-
-.anime img:hover {
-  max-height: 5rem;
-  width: 7rem;
-
-}
 .previous-btn{
-  margin-right: 27.5rem;
+display: none;
 }
 
 .next-btn{
-  margin-left: 20rem;
+ display: none;
 }
+
+ 
+
 
 
 #contain_BlurSection{
@@ -736,7 +722,13 @@ header{
 }
 
 footer{
-  margin-top: 17rem;
+    /* updated */
+  margin-top: 4rem;
+  display: flex;
+  flex-direction: column;
+  row-gap: 19px;
+  height: 64vh;
+  margin-left: 1rem;
 }
 
 }
