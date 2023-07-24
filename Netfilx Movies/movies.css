@@ -456,13 +456,12 @@ footer p{
   }
   .video_slide_back{
     margin: 8rem 0rem 0px 0rem;
-    background-color: red;
     width: 1rem;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 2rem;
-    width: 2rem;
+        height: 4rem;
+    width: 2.9rem;
   }
 
   .video_slide_back img{
@@ -472,13 +471,12 @@ footer p{
 
   .video_slide_forward{
     margin: 8rem 0rem 0px 22rem;
-    background-color: red;
     width: 1rem;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 2rem;
-    width: 2rem;
+        height: 4rem;
+    width: 2.9rem;
   }
   .video_slide_forward img{
     width: 48%;
